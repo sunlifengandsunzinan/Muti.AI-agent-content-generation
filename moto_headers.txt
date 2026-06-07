@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Sat, 06 Jun 2026 15:48:42 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Location: https://www.yiche.com/
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Date: Sat, 06 Jun 2026 15:37:53 GMT
+Server: APISIX/3.9.1
+Content-Length: 1226253
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 5426645879083928327
+Connection: keep-alive
+X-Cache-Lookup: Cache Hit
+
