@@ -1,0 +1,124 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-07-09T10:24:00+08:00",
+  "account": {
+    "name":"40了，得干点儿啥了",
+    "douyinId":"48881167027",
+    "followers":6,
+    "following":6,
+    "likes":91,
+    "videos":22,
+    "description":"七年7600km慢跑治愈｜40岁农村长大的孩子 ｜ 不讲大道理，就说跑步后慢慢想明白的事",
+    "location":"辽宁·沈阳"
+  },
+  "ranking": {
+    "lastUpdated":"2026-07-09T10:24:00+08:00",
+    "source":"浏览器采集 account页面数据",
+    "videos":[
+      {"rank":1,"title":"那把镰刀，一开始我就没整明白（置顶）","plays":3560,"status":"steady","material":"material-01"},
+      {"rank":2,"title":"妈妈那句话，成了我心底的结（置顶）","plays":3197,"status":"steady","material":null},
+      {"rank":3,"title":"40岁的人，一个月只有5个粉丝，意味着什么？","plays":2158,"status":"steady","material":null},
+      {"rank":4,"title":"那句\"不\"，最后我说成了\"行吧\"（置顶）","plays":1162,"status":"steady","material":"material-05"},
+      {"rank":5,"title":"3张旧照片重启人生","plays":161,"status":"steady","material":null},
+      {"rank":6,"title":"中考差的这1分，用了快30年","plays":998,"status":"steady","material":null},
+      {"rank":7,"title":"去跑步出门前几分钟，你纠结过没？","plays":454,"status":"steady","material":null},
+      {"rank":8,"title":"你没说，后来就成应该做的了","plays":383,"status":"steady","material":"material-03"},
+      {"rank":9,"title":"想了一天没想起来，跑着步突然愣住","plays":363,"status":"steady","material":null},
+      {"rank":10,"title":"掰不动苞米，杵那干着急","plays":232,"status":"steady","material":"material-01"},
+      {"rank":11,"title":"换别人可能就过去了","plays":228,"status":"steady","material":"material-06"},
+      {"rank":12,"title":"我上一条说错了","plays":262,"status":"steady","material":null},
+      {"rank":13,"title":"40岁，敢停下来吗？","plays":272,"status":"steady","material":"material-08"},
+      {"rank":14,"title":"我总觉得一句不行，关系就变了","plays":138,"status":"steady","material":"material-05"},
+      {"rank":15,"title":"人不在了以后","plays":122,"status":"steady","material":null},
+      {"rank":16,"title":"是怕关心你的人担心","plays":110,"status":"steady","material":null},
+      {"rank":17,"title":"那天我穿着大博文","plays":105,"status":"steady","material":"material-02"},
+      {"rank":18,"title":"跑着跑着，突然不想跑了，不是因为累","plays":102,"status":"up","material":null},
+      {"rank":19,"title":"夸别人很容易，夸自己很难","plays":43,"status":"steady","material":null},
+      {"rank":20,"title":"这么难了我都没吱声","plays":36,"status":"steady","material":"material-07"},
+      {"rank":21,"title":"很多事不是来不及做","plays":35,"status":"steady","material":null},
+      {"rank":22,"title":"我教孩子的方法，都是跑步教会我的","plays":0,"status":"new","material":"material-09"}
+    ]
+  },
+  "materials": {
+    "lastUpdated":"2026-07-09T10:39:00+08:00",
+    "items":[
+      {"id":"material-01","name":"割苞米割手","period":"7-8岁·农村","coreEmotion":"农村孩子从小觉得自己笨手笨脚","keyPhrase":"不是镰刀的问题，是自己不行","status":"exhausted","videosUsed":["那把镰刀一开始我就没整明白","掰不动苞米杵那干着急"],"angles":[]},
+      {"id":"material-02","name":"大博文 vs 旅游鞋","period":"县城读书","coreEmotion":"同学穿旅游鞋自己穿大博文→低人一等","keyPhrase":"县城中学的隐形等级","status":"exhausted","videosUsed":["那天我穿着大博文"],"angles":[]},
+      {"id":"material-03","name":"房东家的电话","period":"县城租房","coreEmotion":"自己给自己加的规矩","keyPhrase":"爸妈说别总麻烦别人","status":"exhausted","videosUsed":["你没说后来就成应该做的了"],"angles":[]},
+      {"id":"material-04","name":"体育课可乐","period":"县城读书","coreEmotion":"自己带开水同学喝可乐→物质差距","keyPhrase":"不想被人看出来","status":"unused","videosUsed":[],"angles":["最后一块未动素材"]},
+      {"id":"material-05","name":"亲戚求帮忙","period":"成年·妈妈生病","coreEmotion":"不会拒绝最后自己扛","keyPhrase":"人情社会拒绝等于关系破裂","status":"exhausted","videosUsed":["那句不最后说成了行吧","我总觉得一句不行关系就变了"],"angles":[]},
+      {"id":"material-06","name":"合伙不敢麻烦人","period":"成年·创业","coreEmotion":"怕麻烦别人自己多扛","keyPhrase":"合伙中的自我边缘化","status":"exhausted","videosUsed":["换别人可能就过去了"],"angles":[]},
+      {"id":"material-07","name":"慢热不争","period":"成年·职场","coreEmotion":"被动才安全","keyPhrase":"职场老黄牛习惯性沉默","status":"exhausted","videosUsed":["这么难了我都没吱声"],"angles":[]},
+      {"id":"material-08","name":"领导逼出反思","period":"当下","coreEmotion":"被迫面对开始改变","keyPhrase":"应无所住而生其心","status":"exhausted","videosUsed":["40岁敢停下来吗"],"angles":[]},
+      {"id":"material-09","name":"草稿纸提分","period":"当下·儿子教育","coreEmotion":"一点小改变带来不同结果","keyPhrase":"有时候稍微变一丁点儿就行","status":"used","videosUsed":["我教孩子的方法，都是跑步教会我的"],"angles":["和跑步同理"],"scriptReady":true},
+      {"id":"material-10","name":"统一思想的人","period":"当下·职场/社会","coreEmotion":"质疑统一思想的正当性，主张多元与包容","keyPhrase":"通往山顶的路也不只有一条，得让别人做别人","status":"unused","videosUsed":[],"angles":["反PUA/职场","原生家庭教育","亲密关系","独立思考","职场管理"],"rawFile":"shared/materials/material-10-统一思想的人.md"}
+    ]
+  },
+  "titleTemplates": {
+    "lastUpdated":"2026-07-09T08:30:00+08:00",
+    "formulas":[
+      {"id":"f1","name":"认知反转型","template":"[年龄/时间]才明白，[XX]不是[XX]，而是[XX]","successScore":5},
+      {"id":"f2","name":"设问型","template":"[身份]+[动作]，意味着什么/怎么办","successScore":5},
+      {"id":"f3","name":"冲突+感悟型","template":"[具体物件/场景]+[冲突/遗憾]+[时间感]","successScore":4},
+      {"id":"f4","name":"身份声明型","template":"一个[XX]的人，做了[XX事]","successScore":3},
+      {"id":"f5","name":"微叙事型","template":"[时间]+[人物/动作]+[悬念/结果]","successScore":3},
+      {"id":"f6","name":"年龄宣言型","template":"[年龄]以后才懂，[XX]不再[XX]，而是[XX]","successScore":4},
+      {"id":"f7","name":"放下和解型","template":"放下/认怂/[XX]，才是[XX]的最高境界","successScore":4},
+      {"id":"f8","name":"余生醒悟型","template":"[情绪词]+[年龄]+才醒悟+金句","successScore":3},
+      {"id":"f9","name":"极端短金句型","template":"一句话金句+跑步画面","successScore":3},
+      {"id":"f10","name":"反内耗宣言型","template":"戒掉[XX]爱上[XX]","successScore":4,"source":"情报站采集"},
+      {"id":"f11","name":"年龄+行动号召型","template":"[年龄]先要学会[动作]","successScore":4,"source":"情报站采集"},
+      {"id":"f12","name":"身体即名片型","template":"[年龄]的身材是[XX]","successScore":3,"source":"情报站采集"}
+    ]
+  },
+  "benchmarking": {
+    "lastUpdated":"2026-07-09T08:30:00+08:00",
+    "accounts":[
+      {"id":"b1","name":"热血中年老徐","relevance":5,"note":"最值得对标"},
+      {"id":"b2","name":"小李跑到中年","relevance":2,"note":"993条作品播放量也不高"},
+      {"id":"b3","name":"一个人跑步","relevance":3,"note":"2.8万粉设问型标题高手"},
+      {"id":"b4","name":"心语与跑步","relevance":4,"note":"认知反转型标题可复用"}
+    ],
+    "lastCollection":{
+      "time":"2026-07-08T21:56:00+08:00",
+      "source":"openclaw隔离浏览器未登录",
+      "keyword":"中年跑步 感悟",
+      "results":[
+        {"plays":5288,"title":"人到中年总有一项运动适合你","author":"春花爱跑步","time":"1周前","type":"设问型"},
+        {"plays":5303,"title":"当一个中年男人开始频繁跑步意味着什么","author":"爱跑步的老韩","time":"3周前","type":"设问型"},
+        {"plays":20000,"title":"人到中年尽量不要太早睡户外运动","author":"萱萱🌺","time":"1周前","type":"身份声明型"},
+        {"plays":17000,"title":"人到中年坚持运动才是女人顶级的底气","author":"丽姐爱跑步","time":"3周前","type":"年龄宣言型"},
+        {"plays":1900,"title":"多发现世界的美多发掘自己的美","author":"爬山虎","time":"2周前","type":"感悟型"},
+        {"plays":1224,"title":"跑步40年感悟人生的下半场比的不是财力是健康","author":"鼠哥（趣跑）","time":"4月前","type":"年龄宣言型"},
+        {"plays":1020,"title":"中年运动分享跑步时的治愈感","author":"简单跑不停","time":"1周前","type":"身份声明型"},
+        {"plays":827,"title":"男人四十岁的身材是行走世间最硬的名片","author":"跑步一哥","time":"2周前","type":"身体名片型"},
+        {"plays":551,"title":"人到中年跑步先要学会认怂","author":"跑步一哥","time":"3周前","type":"放下和解型"},
+        {"plays":637,"title":"人到中年选择跑步重启人生丢掉内耗重新洗牌","author":"欣姐（减肥日记）","time":"2天前","type":"反内耗宣言型"}
+      ]
+    }
+  },
+  "taskTracking": {
+    "lastUpdated":"2026-07-09T10:24:00+08:00",
+    "source":"峰峰口述（手机端成长任务）",
+    "tasks":[
+      {
+        "id":"task-01",
+        "name":"持续聚焦创作·体育方向",
+        "requirement":"累计发布18条体育/跑步同方向视频",
+        "reward":"未显示",
+        "progress":"7/18（还需11条）",
+        "deadline":"未显示",
+        "impact":"未来所有视频必须保持体育/跑步方向，不能跳出去讲纯育儿/职场故事，每条必须靠跑步视角叙事"
+      }
+    ]
+  },
+  "principles": {
+    "lastUpdated":"2026-07-09T08:30:00+08:00",
+    "endingHookType":"每一条视频结尾必须是引评论钩子",
+    "runningPerspective":"所有故事必须通过跑步视角叙事",
+    "titleCoverSplit":"标题负责吸引点击封面负责验证内容不能重复",
+    "materialDirection":"关注正在进行的事回忆录素材已快用完",
+    "materialSaving":"峰峰给的每个素材必须完整保存",
+    "taskImpact":"当前成长任务：体育方向累计18条，进度7/18，需再发11条"
+  }
+}

@@ -1,0 +1,6 @@
+# System
+.DS_Store
+Thumbs.db
+
+# The actual data.json can be periodically updated; keep it for demo
+# If you use this template, clear shared/data.json of real account data

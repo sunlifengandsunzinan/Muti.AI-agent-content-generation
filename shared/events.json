@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "time": "2026-07-09T00:14:00+08:00",
+      "from": "系统初始化",
+      "to": "峰峰",
+      "type": "事件队列已建立",
+      "file": null,
+      "done": true,
+      "failed": false,
+      "retryCount": 0
+    },
+    {
+      "id": "evt-002",
+      "time": "2026-07-09T10:24:00+08:00",
+      "from": "情报站",
+      "to": "Manager",
+      "type": "账号数据已采集更新",
+      "file": "shared/data.json",
+      "done": true,
+      "failed": false,
+      "retryCount": 0,
+      "detail": "通过浏览器采集account页面数据，更新了account信息和视频播放量排行"
+    }
+  ]
+}

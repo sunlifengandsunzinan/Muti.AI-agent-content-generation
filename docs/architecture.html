@@ -1,0 +1,234 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>多Agent协作架构</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f8fafc;
+    --fg: #172033;
+    --muted: #5b6475;
+    --line: #64748b;
+    --neutral: #e2e8f0;
+    --input: #bfdbfe;
+    --process: #c7d2fe;
+    --storage: #99f6e4;
+    --external: #fde68a;
+    --risk: #fecaca;
+    --accent: #818cf8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f172a;
+      --fg: #e5e7eb;
+      --muted: #a3adbd;
+      --line: #94a3b8;
+      --neutral: #334155;
+      --input: #1d4ed8;
+      --process: #4338ca;
+      --storage: #0f766e;
+      --external: #92400e;
+      --risk: #991b1b;
+      --accent: #6366f1;
+    }
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 14px/1.4 ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  main { max-width: 1000px; margin: 32px auto; padding: 0 20px; }
+  svg { width: 100%; height: auto; display: block; }
+  .title { font-size: 20px; font-weight: 650; fill: var(--fg); }
+  .label { font-size: 13px; font-weight: 600; fill: var(--fg); }
+  .small { font-size: 11px; fill: var(--muted); }
+  .node { stroke: var(--line); stroke-width: 1.5; rx: 8; }
+  .neutral { fill: var(--neutral); }
+  .input { fill: var(--input); }
+  .process { fill: var(--process); }
+  .storage { fill: var(--storage); }
+  .external { fill: var(--external); }
+  .edge { stroke: var(--line); stroke-width: 1.5; fill: none; }
+  .edge-accent { stroke: var(--accent); stroke-width: 2; fill: none; stroke-dasharray: 6 4; }
+  .zone { fill: none; stroke: var(--line); stroke-width: 1; stroke-dasharray: 6 5; opacity: 0.5; rx: 10; }
+  .arrow { fill: var(--line); }
+  .arrow-accent { fill: var(--accent); }
+</style>
+<main>
+<svg viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg">
+  
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" class="arrow" />
+    </marker>
+    <marker id="arrow-accent" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" class="arrow-accent" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="480" y="30" text-anchor="middle" class="title">多Agent协作架构 — "40了，得干点儿啥了" 内容生产系统</text>
+
+  <!-- ============ Swimlanes ============ -->
+  <!-- User lane -->
+  <rect x="20" y="50" width="920" height="90" class="zone" />
+  <text x="32" y="70" class="small" font-weight="600">👤 用户层</text>
+
+  <!-- Agent lane -->
+  <rect x="20" y="150" width="920" height="200" class="zone" />
+  <text x="32" y="170" class="small" font-weight="600">🤖 Agent层</text>
+
+  <!-- Data lane -->
+  <rect x="20" y="360" width="920" height="130" class="zone" />
+  <text x="32" y="380" class="small" font-weight="600">📁 共享数据层</text>
+
+  <!-- External lane -->
+  <rect x="20" y="500" width="920" height="120" class="zone" />
+  <text x="32" y="520" class="small" font-weight="600">🌐 外部层</text>
+
+  <!-- ============ User layer ============ -->
+  <!-- 峰峰 -->
+  <rect x="80" y="75" width="100" height="44" class="node external" />
+  <text x="130" y="101" text-anchor="middle" class="label">峰峰 👤</text>
+
+  <!-- ============ Agent layer ============ -->
+  <!-- Manager -->
+  <rect x="80" y="190" width="120" height="44" class="node neutral" />
+  <text x="140" y="216" text-anchor="middle" class="label">Manager</text>
+
+  <!-- 素材管家 -->
+  <rect x="270" y="170" width="120" height="44" class="node input" />
+  <text x="330" y="196" text-anchor="middle" class="label">素材管家</text>
+
+  <!-- 脚本生成器 -->
+  <rect x="270" y="240" width="120" height="44" class="node process" />
+  <text x="330" y="266" text-anchor="middle" class="label">脚本生成器</text>
+
+  <!-- 标题封面官 -->
+  <rect x="270" y="310" width="120" height="44" class="node process" />
+  <text x="330" y="336" text-anchor="middle" class="label">标题封面官</text>
+
+  <!-- 情报站 -->
+  <rect x="560" y="240" width="120" height="44" class="node process" />
+  <text x="620" y="266" text-anchor="middle" class="label">情报站</text>
+
+  <!-- ============ Data layer ============ -->
+  <!-- shared/data.json -->
+  <rect x="150" y="390" width="200" height="44" class="node storage" />
+  <text x="250" y="417" text-anchor="middle" class="label" font-size="12">shared/data.json</text>
+
+  <!-- shared/materials/ -->
+  <rect x="440" y="390" width="160" height="44" class="node storage" />
+  <text x="520" y="417" text-anchor="middle" class="label" font-size="12">shared/materials/</text>
+
+  <!-- shared/scripts/ -->
+  <rect x="680" y="390" width="160" height="44" class="node storage" />
+  <text x="760" y="417" text-anchor="middle" class="label" font-size="12">shared/scripts/</text>
+
+  <!-- shared/benchmarking/ -->
+  <rect x="440" y="450" width="160" height="44" class="node storage" />
+  <text x="520" y="477" text-anchor="middle" class="label" font-size="12">shared/benchmarking/</text>
+
+  <!-- shared/events.json -->
+  <rect x="680" y="450" width="160" height="44" class="node neutral" />
+  <text x="760" y="477" text-anchor="middle" class="label" font-size="12">shared/events.json</text>
+
+  <!-- ============ External layer ============ -->
+  <!-- 抖音 -->
+  <rect x="80" y="530" width="120" height="44" class="node external" />
+  <text x="140" y="556" text-anchor="middle" class="label">抖音 douyin.com</text>
+
+  <!-- Ollama 本地模型 -->
+  <rect x="280" y="530" width="160" height="44" class="node external" />
+  <text x="360" y="556" text-anchor="middle" class="label">Ollama qwen2.5:7b</text>
+
+  <!-- 浏览器 -->
+  <rect x="520" y="530" width="120" height="44" class="node external" />
+  <text x="580" y="556" text-anchor="middle" class="label">Chromium 浏览器</text>
+
+  <!-- ============ Connectors ============ -->
+  
+  <!-- 峰峰 → Manager -->
+  <line x1="130" y1="119" x2="130" y2="190" class="edge" marker-end="url(#arrow)" />
+
+  <!-- Manager → 素材管家 -->
+  <line x1="200" y1="210" x2="270" y2="192" class="edge" marker-end="url(#arrow)" />
+  <text x="228" y="196" class="small" font-size="10">分活</text>
+
+  <!-- Manager → 脚本生成器 -->
+  <line x1="200" y1="225" x2="270" y2="262" class="edge" marker-end="url(#arrow)" />
+  <text x="212" y="250" class="small" font-size="10">分活</text>
+
+  <!-- Manager → 标题封面官 -->
+  <line x1="200" y1="240" x2="270" y2="332" class="edge" marker-end="url(#arrow)" />
+  <text x="212" y="290" class="small" font-size="10">分活</text>
+
+  <!-- Manager → 情报站 -->
+  <line x1="200" y1="215" x2="560" y2="262" class="edge" marker-end="url(#arrow)" />
+  <text x="380" y="258" class="small" font-size="10">分活</text>
+
+  <!-- 素材管家 → shared/materials/ -->
+  <line x1="330" y1="214" x2="520" y2="390" class="edge" marker-end="url(#arrow)" />
+  <text x="400" y="300" class="small" font-size="10">原始存档</text>
+
+  <!-- 素材管家 → data.json -->
+  <line x1="270" y1="190" x2="250" y2="390" class="edge" marker-end="url(#arrow)" />
+  <text x="190" y="285" class="small" font-size="10">结构化入库</text>
+
+  <!-- 脚本生成器 → shared/scripts/ -->
+  <line x1="330" y1="284" x2="760" y2="390" class="edge" marker-end="url(#arrow)" />
+  <text x="580" y="332" class="small" font-size="10">存档定稿脚本</text>
+
+  <!-- 脚本生成器 → data.json (读素材) -->
+  <line x1="270" y1="250" x2="250" y2="390" class="edge" marker-end="url(#arrow)" />
+  <text x="180" y="325" class="small" font-size="10">读素材</text>
+
+  <!-- 情报站 → data.json -->
+  <line x1="620" y1="284" x2="250" y2="434" class="edge" marker-end="url(#arrow)" />
+  <text x="400" y="420" class="small" font-size="10">更新排名/对标/模板</text>
+
+  <!-- 情报站 → shared/benchmarking/ -->
+  <line x1="620" y1="284" x2="520" y2="450" class="edge" marker-end="url(#arrow)" />
+
+  <!-- 标题封面官 → data.json (读对标) -->
+  <line x1="270" y1="320" x2="250" y2="390" class="edge" marker-end="url(#arrow)" />
+  <text x="180" y="370" class="small" font-size="10">读爆款数据</text>
+
+  <!-- 标题封面官 → shared/scripts/ (读脚本) -->
+  <line x1="330" y1="330" x2="760" y2="390" class="edge" marker-end="url(#arrow)" />
+  <text x="580" y="365" class="small" font-size="10">读脚本</text>
+
+  <!-- events.json (事件通知) 虚线 -->
+  <line x1="330" y1="240" x2="760" y2="450" class="edge-accent" marker-end="url(#arrow-accent)" />
+  <text x="540" y="432" class="small" font-size="10" fill="var(--accent)">事件通知（未来流水线）</text>
+
+  <!-- 情报站 → Ollama -->
+  <line x1="620" y1="284" x2="360" y2="530" class="edge" marker-end="url(#arrow)" />
+  <text x="480" y="510" class="small" font-size="10">本地分析（对标/趋势）</text>
+
+  <!-- 情报站 → Chromium -->
+  <line x1="680" y1="260" x2="580" y2="530" class="edge" marker-end="url(#arrow)" />
+  <text x="650" y="390" class="small" font-size="10">采集账号/爆款</text>
+
+  <!-- Chromium → 抖音 -->
+  <line x1="580" y1="574" x2="200" y2="574" class="edge" marker-end="url(#arrow)" />
+
+  <!-- ============ Legend ============ -->
+  <rect x="20" y="610" width="10" height="10" class="node input" />
+  <text x="36" y="620" class="small">输入型Agent</text>
+  <rect x="130" y="610" width="10" height="10" class="node process" />
+  <text x="146" y="620" class="small">处理型Agent</text>
+  <rect x="250" y="610" width="10" height="10" class="node neutral" />
+  <text x="266" y="620" class="small">调度/队列</text>
+  <rect x="350" y="610" width="10" height="10" class="node storage" />
+  <text x="366" y="620" class="small">数据存储</text>
+  <rect x="460" y="610" width="10" height="10" class="node external" />
+  <text x="476" y="620" class="small">外部系统</text>
+  <line x1="570" y1="615" x2="600" y2="615" class="edge-accent" />
+  <text x="608" y="620" class="small">未来流水线</text>
+
+  <text x="480" y="640" text-anchor="middle" class="small">GitHub: github.com/你的用户名/douyin-agent-system</text>
+</svg>
+</main>
+</html>
