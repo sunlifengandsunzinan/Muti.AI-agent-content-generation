@@ -616,301 +616,12 @@
   "selfReview": null,
   "creatorCenter": {
     "lastSnapshot": {
-      "fetchTime": "2026-07-14T20:34:15.070675+08:00",
-      "videos": [
-        {
-          "workId": "7658958292995083547",
-          "title": "40岁的人，一个月只有5个粉丝，意味着什",
-          "plays": 2770,
-          "likes": 21,
-          "comments": 4,
-          "shares": 2,
-          "completionRate": 4.95,
-          "exit2sRate": 45.8,
-          "followerPlayRatio": 37.4,
-          "fansGained": 10,
-          "fansLost": 2,
-          "duration": 14,
-          "publishDate": "2026-07-05"
-        },
-        {
-          "workId": "7659445284631498038",
-          "title": "想了一天没想起来，跑着步突然愣住",
-          "plays": 495,
-          "likes": 5,
-          "comments": 1,
-          "shares": 0,
-          "completionRate": 13.7,
-          "exit2sRate": 28.02,
-          "followerPlayRatio": 10.9,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 17,
-          "publishDate": "2026-07-07"
-        },
-        {
-          "workId": "7659941549324782882",
-          "title": "跑着跑着，突然不想跑了，不是因为累",
-          "plays": 600,
-          "likes": 8,
-          "comments": 0,
-          "shares": 0,
-          "completionRate": 16.31,
-          "exit2sRate": 34.7,
-          "followerPlayRatio": 1.5,
-          "fansGained": 1,
-          "fansLost": 0,
-          "duration": 16,
-          "publishDate": "2026-07-08"
-        },
-        {
-          "workId": "7660302530500496703",
-          "title": "我教孩子的方法，都是跑步教会我的",
-          "plays": 78,
-          "likes": 1,
-          "comments": 0,
-          "shares": 0,
-          "completionRate": 13.82,
-          "exit2sRate": 40.25,
-          "followerPlayRatio": 2.6,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 16,
-          "publishDate": "2026-07-09"
-        },
-        {
-          "workId": "7660536616540179738",
-          "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模",
-          "plays": 268,
-          "likes": 3,
-          "comments": 0,
-          "shares": 0,
-          "completionRate": 18.79,
-          "exit2sRate": 23.41,
-          "followerPlayRatio": 2.7,
-          "fansGained": 0,
-          "fansLost": 1,
-          "duration": 17,
-          "publishDate": "2026-07-10"
-        },
-        {
-          "workId": "7663380620626586163",
-          "title": "刚跑了两天，就有人说你",
-          "plays": 21,
-          "likes": 0,
-          "comments": 0,
-          "shares": 0,
-          "completionRate": null,
-          "exit2sRate": null,
-          "followerPlayRatio": null,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 12,
-          "publishDate": "2026-07-12"
-        },
-        {
-          "workId": "7663141550156458286",
-          "title": "那把镰刀，一开始我就没整明白",
-          "plays": 3560,
-          "likes": 60,
-          "comments": 14,
-          "shares": 5,
-          "completionRate": 24.8,
-          "exit2sRate": 16.41,
-          "followerPlayRatio": 10.9,
-          "fansGained": 3,
-          "fansLost": 0,
-          "duration": 18,
-          "publishDate": "2026-06-29"
-        },
-        {
-          "workId": "7662570912108202286",
-          "title": "妈妈那句话，成了我心底的结",
-          "plays": 3197,
-          "likes": 46,
-          "comments": 6,
-          "shares": 3,
-          "completionRate": 20.41,
-          "exit2sRate": 17.89,
-          "followerPlayRatio": 5.9,
-          "fansGained": 2,
-          "fansLost": 0,
-          "duration": 17,
-          "publishDate": "2026-06-20"
-        },
-        {
-          "workId": "7662057956358212378",
-          "title": "那句「不」，最后我说成了「行吧」",
-          "plays": 1162,
-          "likes": 22,
-          "comments": 7,
-          "shares": 0,
-          "completionRate": 19.46,
-          "exit2sRate": 20.79,
-          "followerPlayRatio": 14,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 15,
-          "publishDate": "2026-06-25"
-        },
-        {
-          "workId": "7662948678287633710",
-          "title": "中考差的这1分，我用了快三十年还在想",
-          "plays": 999,
-          "likes": 11,
-          "comments": 4,
-          "shares": 0,
-          "completionRate": 16.32,
-          "exit2sRate": 31.32,
-          "followerPlayRatio": 23.3,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 17,
-          "publishDate": "2026-06-27"
-        },
-        {
-          "workId": "7661599444351356206",
-          "title": "是怕关心你的人担心?还是说了也没用?",
-          "plays": 521,
-          "likes": 7,
-          "comments": 3,
-          "shares": 0,
-          "completionRate": 19.68,
-          "exit2sRate": 40.23,
-          "followerPlayRatio": 9.3,
-          "fansGained": 1,
-          "fansLost": 0,
-          "duration": 16,
-          "publishDate": "2026-06-23"
-        },
-        {
-          "workId": "7661262488083123762",
-          "title": "去跑步出门前几分钟，你纠结过没？",
-          "plays": 584,
-          "likes": 6,
-          "comments": 3,
-          "shares": 2,
-          "completionRate": 23.88,
-          "exit2sRate": 25.13,
-          "followerPlayRatio": 4.8,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 14,
-          "publishDate": "2026-07-06"
-        },
-        {
-          "workId": "7660832551529516297",
-          "title": "你没说，后来就成应该做的了",
-          "plays": 383,
-          "likes": 5,
-          "comments": 2,
-          "shares": 0,
-          "completionRate": 20.64,
-          "exit2sRate": 31.67,
-          "followerPlayRatio": 8.9,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 17,
-          "publishDate": "2026-07-03"
-        },
-        {
-          "workId": "7661262488083123764",
-          "title": "夸别人很容易，夸自己很难",
-          "plays": 372,
-          "likes": 5,
-          "comments": 2,
-          "shares": 0,
-          "completionRate": 29.03,
-          "exit2sRate": 35.71,
-          "followerPlayRatio": 7,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 14,
-          "publishDate": "2026-07-04"
-        },
-        {
-          "workId": "7663624648603060992",
-          "title": "我上一条说错了，中年人的坚持不是一直硬撑",
-          "plays": 262,
-          "likes": 3,
-          "comments": 2,
-          "shares": 0,
-          "completionRate": 29.9,
-          "exit2sRate": 27.62,
-          "followerPlayRatio": 7.9,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 17,
-          "publishDate": "2026-07-11"
-        },
-        {
-          "workId": "7662928301144802038",
-          "title": "40岁，敢停下来吗？",
-          "plays": 272,
-          "likes": 1,
-          "comments": 0,
-          "shares": 0,
-          "completionRate": 25.77,
-          "exit2sRate": 27.35,
-          "followerPlayRatio": 2.6,
-          "fansGained": 0,
-          "fansLost": 1,
-          "duration": 13,
-          "publishDate": "2026-06-28"
-        },
-        {
-          "workId": "7660738011810969390",
-          "title": "掰不动苞米，杵那干着急",
-          "plays": 232,
-          "likes": 1,
-          "comments": 0,
-          "shares": 0,
-          "completionRate": 17.83,
-          "exit2sRate": 23.75,
-          "followerPlayRatio": 1.6,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 15,
-          "publishDate": "2026-07-01"
-        },
-        {
-          "workId": "7661735046523227950",
-          "title": "换别人可能就过去了，我不行",
-          "plays": 296,
-          "likes": 2,
-          "comments": 1,
-          "shares": 0,
-          "completionRate": 20,
-          "exit2sRate": 33.98,
-          "followerPlayRatio": 14.2,
-          "fansGained": 0,
-          "fansLost": 0,
-          "duration": 16,
-          "publishDate": "2026-06-24"
-        }
-      ],
-      "source": "Manager亲自采集（Mac创作者中心·全量）",
-      "overview": {
-        "followers": 54,
-        "likesReceived": 273,
-        "videos": 25,
-        "following": 6,
-        "plays7d": 12300,
-        "homePageViews": 61,
-        "likes7d": 151,
-        "comments7d": 52,
-        "shares7d": 2,
-        "netFansGained7d": 45,
-        "vsPrev7d": "+9390 plays"
-      },
-      "pendingDepthData": [
-        "我上一条说错了"
-      ],
-      "depthFetched": [
-        "刚跑了两天",
-        "跑了7年"
-      ],
-      "videosWithDepth": 10
+      "fetchTime": "2026-07-15T22:17:12+08:00",
+      "source": "creator.douyin.com 作品管理页（列表视图）",
+      "pendingDepthData": true,
+      "depthFetched": false,
+      "videosWithDepth": 0,
+      "note": "晚上采集只拿到了列表，深度数据未覆盖（Agent在详情页导航卡住）。保留早上10:18的深度数据。"
     },
     "snapshots": [
       {
@@ -2664,10 +2375,39 @@
         "fetchTime": "2026-07-14T20:34:15.070675+08:00",
         "tabsCompleted": 4
       }
+    },
+    "fallback": {
+      "fetchTime": "2026-07-15T10:18:00+08:00",
+      "videos": [
+        {
+          "title": "多跑几公里就为了不折返？",
+          "publishDate": "2026-07-14",
+          "playCount": 634,
+          "finishRate": 31.66,
+          "twoSecJumpRate": 22.37,
+          "newFollowers": 0
+        },
+        {
+          "title": "跑了7年还没跑明白",
+          "publishDate": "2026-07-13",
+          "playCount": 3296,
+          "finishRate": 21.46,
+          "twoSecJumpRate": 24.05,
+          "newFollowers": 3
+        },
+        {
+          "title": "刚跑了两天就有人说你",
+          "publishDate": "2026-07-12",
+          "playCount": 8254,
+          "finishRate": 12.38,
+          "twoSecJumpRate": 17.66,
+          "newFollowers": 1
+        }
+      ]
     }
   },
   "benchmarking": {
-    "lastCollection": "2026-07-15T10:42:00+08:00",
+    "lastCollection": "2026-07-15T22:17:31+08:00",
     "keywords": [
       "40岁跑步 感悟",
       "中年跑步 感悟",
@@ -2759,6 +2499,42 @@
         "note": "新发现，最高播放5925",
         "representativeVideo": "",
         "maxPlays": 5925
+      },
+      {
+        "name": "山河野王",
+        "note": "新发现，最高播放1.7万",
+        "representativeVideo": "一年四季都在跑步的人",
+        "maxPlays": 17000
+      },
+      {
+        "name": "摆拍跑者张重复",
+        "note": "新发现，最高播放19.1万",
+        "representativeVideo": "志在千里的人不卧以图安逸",
+        "maxPlays": 191000
+      },
+      {
+        "name": "沐心",
+        "note": "新发现，最高播放3.2万",
+        "representativeVideo": "宁吃运动的苦",
+        "maxPlays": 32000
+      },
+      {
+        "name": "青沙雨",
+        "note": "新发现，最高播放6270",
+        "representativeVideo": "坚持了13年跑步",
+        "maxPlays": 6270
+      },
+      {
+        "name": "晓午爱运动",
+        "note": "新发现，最高播放1.0万",
+        "representativeVideo": "40岁以后最好的保养品是慢跑",
+        "maxPlays": 10000
+      },
+      {
+        "name": "王迷糊",
+        "note": "新发现，最高播放9432",
+        "representativeVideo": "当一个中年人突然开始频繁跑步",
+        "maxPlays": 9432
       }
     ],
     "videos": [
@@ -3099,6 +2875,238 @@
         "colorTone": "暖色调",
         "keyword": "跑步 治愈 人生",
         "source": "20260715采集"
+      },
+      {
+        "title": "跑步已成生活方式，是为了老了能体面地陪家人久一点",
+        "author": "小苏",
+        "plays": "10",
+        "publishDate": "1小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "慢跑治愈自己，跑步收获好心情",
+        "author": "阿慧健康跑",
+        "plays": "86",
+        "publishDate": "3小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "不要因为现在的懒惰，而成为将来拖累子女的遗憾",
+        "author": "跑起来得劲儿",
+        "plays": "506",
+        "publishDate": "8小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "晨起奔跑，只为取悦自己。晨跑打卡自愈三件套",
+        "author": "风雨兼程🌈💕",
+        "plays": "111",
+        "publishDate": "10小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "人到中年，才慢慢明白:真正的自律，不是逼迫自己吃苦",
+        "author": "袁某某",
+        "plays": "197",
+        "publishDate": "13小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "跑步治愈一切 中年跑步 自律自愈",
+        "author": "坠入星河",
+        "plays": "157",
+        "publishDate": "13小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "今年我四十二岁，准备跑完四十二公里的全程马拉松",
+        "author": "舒服大叔运动日常",
+        "plays": "25",
+        "publishDate": "14小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "人到中年，偏爱安静，向往自由",
+        "author": "楊楊爱运动",
+        "plays": "178",
+        "publishDate": "14小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "四十岁之后我懒得跟任何人解释",
+        "author": "杨哥天天说",
+        "plays": "5",
+        "publishDate": "23小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "七月第六跑丨中年最好的修行",
+        "author": "丁饼。",
+        "plays": "84",
+        "publishDate": "23小时前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "去年10月开始跑步释放压抑情绪，两个多月瘦了40几斤",
+        "author": "顺运流年",
+        "plays": "157",
+        "publishDate": "1天前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "中年人的顶级自律：10公里",
+        "author": "柠檬茶🌟",
+        "plays": "278",
+        "publishDate": "1天前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "中年跑步，早已不是战胜别人，而是学会和自己和解",
+        "author": "慢跑的四十岁",
+        "plays": "31",
+        "publishDate": "1天前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "坚持慢跑3个月、我戒掉了中年疲惫",
+        "author": "二姐刘二",
+        "plays": "14",
+        "publishDate": "1天前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "四十载都没破百，中年关口意外破百",
+        "author": "周同学FLY",
+        "plays": "156",
+        "publishDate": "1天前",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集_video_最新"
+      },
+      {
+        "title": "家里有这样的老爸，一定是全家人最大的底气",
+        "author": "虎子",
+        "plays": "2172",
+        "publishDate": "2天前",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "自律不分赛道，能扛住健身苦的人，人生大多顺风顺水",
+        "author": "幕哲希",
+        "plays": "969",
+        "publishDate": "2天前",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "40岁后轻松跑完五公里，已经远超同龄人了",
+        "author": "有你真好-严料坊旅途",
+        "plays": "464",
+        "publishDate": "1周前",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "40岁跑10公里有多强？跑赢岁月的底牌",
+        "author": "谭雅跑呀",
+        "plays": "102",
+        "publishDate": "1天前",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "40岁以后训练最大的成熟，不是更能吃苦",
+        "author": "慢跑的四十岁",
+        "plays": "37",
+        "publishDate": "6天前",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "40岁以后，最靠谱的活法是什么",
+        "author": "跑步一哥",
+        "plays": "4917",
+        "publishDate": "3月9日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "当一个中年人突然开始频繁跑步你知道这意味着什么",
+        "author": "王迷糊",
+        "plays": "9432",
+        "publishDate": "2025年10月2日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "中年跑步掌控人生：你的配速就是你的阶层",
+        "author": "谭雅跑呀",
+        "plays": "4098",
+        "publishDate": "1月23日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "40岁以后最好的保养品是慢跑",
+        "author": "晓午爱运动",
+        "plays": "1.0万",
+        "publishDate": "2025年6月17日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "坚持跑步，是中年人最好的投资",
+        "author": "每晚方芳",
+        "plays": "3823",
+        "publishDate": "2025年7月29日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "40岁以后留给身体的不是选择是淘汰",
+        "author": "严料坊银星✨",
+        "plays": "9203",
+        "publishDate": "2025年10月28日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "年过40，不得不注意的8条忠告",
+        "author": "悦跑无止晋",
+        "plays": "4736",
+        "publishDate": "2023年11月5日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "坚持13年的跑步到底给我带来了什么",
+        "author": "青沙雨",
+        "plays": "6270",
+        "publishDate": "2025年10月15日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
+      },
+      {
+        "title": "宁吃运动的苦，不吃晚年卧床走不动的苦",
+        "author": "沐心",
+        "plays": "3.2万",
+        "publishDate": "7月1日",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集_video"
       }
     ],
     "visualAnalysis": {
@@ -3131,11 +3139,11 @@
       "topPerformerFormula": "金句型/设问型 + 跑步侧影/表情特写 + 大字标题 + 暖色调/自然光",
       "topPerformerExample": "40岁以后的形象80%自律维持 (8.4万) - 严料坊银星",
       "bestAccounts": [
-        "严料坊银星",
+        "严料坊银星✨",
+        "文同学爱运动",
         "李新宝",
-        "88年龙妈",
-        "瑛子",
-        "文同学爱运动"
+        "三明治的旅行",
+        "黄仕明"
       ],
       "keyInsight20260715": "表情特写+大字的封面效果优于纯侧影，金句型比设问型带来更高播放"
     },
@@ -3167,7 +3175,7 @@
       "lastWeeklyRun": "2026-07-12",
       "requiresConfirmation": false
     },
-    "source": "抖音搜索：中年跑步 感悟 / 40岁 跑步 自律 / 跑步 治愈 人生",
+    "source": "抖音搜索（video tab 最新发布排序）：中年跑步 感悟 / 40岁 跑步 自律",
     "competitors": [
       {
         "name": "鼠哥（趣跑）",
