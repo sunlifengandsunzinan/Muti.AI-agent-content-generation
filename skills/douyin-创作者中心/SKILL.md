@@ -129,6 +129,35 @@ https://creator.douyin.com/creator-micro/home
 }
 ```
 
+### 步骤F-1：涨粉数据分析 ✅ 新增硬检查
+
+每次采集完数据后，必须运行以下分析并写入data.json的`creatorCenter.followerAnalysis`：
+
+```json
+{
+  "currentFollowers": 53,
+  "change24h": -1,
+  "change7d": 0,
+  "followerConversionPer1000Plays": 0.28,
+  "videosWithFollowerGain": ["标题1", "标题2"],
+  "top3FollowerDrivers": [
+    {"title": "标题", "followerGain": 3, "reason": "身份收尾/结尾有锚点"}
+  ],
+  "followerWastingVideos": [
+    {"title": "标题", "followerGain": 0, "plays": 800, "reason": "共鸣型结尾无锚点"}
+  ],
+  "alert": "粉丝掉1人以下不告警，掉1人以上或连续3天0涨粉则报告"
+}
+```
+
+**核心公式（每次必算）：**
+```
+每千播涨粉率 = 视频涨粉数 / 视频播放数 × 1000
+健康值：2-5/千播
+峰峰现状：0.28/千播
+差距：1/7~1/18
+```
+
 ### 步骤G：检查异常数据
 
 完成采集后检查：

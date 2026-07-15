@@ -49,7 +49,36 @@ https://www.douyin.com/search/{关键词}?type=general
 - **colorTone** — 色调风格：`自然光` / `暖色调` / `冷色调` / `高对比`
 - **titleType** — 标题类型：`设问型` / `宣言型` / `金句型` / `叙事型` / `反差型`
 
-### 步骤D：输出JSON
+### 步骤D-1：涨粉维度数据采集 ✅ 新增
+每次采集必须额外记录以下信息，用于涨粉诊断分析：
+
+#### D-1 封面策略
+```json
+{
+  "coverStyle": "表情特写+标题" | "跑步侧影+大字" | "对比图/文字标题卡" | "风景空镜+文字" | "文字标题卡" | "其他",
+  "hasPerson": true/false,
+  "personPosition": "居中" | "居左" | "居右" | "无人物",
+  "hasTitleOnCover": true/false,
+  "titleText": "如果封面有文字，记录文字内容"
+}
+```
+
+#### D-2 涨粉迹象
+```json
+{
+  "followerCount": "作者粉丝数（如显示）",
+  "isSeries": "是否是系列/合集内容",
+  "hasBioCallout": "简介是否有明确关注引导"
+}
+```
+
+#### D-3 评论区关注分析（选做）
+- 高赞评论是共鸣型还是关注型？
+- 关注型评论示例：'已关注，求更新'
+- 共鸣型评论示例：'我也这样！'
+- 记录高赞评论的前3条类型
+
+### 步骤E：输出JSON
 
 用 `write` 工具写到 `data.json → benchmarking`：
 
