@@ -6,143 +6,143 @@ description: "Windows浏览器搜索赛道爆款，采集标题/播放/封面特
 # douyin-对标采集
 
 ## 任务目标
-搜索指定关键词的抖音视频，采集标题、播放量、作者、封面特征、色调等数据，结构化写入 `data.json → benchmarking`。
+搜索指定关键词的抖音视频，采集标题、播放量、作者、封面特征等数据，结构化写入 `data.json -> benchmarking`。
 
 ## 操作设备
-**🖥️ Windows（本机）** — 浏览器 target="host"（默认）
+**Windows（本机）** -- 浏览器 target="host"（默认）
 
-⚠️ **绝对不要登录峰峰账号**。搜到什么就是什么，不登录不发布。
+**绝对不要登录峰峰账号。**
 
 ---
+
+## 核心采集方案（浏览器JS注入）
+
+不再手动滚动+截图。用JS一次性提取可见DOM数据，省token省时间。
 
 ## 标准操作流程
 
 ### 步骤A：搜索关键词
 
-每次执行时，从以下关键词库中选 **3个未搜索过或数据较旧的关键词**：
-- 中年跑步 感悟
-- 40岁 跑步 自律
-- 跑步 治愈 人生
-- 40岁开始跑步 真实感受
-- 跑步 中年男人 心态
-- 坚持跑步 变化
-- 中年人运动 坚持
-
-用浏览器打开抖音搜索页：
+选3个关键词，打开抖音搜索页：
 ```
 https://www.douyin.com/search/{关键词}?type=general
 ```
 
-### 步骤B：采集视频数据
+### 步骤B：用JS注入提取数据
 
-对搜索结果页，**滚动到第3页**（确保数据量），采集能获取的所有视频：
-- 作者名
-- 标题（完整标题）
-- 播放量
-- 发布时间
+用浏览器 act kind=evaluate 执行以下JS，提取搜索结果页所有可见视频：
 
-### 步骤C：记录画面特征
+```javascript
+// 从抖音搜索结果页提取视频列表
+(function() {
+  const items = document.querySelectorAll('[class*="search"] [class*="item"], [class*="video-card"], article');
+  const results = [];
+  
+  // 方法1: 从搜索结果容器取
+  items.forEach(el => {
+    const text = el.textContent || '';
+    const links = el.querySelectorAll('a');
+    const title = el.querySelector('[class*="title"]')?.textContent 
+      || el.querySelector('p')?.textContent || '';
+    
+    // 提取播放量
+    let plays = 0;
+    const playMatch = text.match(/(\d+\.?\d*)\s*[万亿]?[次播放]/);
+    if (playMatch) {
+      const num = parseFloat(playMatch[1]);
+      if (text.includes('\u4e07')) plays = num * 10000;
+      else plays = num;
+    }
+    
+    // 提取作者
+    const author = el.querySelector('[class*="author"], [class*="nickname"]')?.textContent 
+      || text.match(/@(\S+)/)?.[1] || '';
+    
+    // 提取头像/封面是否有真人的特征
+    const imgs = el.querySelectorAll('img');
+    const hasImg = imgs.length > 0;
 
-对每个视频记录：
-- **coverStyle** — 封面类型：`跑步侧影+大字` / `表情特写+标题` / `风景空镜+文字` / `对比图/文字标题卡` / `文字标题卡` / `其他`
-- **hasPerson** — 是否有真人出镜：true/false
-- **colorTone** — 色调风格：`自然光` / `暖色调` / `冷色调` / `高对比`
-- **titleType** — 标题类型：`设问型` / `宣言型` / `金句型` / `叙事型` / `反差型`
+    if (title) {
+      results.push({
+        title: title.trim(),
+        author: author.trim() || '\u672a\u77e5',
+        plays: plays,
+        coverType: hasImg ? '\u67e5\u770b\u5c01\u9762' : '\u65e0\u56fe',
+        raw: text.slice(0, 100),
+      });
+    }
+  });
+  
+  // 如果方法1没结果，用方法2：取页面正文
+  if (results.length < 3) {
+    const lines = document.body.innerText.split('\n').filter(l => l.trim().length > 3);
+    lines.forEach(line => {
+      // 按关键词特征筛选
+      if (line.includes('\u8dd1\u6b65') || line.includes('\u8fd0\u52a8') 
+        || line.includes('\u8f6c\u53d1') || line.includes('\u89c2\u770b')) {
+        results.push({raw: line.slice(0, 150)});
+      }
+    });
+  }
 
-### 步骤D-1：涨粉维度数据采集 ✅ 新增
-每次采集必须额外记录以下信息，用于涨粉诊断分析：
-
-#### D-1 封面策略
-```json
-{
-  "coverStyle": "表情特写+标题" | "跑步侧影+大字" | "对比图/文字标题卡" | "风景空镜+文字" | "文字标题卡" | "其他",
-  "hasPerson": true/false,
-  "personPosition": "居中" | "居左" | "居右" | "无人物",
-  "hasTitleOnCover": true/false,
-  "titleText": "如果封面有文字，记录文字内容"
-}
+  return JSON.stringify({
+    keyword: location.href.match(/search\/([^?]+)/)?.[1] || '',
+    count: results.length,
+    items: results.slice(0, 30),
+  }, null, 2);
+})();
 ```
 
-#### D-2 涨粉迹象
-```json
-{
-  "followerCount": "作者粉丝数（如显示）",
-  "isSeries": "是否是系列/合集内容",
-  "hasBioCallout": "简介是否有明确关注引导"
-}
-```
+### 步骤C：特征标注
 
-#### D-3 评论区关注分析（选做）
-- 高赞评论是共鸣型还是关注型？
-- 关注型评论示例：'已关注，求更新'
-- 共鸣型评论示例：'我也这样！'
-- 记录高赞评论的前3条类型
+对提取到的每条视频，浏览器snapshot看一眼封面，手工标注：
+- **coverStyle** -- 封面类型
+- **hasPerson** -- 是否有真人出镜
+- **titleType** -- 标题类型
 
-### 步骤E：输出JSON
+### 步骤D：去重合并
 
-用 `write` 工具写到 `data.json → benchmarking`：
-
-1. 读现有 `data.json` 的 `benchmarking` 段
-2. 去重合并：如果标题已存在，跳过不重复写入
-3. 新视频写入 `benchmarking.videos[]`
-4. 更新 `benchmarking.visualAnalysis`：
-   - `titleTypeDistribution`：重新统计所有视频的标题类型分布
-   - `coverTypeDistribution`：重新统计所有视频的封面类型分布
-   - `realPersonRate`：真人出镜比例
-   - `bestAccounts`：更新最高播放作者TOP5
+读 `data.json -> benchmarking` 去重合并，按标题去重。
 
 ### 步骤E：更新对标账号库
 
-1. 从本次采集的视频中，提取播放>5000的新作者
-2. 检查 `benchmarking.accounts[]` 是否已有，去重后追加
-3. 每个新增账号格式：
+提取播放>5000的新作者，去重后追加。
+
+### 步骤F：更新封面策略分析
+
+统计本批数据的封面特征写入 `benchmarking.coverStrategyStats`：
 ```json
 {
-  "name": "作者名",
-  "note": "最高播放xxxx | 赛道定位",
-  "representativeVideo": "最高播放标题",
-  "maxPlays": 最高播放数
+  "realPersonRate": "真人出镜率%",
+  "titleOnCoverRate": "封面有标题率%",
+  "commonLayouts": ["常用布局1", "常用布局2"],
+  "benchmarkingSample": "本批xxx条",
 }
 ```
 
-### 步骤F：更新标题模板
+### 步骤G：更新标题模板
 
-根据本次采集的高播放视频（TOP3），提取新的标题公式写入 `benchmarking.titleTemplateInsights.effectiveFormulas[]`。
+提取TOP3视频的标题公式。
 
-### 步骤G：更新采集时间
+### 步骤H：更新采集时间
 
 ```
 benchmarking.lastCollection = "当前时间ISO"
-benchmarking.source = "抖音搜索：关键词1 / 关键词2 / 关键词3"
-```
-
----
-
-## 输出示例
-
-```json
-{
-  "title": "当一个中年人突然开始频繁跑步，意味着什么",
-  "author": "严料坊银星",
-  "plays": "2.3万",
-  "publishDate": "2025年10月1日",
-  "titleType": "设问型",
-  "coverStyle": "表情特写+标题",
-  "hasPerson": true,
-  "colorTone": "自然光",
-  "keyword": "中年跑步 感悟"
-}
+benchmarking.source = "抖音搜索：关键词1 / 关键词2"
 ```
 
 ---
 
 ## 常见问题
 
-### Q: 搜索结果中没有播放量显示？
-A: 记录 "播放: 无显示" 并备注是图文还是视频。图文笔记不需要封面特征分析。
+### Q: JS提取到0条？
+A: 说明DOM结构变了。跑 browser snapshot，手动看搜索结果区域的class/aria标签，更新JS选择器。
 
-### Q: 遇到验证码/空白页？
-A: 标记`该关键词遇到拦截`，跳过并尝试下一个关键词，不重试不登录。
+### Q: 播放量没显示？
+A: 记录"播放: 无显示"，图文笔记不分析。
 
-### Q: 某个作者出现多次怎么办？
-A: 每条视频都采集，标题去重只在写入时做，作者可以重复出现。
+### Q: 验证码/空白页？
+A: 跳过该关键词，换下一个。
+
+### Q: 某个作者出现多次？
+A: 每条都采集，标题去重在写入时做。
