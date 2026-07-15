@@ -11,6 +11,7 @@ skills/
 *.log
 *.bat
 *.ps1
+*.exe
 _memory/
 all_video/
 collector_videos/
@@ -20,3 +21,24 @@ moto/moto_stat/
 盛京铁骑_路线分析/
 
 moto/
+
+# Python temp files
+__pycache__/
+*.pyc
+tmp/
+
+# Sensitive
+TOOLS.md
+MEMORY.md
+IDENITY.md
+SOUL.md
+USER.md
+douyin_data/
+check_*.py
+debug_*.py
+tmp_*.py
+test_*.py
+install_*.py
+temp_*
+mac_*
+run_*

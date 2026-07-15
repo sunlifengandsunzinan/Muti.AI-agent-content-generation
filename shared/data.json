@@ -1,0 +1,3362 @@
+{
+  "materials": [
+    {
+      "id": "M-20260709-001",
+      "raw": "遇到一种人，总是想让所有人闭嘴，他自己按照他的理解再传达出去他的意思，所以他要统一所有人的思想，但这样真的对么？如果这样是对的，那岂不是世人都千篇一律了么？通往山顶的路也不只有一条啊，得让别人做别人",
+      "coreEmotion": "质疑与反思——对“统一思想”的抗拒，主张多元与包容",
+      "keyPhrase": "通往山顶的路也不只有一条，得让别人做别人",
+      "angleSuggestions": [
+        "反PUA/职场PUA：老板/领导让你闭嘴按他的想法来——你是在统一思想还是扼杀创造力？",
+        "原生家庭/教育：父母总说“听我的没错”，但每条路都通往各自的风景",
+        "亲密关系：控制型伴侣“你得按我的方式来”，爱不是统一思想",
+        "人生哲理/独立思考：每个人有自己的登山路，尊重别人做别人，也允许自己做自己",
+        "职场管理：好领导不是让所有人闭嘴，而是让不同声音都响起来"
+      ],
+      "availableAngles": [
+        "②原生家庭/教育",
+        "③亲密关系",
+        "④人生哲理/独立思考",
+        "⑤职场管理"
+      ],
+      "usedAngles": [
+        "①反PUA/职场PUA"
+      ],
+      "createdAt": "2026-07-09T10:28:00+08:00"
+    },
+    {
+      "id": "material-13",
+      "name": "跑步7年的心态变化",
+      "period": "30+岁·跑步经历",
+      "coreEmotion": "从较劲到释然，7年的认知跃迁",
+      "keyPhrase": "能跑就行，能一直跑就行",
+      "status": "partial",
+      "videosUsed": [
+        "跑步7年，越跑越退步了（标题待定）",
+        "009-跑步7年-长期主义-人生类比"
+      ],
+      "availableAngles": [
+        "①跑步对比",
+        "④对比情绪",
+        "⑤生活态度"
+      ],
+      "usedAngles": [
+        "②中年放下哲学",
+        "③长期主义"
+      ],
+      "scriptReady": true,
+      "rawFile": "shared/materials/material-13-跑步7年的心态变化.md",
+      "createdAt": "2026-07-11T17:15:00+08:00"
+    },
+    {
+      "id": "material-14",
+      "name": "高敏感体质",
+      "period": "30+岁·自我认知",
+      "coreEmotion": "从自我否定到自我接纳",
+      "keyPhrase": "我不是较真，我就是高敏感",
+      "status": "partial",
+      "videosUsed": [
+        "我以前老觉得自己容易较真（标题待定）",
+        "008-高敏感-育儿-跑步类比",
+        "工作中小心翼翼的人，是不是都该去跑跑步？"
+      ],
+      "availableAngles": [
+        "③高敏感+童年"
+      ],
+      "usedAngles": [
+        "①高敏感+跑步觉察",
+        "②高敏感+育儿",
+        "⑤中年自省",
+        "④高敏感+职场"
+      ],
+      "scriptReady": true,
+      "rawFile": "shared/materials/material-14-高敏感体质.md",
+      "createdAt": "2026-07-11T17:18:00+08:00"
+    },
+    {
+      "id": "material-15",
+      "name": "暴雨上班车被淹",
+      "period": "30+岁·职场",
+      "coreEmotion": "从「做好事为什么受伤」的委屈到「这就是我」的自我接纳",
+      "keyPhrase": "承担责任的后果就是自己默默受罪么？但这就是我",
+      "status": "unused",
+      "videosUsed": [],
+      "availableAngles": [
+        "①承担责任与自我边界",
+        "②好人没好报的自我和解",
+        "③中年人的责任与选择",
+        "④职场规则与个人良知",
+        "⑤跑步类比·跑崩了还得继续跑",
+        "⑥老好人困境"
+      ],
+      "usedAngles": [],
+      "scriptReady": false,
+      "rawFile": "shared/materials/material-15-暴雨上班车被淹.md",
+      "createdAt": "2026-07-14T17:32:00+08:00"
+    },
+    {
+      "id": "material-04",
+      "name": "转校生·体育课可乐",
+      "period": "初二·转校生",
+      "coreEmotion": "阶层落差·自卑 → 跑步后自我和解：都是人，都有弱项",
+      "keyPhrase": "同学去买可乐，我默默回教室",
+      "status": "unused",
+      "videosUsed": [],
+      "availableAngles": [
+        "①童年贫穷与自尊",
+        "②父母付出与懂事",
+        "③转校生的身份认同",
+        "④长大后回头看——跑步让我发现都是人都有弱项",
+        "⑤跑步类比·大博文跑得比装备党久",
+        "⑥教育改变命运"
+      ],
+      "usedAngles": [],
+      "scriptReady": false,
+      "rawFile": "shared/materials/material-04-转校生可乐.md",
+      "createdAt": "2026-07-14T17:39:00+08:00"
+    },
+    {
+      "id": "material-16",
+      "name": "跑步凑整强迫症",
+      "period": "长期·跑步心态",
+      "coreEmotion": "从执念到释然——不凑整也行，跑就比不跑强",
+      "keyPhrase": "跑就比不跑强，动就比不动强",
+      "status": "unused",
+      "videosUsed": [],
+      "availableAngles": [
+        "①中年人的执念与放下",
+        "②完美主义vs完成主义",
+        "③跑步哲学延伸到生活",
+        "④小目标驱动",
+        "⑤自嘲反差"
+      ],
+      "usedAngles": [],
+      "scriptReady": false,
+      "rawFile": "shared/materials/material-16-跑步凑整强迫症.md",
+      "createdAt": "2026-07-14T17:42:00+08:00"
+    },
+    {
+      "id": "material-17",
+      "name": "210斤到170斤·换了个老伴儿",
+      "category": "跑步励志·身体变化",
+      "coreEmotion": "从油腻到精干，跑步改变人生",
+      "keyPhrase": "媳妇儿闺蜜说她好像换了个老伴儿",
+      "status": "unused",
+      "videosUsed": [],
+      "availableAngles": [
+        {
+          "type": "对比型E",
+          "angle": "210斤→170斤，重度脂肪肝→没有，7年跑步前后的身体对比"
+        },
+        {
+          "type": "他人视角F",
+          "angle": "媳妇儿好朋友说换了个老伴儿——身边的人最先注意到变化"
+        },
+        {
+          "type": "情感/互动型",
+          "angle": "你有7年前的照片吗？翻出来看看，时间花在哪了"
+        },
+        {
+          "type": "冲突型B",
+          "angle": "210斤的体检报告vs现在的体检报告——医生都愣了"
+        },
+        {
+          "type": "共鸣型C",
+          "angle": "跑步前上3楼喘半天，现在跑10公里跟玩一样"
+        },
+        {
+          "type": "冲突型B",
+          "angle": "从总觉得不如人到跑步不一定跑得过我，剩下也不一定"
+        },
+        {
+          "type": "他人视角F",
+          "angle": "面对老外从吞吞吐吐到逻辑清晰，心理变化比英文进步大"
+        },
+        {
+          "type": "对比型E",
+          "angle": "以前怕的事现在硬着头皮就上了，4场全马加50场半马打底"
+        }
+      ],
+      "source": "峰峰口述·两次对话对比",
+      "photos": [
+        "file1.jpg",
+        "file2.jpg"
+      ],
+      "rawFile": "shared/materials/material-17-210斤到170斤.md",
+      "createdAt": "2026-07-14T20:56:00+08:00",
+      "notes": [
+        "2026-07-14 21:04 补充：底气来源，硬着头皮也能上，比之前从容了",
+        "2026-07-14 21:04 补充：英语变化，以前面对老外吞吞吐吐，现在虽然磕巴但逻辑清晰",
+        "2026-07-14 21:04 补充：成绩，4场全程马拉松加50场半程马拉松"
+      ]
+    }
+  ],
+  "account": {
+    "nickname": "40了，得干点儿啥了",
+    "douyinId": "48881167027",
+    "bio": "七年7600km慢跑治愈｜40岁农村长大的孩子 ｜ 不讲大道...",
+    "location": "辽宁·沈阳",
+    "age": "39岁",
+    "follows": 6,
+    "followers": 54,
+    "likesReceived": 273,
+    "videos": 25,
+    "lastUpdated": "2026-07-14T17:54:00+08:00",
+    "source": "创作者中心 Mac登录确认"
+  },
+  "ranking": {
+    "lastUpdated": "2026-07-14T17:54:00+08:00",
+    "videos": [
+      {
+        "id": "vid-7661660845058952457",
+        "title": "跑了7年还没跑明白，数据到底重不重要？",
+        "plays": 3278,
+        "lastUpdated": "2026-07-14T18:20:00+08:00",
+        "likes": 44,
+        "comments": 5,
+        "shares": 0,
+        "name": "跑了7年还没跑明白"
+      },
+      {
+        "id": "vid-7656448093562359059",
+        "title": "那把镰刀，一开始我就没整明白",
+        "plays": 3560,
+        "tags": [
+          "置顶"
+        ],
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7653336103872761130",
+        "title": "妈妈那句话，成了我心底的结",
+        "plays": 3197,
+        "tags": [
+          "置顶"
+        ],
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7658958292995083547",
+        "title": "40岁的人， 一个月只有5个粉丝，意味着什么？",
+        "plays": 2922,
+        "lastUpdated": "2026-07-14T17:54:00+08:00",
+        "likes": 61,
+        "comments": 6,
+        "shares": 1
+      },
+      {
+        "id": "vid-7655296840618757385",
+        "title": "那句“不”，最后我说成了“行吧”",
+        "plays": 1162,
+        "tags": [
+          "置顶"
+        ],
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7653098347707796782",
+        "title": "中考差的这1分，我用了快三十年还在想",
+        "plays": 999,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7659941549324782882",
+        "title": "跑着跑着，突然不想跑了，不是因为累",
+        "plays": 612,
+        "lastUpdated": "2026-07-14T17:54:00+08:00",
+        "play": 599,
+        "likes": 20,
+        "comments": 11,
+        "shares": 0
+      },
+      {
+        "id": "vid-7657533141355138323",
+        "title": "是怕关心你的人担心?还是说了也没用?",
+        "plays": 521,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7659445284631498038",
+        "title": "想了一天没想起来，跑着步突然愣住",
+        "plays": 502,
+        "lastUpdated": "2026-07-14T17:54:00+08:00",
+        "play": 495,
+        "likes": 4,
+        "comments": 3,
+        "shares": 0
+      },
+      {
+        "id": "vid-7659066788935781667",
+        "title": "去跑步出门前几分钟，你纠结过没？",
+        "plays": 584,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7655341123203878163",
+        "title": "你没说，后来就成应该做的了",
+        "plays": 383,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7657564892358004003",
+        "title": "夸别人很容易，夸自己很难",
+        "plays": 372,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7652002703467416875",
+        "title": "我上一条说错了，中年人的坚持不是一直硬撑",
+        "plays": 262,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7656360781860080948",
+        "title": "掰不动苞米，杵那干着急",
+        "plays": 232,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7657522947581693230",
+        "title": "换别人可能就过去了，我不行",
+        "plays": 296,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      },
+      {
+        "id": "vid-7650868050232675618",
+        "title": "3张旧照片，和40的我一起重启人生",
+        "plays": 161,
+        "lastUpdated": "2026-07-11T08:40:00+08:00"
+      },
+      {
+        "id": "vid-7657562712406232362",
+        "title": "我总觉得一句不行，关系就变了",
+        "plays": 139,
+        "lastUpdated": "2026-07-11T08:40:00+08:00"
+      },
+      {
+        "id": "vid-7654082079692492075",
+        "title": "人不在了以后，有些事就真来不及了...",
+        "plays": 122,
+        "lastUpdated": "2026-07-11T08:40:00+08:00"
+      },
+      {
+        "id": "vid-7660536616540179738",
+        "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
+        "plays": 297,
+        "lastUpdated": "2026-07-14T17:54:00+08:00",
+        "material": "material-11",
+        "publishDate": "2026-07-10T19:40:00+08:00",
+        "play": 268,
+        "likes": 9,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "id": "vid-7654411890017258758",
+        "title": "那天我穿着大博文，一直没说话",
+        "plays": 105,
+        "lastUpdated": "2026-07-11T08:40:00+08:00"
+      },
+      {
+        "id": "vid-7660302530500496703",
+        "title": "我教孩子的方法，都是跑步教会我的",
+        "plays": 96,
+        "lastUpdated": "2026-07-14T17:54:00+08:00",
+        "material": "material-09",
+        "publishDate": "2026-07-09T19:00:00+08:00",
+        "play": 78,
+        "likes": 3,
+        "comments": 1,
+        "shares": 0
+      },
+      {
+        "id": "vid-7656813894970789154",
+        "title": "这么难了，我都没吱声",
+        "plays": 36,
+        "lastUpdated": "2026-07-11T08:40:00+08:00"
+      },
+      {
+        "id": "vid-7653711790727023906",
+        "title": "很多事，不是来不及做，是来不及等",
+        "plays": 35,
+        "lastUpdated": "2026-07-11T08:40:00+08:00"
+      },
+      {
+        "id": "vid-7652370440849001778",
+        "title": "40岁，敢停下来吗？",
+        "plays": 272,
+        "lastUpdated": "2026-07-12T21:44:31+08:00"
+      }
+    ],
+    "source": "抖音账号主页列表采集",
+    "allVideos": [
+      {
+        "title": "刚跑了两天就有人说你",
+        "plays": 8253,
+        "likes": 24,
+        "comments": 31
+      },
+      {
+        "title": "那把镰刀一开始我就没整明白",
+        "plays": 3568,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "title": "妈妈那句话成了我心底的结",
+        "plays": 3208,
+        "likes": 10,
+        "comments": 16
+      },
+      {
+        "title": "多跑几公里，就为了不折返？",
+        "plays": 0,
+        "likes": 0,
+        "comments": 0,
+        "publishTime": "2026-07-14 19:58"
+      },
+      {
+        "title": "跑了7年还没跑明白",
+        "plays": 3283,
+        "likes": 44,
+        "comments": 5
+      },
+      {
+        "title": "40岁的人一个月只有5个粉丝",
+        "plays": 2922,
+        "likes": 61,
+        "comments": 6
+      },
+      {
+        "title": "那句不最后我说成了行吧",
+        "plays": 1164,
+        "likes": 4,
+        "comments": 19
+      },
+      {
+        "title": "中考差的这1分",
+        "plays": 1001,
+        "likes": 16,
+        "comments": 7
+      },
+      {
+        "title": "跑着跑着突然不想跑了",
+        "plays": 612,
+        "likes": 20,
+        "comments": 11
+      },
+      {
+        "title": "去跑步出门前几分钟你纠结过没",
+        "plays": 591,
+        "likes": 12,
+        "comments": 1
+      },
+      {
+        "title": "想了一天没想起来",
+        "plays": 502,
+        "likes": 4,
+        "comments": 3
+      },
+      {
+        "title": "夸别人很容易夸自己很难",
+        "plays": 372,
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "title": "跟人吵了一架",
+        "plays": 299,
+        "likes": 9,
+        "comments": 1
+      },
+      {
+        "title": "我教孩子的方法",
+        "plays": 96,
+        "likes": 3,
+        "comments": 1
+      }
+    ]
+  },
+  "postPublishTracking": {
+    "videos": [
+      {
+        "videoId": "7660536616540179738",
+        "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
+        "material": "material-11",
+        "publishDate": "2026-07-10T19:40:00+08:00",
+        "status": "briefed-day1",
+        "expectedPlays": null,
+        "expectedCompletion": null,
+        "expectedInteractions": null,
+        "dataPoints": [
+          {
+            "timestamp": "2026-07-10T19:41:00+08:00",
+            "plays": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": null
+          },
+          {
+            "timestamp": "2026-07-11T08:12:00+08:00",
+            "plays": 101,
+            "likes": null,
+            "comments": null,
+            "shares": null,
+            "completionRate": null
+          },
+          {
+            "timestamp": "2026-07-11T08:40:00+08:00",
+            "plays": 108,
+            "likes": 1,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": null
+          },
+          {
+            "timestamp": "2026-07-12T08:41:00+08:00",
+            "plays": 244,
+            "likes": 4,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": 19.35
+          }
+        ],
+        "briefs": [
+          {
+            "day": 1,
+            "timestamp": "2026-07-11T08:45:00+08:00"
+          }
+        ],
+        "review": null
+      },
+      {
+        "videoId": "7660302530500496703",
+        "title": "我教孩子的方法，都是跑步教会我的",
+        "material": "material-09",
+        "publishDate": "2026-07-09T19:00:00+08:00",
+        "status": "briefed-day3",
+        "expectedPlays": null,
+        "expectedCompletion": null,
+        "expectedInteractions": null,
+        "dataPoints": [
+          {
+            "timestamp": "2026-07-09T19:01:00+08:00",
+            "plays": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": null
+          },
+          {
+            "timestamp": "2026-07-11T08:12:00+08:00",
+            "plays": 72,
+            "likes": null,
+            "comments": null,
+            "shares": null,
+            "completionRate": null
+          },
+          {
+            "timestamp": "2026-07-11T08:40:00+08:00",
+            "plays": 72,
+            "likes": null,
+            "comments": null,
+            "shares": null,
+            "completionRate": null
+          },
+          {
+            "timestamp": "2026-07-12T08:41:00+08:00",
+            "plays": 75,
+            "likes": 3,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": 14.29
+          }
+        ],
+        "briefs": [
+          {
+            "day": 3,
+            "timestamp": "2026-07-12T15:10:00+08:00"
+          }
+        ],
+        "review": null
+      },
+      {
+        "videoId": "7661502246579981602",
+        "title": "刚跑了两天，就有人说你",
+        "publishDate": "2026-07-12T19:40:00+08:00",
+        "status": "tracking",
+        "expectedPlays": null,
+        "expectedCompletion": null,
+        "expectedInteractions": null,
+        "dataPoints": [
+          {
+            "timestamp": "2026-07-14T16:48:00+08:00",
+            "plays": null,
+            "likes": 24,
+            "comments": 7,
+            "shares": 31,
+            "completionRate": 12.38,
+            "dropRate2s": 17.66,
+            "duration": "0:00:15"
+          }
+        ],
+        "briefs": [],
+        "review": null,
+        "videoTitle": "刚跑了两天，就有人说你"
+      },
+      {
+        "videoId": "7661660845058952457",
+        "title": "跑了7年还没跑明白，数据到底重不重要？",
+        "publishDate": "2026-07-13T19:40:00+08:00",
+        "status": "tracking",
+        "expectedPlays": null,
+        "expectedCompletion": null,
+        "expectedInteractions": null,
+        "dataPoints": [
+          {
+            "timestamp": "2026-07-14T16:49:00+08:00",
+            "plays": null,
+            "likes": 44,
+            "comments": 5,
+            "shares": null,
+            "completionRate": 21.53,
+            "dropRate2s": 24.01,
+            "duration": "0:00:13"
+          }
+        ],
+        "briefs": [],
+        "review": null,
+        "videoTitle": "跑了7年还没跑明白，数据到底重不重要？"
+      }
+    ]
+  },
+  "selfReview": null,
+  "creatorCenter": {
+    "lastSnapshot": {
+      "fetchTime": "2026-07-14T20:34:15.070675+08:00",
+      "videos": [
+        {
+          "workId": "7658958292995083547",
+          "title": "40岁的人，一个月只有5个粉丝，意味着什",
+          "plays": 2770,
+          "likes": 21,
+          "comments": 4,
+          "shares": 2,
+          "completionRate": 4.95,
+          "exit2sRate": 45.8,
+          "followerPlayRatio": 37.4,
+          "fansGained": 10,
+          "fansLost": 2,
+          "duration": 14,
+          "publishDate": "2026-07-05"
+        },
+        {
+          "workId": "7659445284631498038",
+          "title": "想了一天没想起来，跑着步突然愣住",
+          "plays": 495,
+          "likes": 5,
+          "comments": 1,
+          "shares": 0,
+          "completionRate": 13.7,
+          "exit2sRate": 28.02,
+          "followerPlayRatio": 10.9,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 17,
+          "publishDate": "2026-07-07"
+        },
+        {
+          "workId": "7659941549324782882",
+          "title": "跑着跑着，突然不想跑了，不是因为累",
+          "plays": 600,
+          "likes": 8,
+          "comments": 0,
+          "shares": 0,
+          "completionRate": 16.31,
+          "exit2sRate": 34.7,
+          "followerPlayRatio": 1.5,
+          "fansGained": 1,
+          "fansLost": 0,
+          "duration": 16,
+          "publishDate": "2026-07-08"
+        },
+        {
+          "workId": "7660302530500496703",
+          "title": "我教孩子的方法，都是跑步教会我的",
+          "plays": 78,
+          "likes": 1,
+          "comments": 0,
+          "shares": 0,
+          "completionRate": 13.82,
+          "exit2sRate": 40.25,
+          "followerPlayRatio": 2.6,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 16,
+          "publishDate": "2026-07-09"
+        },
+        {
+          "workId": "7660536616540179738",
+          "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模",
+          "plays": 268,
+          "likes": 3,
+          "comments": 0,
+          "shares": 0,
+          "completionRate": 18.79,
+          "exit2sRate": 23.41,
+          "followerPlayRatio": 2.7,
+          "fansGained": 0,
+          "fansLost": 1,
+          "duration": 17,
+          "publishDate": "2026-07-10"
+        },
+        {
+          "workId": "7663380620626586163",
+          "title": "刚跑了两天，就有人说你",
+          "plays": 21,
+          "likes": 0,
+          "comments": 0,
+          "shares": 0,
+          "completionRate": null,
+          "exit2sRate": null,
+          "followerPlayRatio": null,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 12,
+          "publishDate": "2026-07-12"
+        },
+        {
+          "workId": "7663141550156458286",
+          "title": "那把镰刀，一开始我就没整明白",
+          "plays": 3560,
+          "likes": 60,
+          "comments": 14,
+          "shares": 5,
+          "completionRate": 24.8,
+          "exit2sRate": 16.41,
+          "followerPlayRatio": 10.9,
+          "fansGained": 3,
+          "fansLost": 0,
+          "duration": 18,
+          "publishDate": "2026-06-29"
+        },
+        {
+          "workId": "7662570912108202286",
+          "title": "妈妈那句话，成了我心底的结",
+          "plays": 3197,
+          "likes": 46,
+          "comments": 6,
+          "shares": 3,
+          "completionRate": 20.41,
+          "exit2sRate": 17.89,
+          "followerPlayRatio": 5.9,
+          "fansGained": 2,
+          "fansLost": 0,
+          "duration": 17,
+          "publishDate": "2026-06-20"
+        },
+        {
+          "workId": "7662057956358212378",
+          "title": "那句「不」，最后我说成了「行吧」",
+          "plays": 1162,
+          "likes": 22,
+          "comments": 7,
+          "shares": 0,
+          "completionRate": 19.46,
+          "exit2sRate": 20.79,
+          "followerPlayRatio": 14,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 15,
+          "publishDate": "2026-06-25"
+        },
+        {
+          "workId": "7662948678287633710",
+          "title": "中考差的这1分，我用了快三十年还在想",
+          "plays": 999,
+          "likes": 11,
+          "comments": 4,
+          "shares": 0,
+          "completionRate": 16.32,
+          "exit2sRate": 31.32,
+          "followerPlayRatio": 23.3,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 17,
+          "publishDate": "2026-06-27"
+        },
+        {
+          "workId": "7661599444351356206",
+          "title": "是怕关心你的人担心?还是说了也没用?",
+          "plays": 521,
+          "likes": 7,
+          "comments": 3,
+          "shares": 0,
+          "completionRate": 19.68,
+          "exit2sRate": 40.23,
+          "followerPlayRatio": 9.3,
+          "fansGained": 1,
+          "fansLost": 0,
+          "duration": 16,
+          "publishDate": "2026-06-23"
+        },
+        {
+          "workId": "7661262488083123762",
+          "title": "去跑步出门前几分钟，你纠结过没？",
+          "plays": 584,
+          "likes": 6,
+          "comments": 3,
+          "shares": 2,
+          "completionRate": 23.88,
+          "exit2sRate": 25.13,
+          "followerPlayRatio": 4.8,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 14,
+          "publishDate": "2026-07-06"
+        },
+        {
+          "workId": "7660832551529516297",
+          "title": "你没说，后来就成应该做的了",
+          "plays": 383,
+          "likes": 5,
+          "comments": 2,
+          "shares": 0,
+          "completionRate": 20.64,
+          "exit2sRate": 31.67,
+          "followerPlayRatio": 8.9,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 17,
+          "publishDate": "2026-07-03"
+        },
+        {
+          "workId": "7661262488083123764",
+          "title": "夸别人很容易，夸自己很难",
+          "plays": 372,
+          "likes": 5,
+          "comments": 2,
+          "shares": 0,
+          "completionRate": 29.03,
+          "exit2sRate": 35.71,
+          "followerPlayRatio": 7,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 14,
+          "publishDate": "2026-07-04"
+        },
+        {
+          "workId": "7663624648603060992",
+          "title": "我上一条说错了，中年人的坚持不是一直硬撑",
+          "plays": 262,
+          "likes": 3,
+          "comments": 2,
+          "shares": 0,
+          "completionRate": 29.9,
+          "exit2sRate": 27.62,
+          "followerPlayRatio": 7.9,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 17,
+          "publishDate": "2026-07-11"
+        },
+        {
+          "workId": "7662928301144802038",
+          "title": "40岁，敢停下来吗？",
+          "plays": 272,
+          "likes": 1,
+          "comments": 0,
+          "shares": 0,
+          "completionRate": 25.77,
+          "exit2sRate": 27.35,
+          "followerPlayRatio": 2.6,
+          "fansGained": 0,
+          "fansLost": 1,
+          "duration": 13,
+          "publishDate": "2026-06-28"
+        },
+        {
+          "workId": "7660738011810969390",
+          "title": "掰不动苞米，杵那干着急",
+          "plays": 232,
+          "likes": 1,
+          "comments": 0,
+          "shares": 0,
+          "completionRate": 17.83,
+          "exit2sRate": 23.75,
+          "followerPlayRatio": 1.6,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 15,
+          "publishDate": "2026-07-01"
+        },
+        {
+          "workId": "7661735046523227950",
+          "title": "换别人可能就过去了，我不行",
+          "plays": 296,
+          "likes": 2,
+          "comments": 1,
+          "shares": 0,
+          "completionRate": 20,
+          "exit2sRate": 33.98,
+          "followerPlayRatio": 14.2,
+          "fansGained": 0,
+          "fansLost": 0,
+          "duration": 16,
+          "publishDate": "2026-06-24"
+        }
+      ],
+      "source": "Manager亲自采集（Mac创作者中心·全量）",
+      "overview": {
+        "followers": 54,
+        "likesReceived": 273,
+        "videos": 25,
+        "following": 6,
+        "plays7d": 12300,
+        "homePageViews": 61,
+        "likes7d": 151,
+        "comments7d": 52,
+        "shares7d": 2,
+        "netFansGained7d": 45,
+        "vsPrev7d": "+9390 plays"
+      },
+      "pendingDepthData": [
+        "我上一条说错了"
+      ],
+      "depthFetched": [
+        "刚跑了两天",
+        "跑了7年"
+      ],
+      "videosWithDepth": 10
+    },
+    "snapshots": [
+      {
+        "fetchTime": "2026-07-12T08:41:00+08:00",
+        "videos": [
+          {
+            "workId": "7658958292995083547",
+            "title": "40岁的人，一个月只有5个粉丝，意味着什",
+            "plays": 2425
+          },
+          {
+            "workId": "7659445284631498038",
+            "title": "想了一天没想起来，跑着步突然愣住",
+            "plays": 470
+          },
+          {
+            "workId": "7659941549324782882",
+            "title": "跑着跑着，突然不想跑了，不是因为累",
+            "plays": 547
+          },
+          {
+            "workId": "7660302530500496703",
+            "title": "我教孩子的方法，都是跑步教会我的",
+            "plays": 75
+          },
+          {
+            "workId": "7660536616540179738",
+            "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模",
+            "plays": 244
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-07-12T21:20:00+08:00",
+        "videos": [
+          {
+            "workId": "7658958292995083547",
+            "title": "40岁的人，一个月只有5个粉丝",
+            "plays": 2425,
+            "likes": 21,
+            "comments": 4,
+            "shares": 2,
+            "completionRate": 5.5,
+            "exit2sRate": 45.49,
+            "followerPlayRatio": 43,
+            "fansGained": 10,
+            "fansLost": 2
+          },
+          {
+            "workId": "7659445284631498038",
+            "title": "想了一天没想起来",
+            "plays": 495,
+            "likes": 5,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": 13.7,
+            "exit2sRate": 28.02,
+            "followerPlayRatio": 10.9,
+            "fansGained": 0,
+            "fansLost": 0
+          },
+          {
+            "workId": "7659941549324782882",
+            "title": "跑着跑着不想跑了",
+            "plays": 599,
+            "likes": 8,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 16.31,
+            "exit2sRate": 34.7,
+            "followerPlayRatio": 1.5,
+            "fansGained": 1,
+            "fansLost": 0
+          },
+          {
+            "workId": "7660302530500496703",
+            "title": "教孩子的方法",
+            "plays": 78,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 13.93,
+            "exit2sRate": 39.87,
+            "followerPlayRatio": 2.6,
+            "fansGained": 0,
+            "fansLost": 0
+          },
+          {
+            "workId": "7660536616540179738",
+            "title": "吵了一架",
+            "plays": 244,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 19.35,
+            "exit2sRate": 22.36,
+            "followerPlayRatio": 2.9,
+            "fansGained": 0,
+            "fansLost": 0
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-07-12T21:30:00+08:00",
+        "videos": [
+          {
+            "workId": "7658958292995083547",
+            "title": "40岁的人一个月只有5个粉丝",
+            "plays": 2425,
+            "likes": 21,
+            "comments": 4,
+            "shares": 2,
+            "completionRate": 5.5,
+            "exit2sRate": 45.49,
+            "followerPlayRatio": 43,
+            "fansGained": 10,
+            "fansLost": 2
+          },
+          {
+            "workId": "7659445284631498038",
+            "title": "想了一天没想起来",
+            "plays": 495,
+            "likes": 5,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": 13.7,
+            "exit2sRate": 28.02,
+            "followerPlayRatio": 10.9,
+            "fansGained": 0,
+            "fansLost": 0
+          },
+          {
+            "workId": "7659941549324782882",
+            "title": "跑着跑着不想跑了",
+            "plays": 599,
+            "likes": 8,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 16.31,
+            "exit2sRate": 34.7,
+            "followerPlayRatio": 1.5,
+            "fansGained": 1,
+            "fansLost": 0
+          },
+          {
+            "workId": "7660302530500496703",
+            "title": "教孩子的方法",
+            "plays": 78,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 13.82,
+            "exit2sRate": 40.25,
+            "followerPlayRatio": 2.6,
+            "fansGained": 0,
+            "fansLost": 0
+          },
+          {
+            "workId": "7660536616540179738",
+            "title": "吵了一架",
+            "plays": 268,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 18.79,
+            "exit2sRate": 23.41,
+            "followerPlayRatio": 2.7,
+            "fansGained": 0,
+            "fansLost": 1
+          },
+          {
+            "workId": "7663380620626586163",
+            "title": "刚跑了两天，就有人说你",
+            "plays": 21,
+            "duration": 12,
+            "publishDate": "2026-07-12",
+            "completionRate": null,
+            "exit2sRate": null
+          }
+        ]
+      },
+      {
+        "fetchTime": "2026-07-12T21:44:00+08:00",
+        "videos": [
+          {
+            "workId": "7658958292995083547",
+            "title": "40岁的人，一个月只有5个粉丝，意味着什",
+            "plays": 2770,
+            "likes": 21,
+            "comments": 4,
+            "shares": 2,
+            "completionRate": 4.95,
+            "exit2sRate": 45.8,
+            "followerPlayRatio": 37.4,
+            "fansGained": 10,
+            "fansLost": 2,
+            "duration": 14,
+            "publishDate": "2026-07-05"
+          },
+          {
+            "workId": "7659445284631498038",
+            "title": "想了一天没想起来，跑着步突然愣住",
+            "plays": 495,
+            "likes": 5,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": 13.7,
+            "exit2sRate": 28.02,
+            "followerPlayRatio": 10.9,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 17,
+            "publishDate": "2026-07-07"
+          },
+          {
+            "workId": "7659941549324782882",
+            "title": "跑着跑着，突然不想跑了，不是因为累",
+            "plays": 600,
+            "likes": 8,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 16.31,
+            "exit2sRate": 34.7,
+            "followerPlayRatio": 1.5,
+            "fansGained": 1,
+            "fansLost": 0,
+            "duration": 16,
+            "publishDate": "2026-07-08"
+          },
+          {
+            "workId": "7660302530500496703",
+            "title": "我教孩子的方法，都是跑步教会我的",
+            "plays": 78,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 13.82,
+            "exit2sRate": 40.25,
+            "followerPlayRatio": 2.6,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 16,
+            "publishDate": "2026-07-09"
+          },
+          {
+            "workId": "7660536616540179738",
+            "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模",
+            "plays": 268,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 18.79,
+            "exit2sRate": 23.41,
+            "followerPlayRatio": 2.7,
+            "fansGained": 0,
+            "fansLost": 1,
+            "duration": 17,
+            "publishDate": "2026-07-10"
+          },
+          {
+            "workId": "7663380620626586163",
+            "title": "刚跑了两天，就有人说你",
+            "plays": 21,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": null,
+            "exit2sRate": null,
+            "followerPlayRatio": null,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 12,
+            "publishDate": "2026-07-12"
+          },
+          {
+            "workId": "7663141550156458286",
+            "title": "那把镰刀，一开始我就没整明白",
+            "plays": 3560,
+            "likes": 60,
+            "comments": 14,
+            "shares": 5,
+            "completionRate": 24.8,
+            "exit2sRate": 16.41,
+            "followerPlayRatio": 10.9,
+            "fansGained": 3,
+            "fansLost": 0,
+            "duration": 18,
+            "publishDate": "2026-06-29"
+          },
+          {
+            "workId": "7662570912108202286",
+            "title": "妈妈那句话，成了我心底的结",
+            "plays": 3197,
+            "likes": 46,
+            "comments": 6,
+            "shares": 3,
+            "completionRate": 20.41,
+            "exit2sRate": 17.89,
+            "followerPlayRatio": 5.9,
+            "fansGained": 2,
+            "fansLost": 0,
+            "duration": 17,
+            "publishDate": "2026-06-20"
+          },
+          {
+            "workId": "7662057956358212378",
+            "title": "那句「不」，最后我说成了「行吧」",
+            "plays": 1162,
+            "likes": 22,
+            "comments": 7,
+            "shares": 0,
+            "completionRate": 19.46,
+            "exit2sRate": 20.79,
+            "followerPlayRatio": 14,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 15,
+            "publishDate": "2026-06-25"
+          },
+          {
+            "workId": "7662948678287633710",
+            "title": "中考差的这1分，我用了快三十年还在想",
+            "plays": 999,
+            "likes": 11,
+            "comments": 4,
+            "shares": 0,
+            "completionRate": 16.32,
+            "exit2sRate": 31.32,
+            "followerPlayRatio": 23.3,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 17,
+            "publishDate": "2026-06-27"
+          },
+          {
+            "workId": "7661599444351356206",
+            "title": "是怕关心你的人担心?还是说了也没用?",
+            "plays": 521,
+            "likes": 7,
+            "comments": 3,
+            "shares": 0,
+            "completionRate": 19.68,
+            "exit2sRate": 40.23,
+            "followerPlayRatio": 9.3,
+            "fansGained": 1,
+            "fansLost": 0,
+            "duration": 16,
+            "publishDate": "2026-06-23"
+          },
+          {
+            "workId": "7661262488083123762",
+            "title": "去跑步出门前几分钟，你纠结过没？",
+            "plays": 584,
+            "likes": 6,
+            "comments": 3,
+            "shares": 2,
+            "completionRate": 23.88,
+            "exit2sRate": 25.13,
+            "followerPlayRatio": 4.8,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 14,
+            "publishDate": "2026-07-06"
+          },
+          {
+            "workId": "7660832551529516297",
+            "title": "你没说，后来就成应该做的了",
+            "plays": 383,
+            "likes": 5,
+            "comments": 2,
+            "shares": 0,
+            "completionRate": 20.64,
+            "exit2sRate": 31.67,
+            "followerPlayRatio": 8.9,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 17,
+            "publishDate": "2026-07-03"
+          },
+          {
+            "workId": "7661262488083123764",
+            "title": "夸别人很容易，夸自己很难",
+            "plays": 372,
+            "likes": 5,
+            "comments": 2,
+            "shares": 0,
+            "completionRate": 29.03,
+            "exit2sRate": 35.71,
+            "followerPlayRatio": 7,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 14,
+            "publishDate": "2026-07-04"
+          },
+          {
+            "workId": "7663624648603060992",
+            "title": "我上一条说错了，中年人的坚持不是一直硬撑",
+            "plays": 262,
+            "likes": 3,
+            "comments": 2,
+            "shares": 0,
+            "completionRate": 29.9,
+            "exit2sRate": 27.62,
+            "followerPlayRatio": 7.9,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 17,
+            "publishDate": "2026-07-11"
+          },
+          {
+            "workId": "7662928301144802038",
+            "title": "40岁，敢停下来吗？",
+            "plays": 272,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 25.77,
+            "exit2sRate": 27.35,
+            "followerPlayRatio": 2.6,
+            "fansGained": 0,
+            "fansLost": 1,
+            "duration": 13,
+            "publishDate": "2026-06-28"
+          },
+          {
+            "workId": "7660738011810969390",
+            "title": "掰不动苞米，杵那干着急",
+            "plays": 232,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "completionRate": 17.83,
+            "exit2sRate": 23.75,
+            "followerPlayRatio": 1.6,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 15,
+            "publishDate": "2026-07-01"
+          },
+          {
+            "workId": "7661735046523227950",
+            "title": "换别人可能就过去了，我不行",
+            "plays": 296,
+            "likes": 2,
+            "comments": 1,
+            "shares": 0,
+            "completionRate": 20,
+            "exit2sRate": 33.98,
+            "followerPlayRatio": 14.2,
+            "fansGained": 0,
+            "fansLost": 0,
+            "duration": 16,
+            "publishDate": "2026-06-24"
+          }
+        ]
+      }
+    ],
+    "lastDelta": {
+      "videos": [
+        {
+          "workId": "7658958292995083547",
+          "title": "40岁的人，一个月只有5个粉丝，意味着什",
+          "prevPlays": 2425,
+          "newPlays": 2770,
+          "change": 345
+        },
+        {
+          "workId": "7659445284631498038",
+          "title": "想了一天没想起来，跑着步突然愣住",
+          "prevPlays": 495,
+          "newPlays": 495,
+          "change": null
+        },
+        {
+          "workId": "7659941549324782882",
+          "title": "跑着跑着，突然不想跑了，不是因为累",
+          "prevPlays": 599,
+          "newPlays": 600,
+          "change": 1
+        },
+        {
+          "workId": "7660302530500496703",
+          "title": "我教孩子的方法，都是跑步教会我的",
+          "prevPlays": 78,
+          "newPlays": 78,
+          "change": null
+        },
+        {
+          "workId": "7660536616540179738",
+          "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模",
+          "prevPlays": 268,
+          "newPlays": 268,
+          "change": null
+        },
+        {
+          "workId": "7663380620626586163",
+          "title": "刚跑了两天，就有人说你",
+          "prevPlays": 21,
+          "newPlays": 21,
+          "change": null
+        },
+        {
+          "workId": "7663141550156458286",
+          "title": "那把镰刀，一开始我就没整明白",
+          "prevPlays": null,
+          "newPlays": 3560,
+          "change": null
+        },
+        {
+          "workId": "7662570912108202286",
+          "title": "妈妈那句话，成了我心底的结",
+          "prevPlays": null,
+          "newPlays": 3197,
+          "change": null
+        },
+        {
+          "workId": "7662057956358212378",
+          "title": "那句「不」，最后我说成了「行吧」",
+          "prevPlays": null,
+          "newPlays": 1162,
+          "change": null
+        },
+        {
+          "workId": "7662948678287633710",
+          "title": "中考差的这1分，我用了快三十年还在想",
+          "prevPlays": null,
+          "newPlays": 999,
+          "change": null
+        },
+        {
+          "workId": "7661599444351356206",
+          "title": "是怕关心你的人担心?还是说了也没用?",
+          "prevPlays": null,
+          "newPlays": 521,
+          "change": null
+        },
+        {
+          "workId": "7661262488083123762",
+          "title": "去跑步出门前几分钟，你纠结过没？",
+          "prevPlays": null,
+          "newPlays": 584,
+          "change": null
+        },
+        {
+          "workId": "7660832551529516297",
+          "title": "你没说，后来就成应该做的了",
+          "prevPlays": null,
+          "newPlays": 383,
+          "change": null
+        },
+        {
+          "workId": "7661262488083123764",
+          "title": "夸别人很容易，夸自己很难",
+          "prevPlays": null,
+          "newPlays": 372,
+          "change": null
+        },
+        {
+          "workId": "7663624648603060992",
+          "title": "我上一条说错了，中年人的坚持不是一直硬撑",
+          "prevPlays": null,
+          "newPlays": 262,
+          "change": null
+        },
+        {
+          "workId": "7662928301144802038",
+          "title": "40岁，敢停下来吗？",
+          "prevPlays": null,
+          "newPlays": 272,
+          "change": null
+        },
+        {
+          "workId": "7660738011810969390",
+          "title": "掰不动苞米，杵那干着急",
+          "prevPlays": null,
+          "newPlays": 232,
+          "change": null
+        },
+        {
+          "workId": "7661735046523227950",
+          "title": "换别人可能就过去了，我不行",
+          "prevPlays": null,
+          "newPlays": 296,
+          "change": null
+        }
+      ],
+      "totalPlaysDelta": 0
+    },
+    "trend": {
+      "avgCompletion7d": 19.72,
+      "avgExit2s7d": 29.65,
+      "bestCompletionVideo": "我上一条说错了",
+      "bestExit2sVideo": "那把镰刀，一开始我就没整明白"
+    },
+    "depthData": {
+      "刚跑了两天": {
+        "videoId": "7661502246579981602",
+        "title": "刚跑了两天，就有人说你",
+        "publishTime": "2026-07-12 19:40",
+        "duration": "00:15",
+        "plays": 8253,
+        "likes": 24,
+        "comments": 31,
+        "shares": 2,
+        "bookmarks": 4,
+        "completionRate": 12.38,
+        "dropRate2s": 17.65,
+        "fansPlayRatio": 0.1,
+        "newFans": 1,
+        "avgPlayDuration": 8,
+        "avgPlayDurationChange": "+13.79%",
+        "completionRateVsPast": "-34.87%",
+        "dropRate2sVsPast": "-35.01%",
+        "retention5s": 45.88,
+        "retention5sVsPast": "+22.1%",
+        "avgPlayRatio": 53.52,
+        "avgPlayRatioVsPast": "-8.77%",
+        "likeRate": 0.29,
+        "commentRate": 0.38,
+        "shareRate": 0.02,
+        "bookmarkRate": 0.05,
+        "likeRateVsPast": "-84.28%",
+        "commentRateVsPast": "-47.86%",
+        "shareRateVsPast": "+100%",
+        "bookmarkRateVsPast": "+100%",
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 97.4,
+          "profile": 2,
+          "message": 0.5
+        },
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "北京",
+              "ratio": 24.77
+            },
+            {
+              "region": "辽宁",
+              "ratio": 19.07
+            },
+            {
+              "region": "河北",
+              "ratio": 9.03
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 6.91
+            },
+            {
+              "region": "山东",
+              "ratio": 6.79
+            },
+            {
+              "region": "吉林",
+              "ratio": 5.48
+            },
+            {
+              "region": "内蒙古",
+              "ratio": 4.71
+            },
+            {
+              "region": "天津",
+              "ratio": 4.02
+            },
+            {
+              "region": "江苏",
+              "ratio": 2.28
+            },
+            {
+              "region": "陕西",
+              "ratio": 2.02
+            }
+          ],
+          "interests": [
+            {
+              "interest": "生活记录",
+              "ratio": 33.33
+            },
+            {
+              "interest": "汽车",
+              "ratio": 16.67
+            },
+            {
+              "interest": "财经",
+              "ratio": 16.67
+            },
+            {
+              "interest": "随拍",
+              "ratio": 16.67
+            },
+            {
+              "interest": "体育",
+              "ratio": 16.67
+            }
+          ]
+        },
+        "commentHotWords": [
+          "好为人师",
+          "指点",
+          "大聪明",
+          "否定",
+          "总有人",
+          "减肥",
+          "目标",
+          "锻炼",
+          "专业的",
+          "建议",
+          "指挥",
+          "身边",
+          "水平",
+          "点评",
+          "喜欢",
+          "方法",
+          "一年",
+          "五年",
+          "肌肉",
+          "感觉"
+        ],
+        "fetchTime": "2026-07-14T20:10:00+08:00",
+        "tabsCompleted": 4
+      },
+      "跑了7年": {
+        "title": "跑了7年还没跑明白，数据到底重不重要？",
+        "plays": 3278,
+        "likes": 44,
+        "comments": 5,
+        "duration": "00:13",
+        "completionRate": 21.53,
+        "dropRate2s": 24,
+        "fansPlayRatio": 0.1,
+        "newFans": 3,
+        "attractionRate": 0.09,
+        "insight": "播放+1421%，吸粉率+100%，内容质量好",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "那把镰刀": {
+        "title": "那把镰刀，一开始我就没整明白",
+        "plays": 3568,
+        "likes": 3,
+        "comments": 0,
+        "duration": "00:09",
+        "completionRate": 24.79,
+        "dropRate2s": 16.41,
+        "fansPlayRatio": 0.2,
+        "avgPlayRatio": 97.48,
+        "insight": "完播率24.79%为全账号最高，2s跳出16.41%为最低！94秒口播，观众几乎全看完了",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "妈妈那句话": {
+        "title": "妈妈那句话，成了我心底的结",
+        "plays": 3207,
+        "likes": 10,
+        "comments": 16,
+        "duration": "00:18",
+        "completionRate": 20.41,
+        "dropRate2s": 17.95,
+        "fansPlayRatio": 0.2,
+        "newFans": 1,
+        "insight": "完播率20.41%优秀，2s跳出17.95%很低，评论16条互动好，情感类内容质量高",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "40岁一个月5个粉丝": {
+        "title": "40岁的人一个月只有5个粉丝，意味着什么？",
+        "plays": 2922,
+        "likes": 61,
+        "comments": 6,
+        "duration": "00:28",
+        "completionRate": 4.76,
+        "dropRate2s": 46.45,
+        "fansPlayRatio": 0.4,
+        "newFans": 10,
+        "bookmarks": 9,
+        "insight": "完播率仅4.76%，2s跳出46.45%，说明28秒太长。但点赞率2.09%最高（+86.86%），收藏率也+100%，是涨粉效率最高的视频",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "那句不行说了行吧": {
+        "title": "那句不，最后我说成了行吧",
+        "plays": 1164,
+        "likes": 4,
+        "comments": 19,
+        "duration": "00:10",
+        "completionRate": 19.43,
+        "dropRate2s": 20.91,
+        "fansPlayRatio": 1,
+        "newFans": 1,
+        "insight": "完播率19.43%不错，评论率+118.23%（19条评论），互动深度好。粉丝播放占比1%",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "中考1分": {
+        "title": "中考差的这1分，我用了快三十年还在想",
+        "plays": 1001,
+        "likes": 16,
+        "comments": 7,
+        "duration": "00:14",
+        "completionRate": 16.31,
+        "dropRate2s": 31.38,
+        "fansPlayRatio": 1,
+        "insight": "2s跳出31.38%偏高，完播率16.31%中等。标题的悬念开头可以优化",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "跑着跑着不想跑了": {
+        "title": "跑着跑着，突然不想跑了，不是因为累",
+        "plays": 612,
+        "likes": 20,
+        "comments": 11,
+        "duration": "00:12",
+        "completionRate": 16.26,
+        "dropRate2s": 34.38,
+        "fansPlayRatio": 1.5,
+        "newFans": 4,
+        "insight": "吸粉率+100%（4粉），评论率+313.37%（11条），互动活跃。2s跳出34%偏高",
+        "fetchTime": "2026-07-14T18:20:00+08:00"
+      },
+      "跑了7年还没跑明白": {
+        "videoId": "7661660845058952457",
+        "title": "跑了7年还没跑明白，数据到底重不重要？",
+        "publishTime": "2026-07-13 19:40",
+        "duration": "00:13",
+        "plays": 3283,
+        "likes": 44,
+        "comments": 5,
+        "shares": 0,
+        "bookmarks": 0,
+        "completionRate": 21.49,
+        "dropRate2s": 24.01,
+        "fansPlayRatio": 0.1,
+        "newFans": 3,
+        "avgPlayDuration": 8,
+        "avgPlayDurationChange": "+5.47%",
+        "completionRateVsPast": "+13.18%",
+        "dropRate2sVsPast": "-3.52%",
+        "retention5s": 48.04,
+        "retention5sVsPast": "+27.89%",
+        "avgPlayRatio": 60.73,
+        "avgPlayRatioVsPast": "-1.12%",
+        "likeRate": 1.34,
+        "commentRate": 0.15,
+        "shareRate": 0,
+        "bookmarkRate": 0,
+        "likeRateVsPast": "-15.53%",
+        "commentRateVsPast": "-80.83%",
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 96.4,
+          "profile": 3,
+          "local": 0.3,
+          "message": 0.2
+        },
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "北京",
+              "ratio": 22.94
+            },
+            {
+              "region": "辽宁",
+              "ratio": 19.48
+            },
+            {
+              "region": "吉林",
+              "ratio": 8.23
+            },
+            {
+              "region": "河北",
+              "ratio": 6.06
+            },
+            {
+              "region": "广东",
+              "ratio": 4.33
+            },
+            {
+              "region": "山东",
+              "ratio": 3.9
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 3.03
+            },
+            {
+              "region": "内蒙古",
+              "ratio": 3.03
+            },
+            {
+              "region": "天津",
+              "ratio": 3.03
+            },
+            {
+              "region": "山西",
+              "ratio": 2.6
+            }
+          ],
+          "interests": [
+            {
+              "interest": "随拍",
+              "ratio": 50
+            },
+            {
+              "interest": "体育",
+              "ratio": 50
+            }
+          ]
+        },
+        "commentHotWords": [
+          "心率",
+          "加油",
+          "不在意",
+          "不爱",
+          "和我",
+          "选手",
+          "多年",
+          "跑步",
+          "数据",
+          "手机"
+        ],
+        "fetchTime": "2026-07-14T20:20:00+08:00",
+        "tabsCompleted": 4
+      },
+      "跑着跑着突然不想跑了": {
+        "videoId": "7659941549324782882",
+        "title": "跑着跑着，突然不想跑了，不是因为累",
+        "publishTime": "2026-07-08 19:40",
+        "duration": "00:12",
+        "plays": 612,
+        "likes": 20,
+        "comments": 11,
+        "shares": 0,
+        "bookmarks": 2,
+        "danmaku": 0,
+        "completionRate": 16.26,
+        "dropRate2s": 34.38,
+        "fansPlayRatio": 1.5,
+        "newFans": 4,
+        "avgPlayDuration": 7,
+        "avgPlayDurationChange": "+1.24%",
+        "completionRateVsPast": "-25.35%",
+        "dropRate2sVsPast": "+33.74%",
+        "retention5s": 40.92,
+        "retention5sVsPast": "+11.52%",
+        "avgPlayRatio": 57.39,
+        "avgPlayRatioVsPast": "-19.12%",
+        "likeRate": 3.27,
+        "commentRate": 1.8,
+        "shareRate": 0,
+        "bookmarkRate": 0.33,
+        "likeRateVsPast": "+181.24%",
+        "commentRateVsPast": "+313.37%",
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 80.2,
+          "profile": 17.4,
+          "message": 2.3,
+          "search": 0.2
+        },
+        "douPlusPlays": 426,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "辽宁",
+              "ratio": 12.23
+            },
+            {
+              "region": "北京",
+              "ratio": 11.27
+            },
+            {
+              "region": "河北",
+              "ratio": 5.76
+            },
+            {
+              "region": "山东",
+              "ratio": 5.52
+            },
+            {
+              "region": "江苏",
+              "ratio": 5.52
+            },
+            {
+              "region": "河南",
+              "ratio": 5.52
+            },
+            {
+              "region": "四川",
+              "ratio": 4.56
+            },
+            {
+              "region": "吉林",
+              "ratio": 3.84
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 3.6
+            },
+            {
+              "region": "湖北",
+              "ratio": 3.6
+            }
+          ],
+          "interests": []
+        },
+        "commentHotWords": [
+          "选择",
+          "不知道",
+          "状态",
+          "接受了",
+          "后悔",
+          "岁数",
+          "跑步",
+          "想起",
+          "结局",
+          "有人"
+        ],
+        "fetchTime": "2026-07-14T20:30:00+08:00",
+        "tabsCompleted": 4
+      },
+      "40岁一个月只有5个粉丝": {
+        "videoId": "7658958292995083547",
+        "title": "40岁的人，一个月只有5个粉丝，意味着什么？",
+        "publishTime": "2026-07-05 20:00",
+        "duration": "00:27",
+        "plays": 2922,
+        "likes": 61,
+        "comments": 6,
+        "shares": 1,
+        "bookmarks": 9,
+        "danmaku": 1,
+        "completionRate": 4.76,
+        "dropRate2s": 46.45,
+        "fansPlayRatio": 0.4,
+        "newFans": 10,
+        "avgPlayDuration": 6,
+        "avgPlayDurationChange": "-23.42%",
+        "completionRateVsPast": "-76.43%",
+        "dropRate2sVsPast": "+65.38%",
+        "retention5s": 21.63,
+        "retention5sVsPast": "-36.89%",
+        "avgPlayRatio": 20.07,
+        "avgPlayRatioVsPast": "-71.73%",
+        "likeRate": 2.09,
+        "commentRate": 0.21,
+        "shareRate": 0.03,
+        "bookmarkRate": 0.31,
+        "likeRateVsPast": "+86.86%",
+        "commentRateVsPast": "-45.1%",
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 87.8,
+          "profile": 10.6,
+          "message": 1.1,
+          "other": 0.2,
+          "friend": 0.2
+        },
+        "douPlusPlays": 2922,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "河南",
+              "ratio": 9.82
+            },
+            {
+              "region": "广东",
+              "ratio": 7.4
+            },
+            {
+              "region": "安徽",
+              "ratio": 6.12
+            },
+            {
+              "region": "云南",
+              "ratio": 5.97
+            },
+            {
+              "region": "山东",
+              "ratio": 5.83
+            },
+            {
+              "region": "辽宁",
+              "ratio": 5.41
+            },
+            {
+              "region": "贵州",
+              "ratio": 4.84
+            },
+            {
+              "region": "湖南",
+              "ratio": 4.69
+            },
+            {
+              "region": "河北",
+              "ratio": 4.69
+            },
+            {
+              "region": "四川",
+              "ratio": 4.41
+            }
+          ],
+          "interests": [
+            {
+              "interest": "体育",
+              "ratio": 100
+            }
+          ]
+        },
+        "commentHotWords": [
+          "眉眼",
+          "弯起来",
+          "偌大",
+          "引力",
+          "做账号",
+          "40岁",
+          "从零"
+        ],
+        "fetchTime": "2026-07-14T20:25:00+08:00",
+        "tabsCompleted": 4,
+        "note": "DOU+投放拉流量，受众分布全国散，与自然推荐视频的北东集中完全不同"
+      },
+      "去跑步出门前你纠结过没": {
+        "videoId": "7659066788935781667",
+        "title": "去跑步出门前几分钟，你纠结过没？",
+        "publishTime": "2026-07-06 19:40",
+        "duration": "00:12",
+        "plays": 591,
+        "likes": 12,
+        "comments": 1,
+        "shares": 0,
+        "bookmarks": 1,
+        "danmaku": 0,
+        "completionRate": 23.54,
+        "dropRate2s": 25.86,
+        "fansPlayRatio": 0.5,
+        "newFans": 0,
+        "avgPlayDuration": 7,
+        "avgPlayDurationChange": "+6.17%",
+        "completionRateVsPast": "+19.59%",
+        "dropRate2sVsPast": "-22.46%",
+        "retention5s": 36.99,
+        "retention5sVsPast": "+15.65%",
+        "avgPlayRatio": 57.46,
+        "avgPlayRatioVsPast": "-14.33%",
+        "likeRate": 2.03,
+        "commentRate": 0.17,
+        "shareRate": 0,
+        "bookmarkRate": 0.17,
+        "likeRateVsPast": "+20.52%",
+        "commentRateVsPast": "-46.21%",
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 83.2,
+          "profile": 14.9,
+          "message": 1.6,
+          "other": 0.2
+        },
+        "douPlusPlays": 164,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "辽宁",
+              "ratio": 23.32
+            },
+            {
+              "region": "北京",
+              "ratio": 19.3
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 5.63
+            },
+            {
+              "region": "吉林",
+              "ratio": 5.09
+            },
+            {
+              "region": "浙江",
+              "ratio": 4.83
+            },
+            {
+              "region": "河北",
+              "ratio": 4.56
+            },
+            {
+              "region": "江苏",
+              "ratio": 3.75
+            },
+            {
+              "region": "天津",
+              "ratio": 3.22
+            },
+            {
+              "region": "上海",
+              "ratio": 2.68
+            },
+            {
+              "region": "内蒙古",
+              "ratio": 2.41
+            }
+          ],
+          "interests": [
+            {
+              "interest": "明星",
+              "ratio": 100
+            }
+          ]
+        },
+        "commentHotWords": [
+          "这辈子",
+          "时间",
+          "最长",
+          "的事情",
+          "多久"
+        ],
+        "fetchTime": "2026-07-14T20:35:00+08:00",
+        "tabsCompleted": 4
+      },
+      "想了一天没想起来": {
+        "videoId": "7659445284631498038",
+        "title": "想了一天没想起来，跑着步突然愣住",
+        "publishTime": "2026-07-07 19:40",
+        "duration": "00:17",
+        "plays": 502,
+        "likes": 4,
+        "comments": 3,
+        "shares": 0,
+        "bookmarks": 0,
+        "completionRate": 13.45,
+        "dropRate2s": 29.26,
+        "fansPlayRatio": 0.4,
+        "newFans": 0,
+        "avgPlayDuration": 14.59,
+        "avgPlayRatio": 81.72,
+        "retrievalStatus": "partial",
+        "note": "深度数据已过期（7月7日发布），仅总览有数据。但平均播放14.59秒为账号最高",
+        "fetchTime": "2026-07-14T20:36:00+08:00",
+        "tabsCompleted": 1
+      },
+      "跟人吵了一架发现跟跑崩了一样": {
+        "videoId": "7660536616540179738",
+        "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
+        "publishTime": "2026-07-10 19:40",
+        "duration": "00:17",
+        "plays": 299,
+        "likes": 9,
+        "comments": 1,
+        "shares": 0,
+        "bookmarks": 2,
+        "completionRate": 17.07,
+        "dropRate2s": 25.07,
+        "fansPlayRatio": 2.3,
+        "newFans": 0,
+        "avgPlayDuration": 8,
+        "retention5s": 43.8,
+        "avgPlayRatio": 46.81,
+        "likeRate": 3.01,
+        "commentRate": 0.33,
+        "shareRate": 0,
+        "bookmarkRate": 0.67,
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 78.8,
+          "profile": 19.3,
+          "message": 0.9,
+          "other": 0.6,
+          "local": 0.3
+        },
+        "douPlusPlays": 39,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "辽宁",
+              "ratio": 47.44
+            },
+            {
+              "region": "北京",
+              "ratio": 20.09
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 5.98
+            },
+            {
+              "region": "吉林",
+              "ratio": 5.98
+            },
+            {
+              "region": "河北",
+              "ratio": 3.85
+            },
+            {
+              "region": "江苏",
+              "ratio": 1.71
+            },
+            {
+              "region": "湖北",
+              "ratio": 1.28
+            },
+            {
+              "region": "天津",
+              "ratio": 1.28
+            },
+            {
+              "region": "广东",
+              "ratio": 1.28
+            },
+            {
+              "region": "新疆",
+              "ratio": 1.28
+            }
+          ],
+          "interests": []
+        },
+        "commentHotWords": [
+          "不屑",
+          "消耗",
+          "赢了",
+          "输了",
+          "争吵",
+          "升维",
+          "的人"
+        ],
+        "fetchTime": "2026-07-14T20:40:00+08:00",
+        "tabsCompleted": 4
+      },
+      "我教孩子的方法都是跑步教会我的": {
+        "videoId": "7660302530500496703",
+        "title": "我教孩子的方法，都是跑步教会我的",
+        "publishTime": "2026-07-09 19:40",
+        "duration": "00:17",
+        "plays": 96,
+        "likes": 3,
+        "comments": 1,
+        "shares": 0,
+        "bookmarks": 0,
+        "completionRate": 13.57,
+        "dropRate2s": 39.55,
+        "fansPlayRatio": 9.4,
+        "newFans": 1,
+        "avgPlayDuration": null,
+        "retrievalStatus": "totalOnly",
+        "note": "深度数据即将过期（7月9日），仅总览有数据",
+        "fetchTime": "2026-07-14T20:42:00+08:00",
+        "tabsCompleted": 1
+      },
+      "夸别人很容易": {
+        "videoId": "7657564892358004003",
+        "title": "夸别人很容易，夸自己很难",
+        "publishTime": "2026-07-04 19:40",
+        "duration": "00:06",
+        "plays": 372,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0,
+        "bookmarks": 0,
+        "danmaku": 0,
+        "completionRate": 28.57,
+        "dropRate2s": 37.29,
+        "fansPlayRatio": 1.9,
+        "newFans": 0,
+        "avgPlayDuration": 24,
+        "avgPlayDurationChange": null,
+        "completionRateVsPast": null,
+        "dropRate2sVsPast": null,
+        "retention5s": 30.51,
+        "retention5sVsPast": null,
+        "avgPlayRatio": 100,
+        "avgPlayRatioVsPast": null,
+        "likeRate": 0.54,
+        "commentRate": 0.27,
+        "shareRate": 0,
+        "bookmarkRate": 0,
+        "likeRateVsPast": null,
+        "commentRateVsPast": null,
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 57.1,
+          "profile": 38.8,
+          "friend": 3.1,
+          "collection": 1
+        },
+        "douPlusPlays": 372,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "北京",
+              "ratio": 23.73
+            },
+            {
+              "region": "辽宁",
+              "ratio": 18.64
+            },
+            {
+              "region": "吉林",
+              "ratio": 8.47
+            },
+            {
+              "region": "山东",
+              "ratio": 6.78
+            },
+            {
+              "region": "广东",
+              "ratio": 6.78
+            },
+            {
+              "region": "湖南",
+              "ratio": 5.08
+            },
+            {
+              "region": "江苏",
+              "ratio": 3.39
+            },
+            {
+              "region": "云南",
+              "ratio": 3.39
+            },
+            {
+              "region": "山西",
+              "ratio": 3.39
+            },
+            {
+              "region": "重庆",
+              "ratio": 3.39
+            }
+          ],
+          "interests": []
+        },
+        "commentHotWords": [
+          "自我",
+          "怀疑",
+          "越来越",
+          "总觉",
+          "得得",
+          "更新",
+          "淘汰",
+          "人到中年",
+          "岁了",
+          "过往"
+        ],
+        "fetchTime": "2026-07-14T20:34:15.070675+08:00",
+        "tabsCompleted": 4
+      },
+      "我总觉得一句不行": {
+        "videoId": "7657562712406232362",
+        "title": "我总觉得一句不行，关系就变了",
+        "publishTime": "2026-07-03 19:40",
+        "duration": "00:08",
+        "plays": 324,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0,
+        "bookmarks": 0,
+        "danmaku": 0,
+        "completionRate": 15.72,
+        "dropRate2s": 37.21,
+        "fansPlayRatio": 2.2,
+        "newFans": 4,
+        "avgPlayDuration": 5,
+        "avgPlayDurationChange": null,
+        "completionRateVsPast": null,
+        "dropRate2sVsPast": null,
+        "retention5s": 27.91,
+        "retention5sVsPast": null,
+        "avgPlayRatio": 59.97,
+        "avgPlayRatioVsPast": null,
+        "likeRate": 2.47,
+        "commentRate": 0.31,
+        "shareRate": 0,
+        "bookmarkRate": 0,
+        "likeRateVsPast": null,
+        "commentRateVsPast": null,
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 81.8,
+          "profile": 16.7,
+          "friend": 0.6,
+          "message": 0.6,
+          "search": 0.3
+        },
+        "douPlusPlays": 237,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "辽宁",
+              "ratio": 21.69
+            },
+            {
+              "region": "北京",
+              "ratio": 11.24
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 6.43
+            },
+            {
+              "region": "山东",
+              "ratio": 4.82
+            },
+            {
+              "region": "广东",
+              "ratio": 4.42
+            },
+            {
+              "region": "浙江",
+              "ratio": 4.02
+            },
+            {
+              "region": "安徽",
+              "ratio": 3.61
+            },
+            {
+              "region": "吉林",
+              "ratio": 3.61
+            },
+            {
+              "region": "江苏",
+              "ratio": 3.61
+            },
+            {
+              "region": "湖北",
+              "ratio": 3.21
+            }
+          ],
+          "interests": [
+            {
+              "interest": "情感",
+              "ratio": 100
+            }
+          ]
+        },
+        "commentHotWords": [
+          "关系",
+          "变僵",
+          "总会",
+          "别扭",
+          "感觉",
+          "拒绝",
+          "这段"
+        ],
+        "fetchTime": "2026-07-14T20:34:15.070675+08:00",
+        "tabsCompleted": 4
+      },
+      "是怕关心你的人担心": {
+        "videoId": "7657533141355138323",
+        "title": "是怕关心你的人担心?还是说了也没用?",
+        "publishTime": "2026-07-02 19:40",
+        "duration": "00:09",
+        "plays": 521,
+        "likes": 18,
+        "comments": 3,
+        "shares": 0,
+        "bookmarks": 6,
+        "danmaku": 0,
+        "completionRate": 19.55,
+        "dropRate2s": 40.56,
+        "fansPlayRatio": 2.3,
+        "newFans": 4,
+        "avgPlayDuration": 9,
+        "avgPlayDurationChange": "+4.76%",
+        "completionRateVsPast": "-4.62%",
+        "dropRate2sVsPast": "+92.07%",
+        "retention5s": 31.55,
+        "retention5sVsPast": "-33.29%",
+        "avgPlayRatio": 88.63,
+        "avgPlayRatioVsPast": "+24.84%",
+        "likeRate": 3.45,
+        "commentRate": 0.58,
+        "shareRate": 0,
+        "bookmarkRate": 1.15,
+        "likeRateVsPast": "+209.24%",
+        "commentRateVsPast": "-20.7%",
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 79.8,
+          "profile": 17.3,
+          "friend": 1.3,
+          "search": 0.6,
+          "message": 0.6
+        },
+        "douPlusPlays": 521,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "辽宁",
+              "ratio": 19.21
+            },
+            {
+              "region": "山东",
+              "ratio": 6.9
+            },
+            {
+              "region": "浙江",
+              "ratio": 6.9
+            },
+            {
+              "region": "广东",
+              "ratio": 5.91
+            },
+            {
+              "region": "江苏",
+              "ratio": 5.42
+            },
+            {
+              "region": "河南",
+              "ratio": 4.93
+            },
+            {
+              "region": "四川",
+              "ratio": 4.43
+            },
+            {
+              "region": "北京",
+              "ratio": 3.94
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 3.94
+            },
+            {
+              "region": "云南",
+              "ratio": 3.45
+            }
+          ],
+          "interests": [
+            {
+              "interest": "剧情",
+              "ratio": 100
+            }
+          ]
+        },
+        "commentHotWords": [
+          "主力",
+          "不知道",
+          "现在是",
+          "沟通",
+          "大了",
+          "说起",
+          "上有老下有小",
+          "学会",
+          "岁数"
+        ],
+        "fetchTime": "2026-07-14T20:34:15.070675+08:00",
+        "tabsCompleted": 4
+      },
+      "换别人可能就过去了": {
+        "videoId": "7657522947581693230",
+        "title": "换别人可能就过去了，我不行",
+        "publishTime": "2026-07-01 19:40",
+        "duration": "00:09",
+        "plays": 312,
+        "likes": 12,
+        "comments": 1,
+        "shares": 0,
+        "bookmarks": 4,
+        "danmaku": 0,
+        "completionRate": 19.82,
+        "dropRate2s": 34.86,
+        "fansPlayRatio": 1,
+        "newFans": 1,
+        "avgPlayDuration": 5,
+        "avgPlayDurationChange": null,
+        "completionRateVsPast": null,
+        "dropRate2sVsPast": null,
+        "retention5s": 36.49,
+        "retention5sVsPast": null,
+        "avgPlayRatio": 53.97,
+        "avgPlayRatioVsPast": null,
+        "likeRate": 3.85,
+        "commentRate": 0.32,
+        "shareRate": 0,
+        "bookmarkRate": 1.28,
+        "likeRateVsPast": null,
+        "commentRateVsPast": null,
+        "disinterestRate": 0,
+        "trafficSources": {
+          "recommend": 86.9,
+          "profile": 12.5,
+          "message": 0.6
+        },
+        "douPlusPlays": 133,
+        "audience": {
+          "fansBelow1000": true,
+          "topRegions": [
+            {
+              "region": "辽宁",
+              "ratio": 39.69
+            },
+            {
+              "region": "山东",
+              "ratio": 9.34
+            },
+            {
+              "region": "北京",
+              "ratio": 8.17
+            },
+            {
+              "region": "黑龙江",
+              "ratio": 6.23
+            },
+            {
+              "region": "江苏",
+              "ratio": 5.45
+            },
+            {
+              "region": "吉林",
+              "ratio": 3.89
+            },
+            {
+              "region": "河北",
+              "ratio": 2.72
+            },
+            {
+              "region": "河南",
+              "ratio": 2.72
+            },
+            {
+              "region": "安徽",
+              "ratio": 1.95
+            },
+            {
+              "region": "天津",
+              "ratio": 1.95
+            }
+          ],
+          "interests": [
+            {
+              "interest": "财经",
+              "ratio": 50
+            },
+            {
+              "interest": "随拍",
+              "ratio": 50
+            }
+          ]
+        },
+        "commentHotWords": [
+          "回报",
+          "我有",
+          "想法",
+          "有时候",
+          "麻烦",
+          "总觉",
+          "得用",
+          "更多"
+        ],
+        "fetchTime": "2026-07-14T20:34:15.070675+08:00",
+        "tabsCompleted": 4
+      }
+    }
+  },
+  "benchmarking": {
+    "lastCollection": "2026-07-15T10:42:00+08:00",
+    "keywords": [
+      "40岁跑步 感悟",
+      "中年跑步 感悟",
+      "跑步 治愈 中年",
+      "跑步 治愈 人生",
+      "40岁 跑步 自律"
+    ],
+    "accounts": [
+      {
+        "name": "严料坊银星",
+        "note": "高频出现，多条破万，专注中年跑步赛道",
+        "representativeVideo": "当一个中年人突然开始频繁跑步，意味着什么",
+        "maxPlays": 23000
+      },
+      {
+        "name": "付大侠女侠",
+        "note": "运动改命+抗衰老内容，多条过万，风格硬核",
+        "representativeVideo": "运动可以改命",
+        "maxPlays": 14000
+      },
+      {
+        "name": "李新宝",
+        "note": "40岁分水岭内容，单条4.7万播放",
+        "representativeVideo": "40岁分水岭 运动与不运动 十年后判若两人",
+        "maxPlays": 47000
+      },
+      {
+        "name": "瑛子",
+        "note": "中年人养生跑步，0:32短平快视频2.7万",
+        "representativeVideo": "人到中年最好的养生方式莫过于运动",
+        "maxPlays": 27000
+      },
+      {
+        "name": "磊哥",
+        "note": "人生终点话题切入，1.6万播放",
+        "representativeVideo": "运送，为了晚年生活",
+        "maxPlays": 16000
+      },
+      {
+        "name": "薛小明在跑步（日更）",
+        "note": "日更跑步账号，最近视频2.1万",
+        "representativeVideo": "一定要珍惜爱运动的妈妈",
+        "maxPlays": 21000
+      },
+      {
+        "name": "88年龙妈",
+        "note": "新发现，最高播放31000",
+        "representativeVideo": "",
+        "maxPlays": 31000
+      },
+      {
+        "name": "姚雨在路上",
+        "note": "新发现，最高播放5553",
+        "representativeVideo": "",
+        "maxPlays": 5553
+      },
+      {
+        "name": "文同学爱运动",
+        "note": "新发现，最高播放62000",
+        "representativeVideo": "",
+        "maxPlays": 62000
+      },
+      {
+        "name": "黄仕明",
+        "note": "新发现，最高播放43000",
+        "representativeVideo": "",
+        "maxPlays": 43000
+      },
+      {
+        "name": "三明治的旅行",
+        "note": "新发现，最高播放46000",
+        "representativeVideo": "",
+        "maxPlays": 46000
+      },
+      {
+        "name": "慢跑李先生",
+        "note": "新发现，最高播放26000",
+        "representativeVideo": "",
+        "maxPlays": 26000
+      },
+      {
+        "name": "这里是1124酱",
+        "note": "新发现，最高播放27000",
+        "representativeVideo": "",
+        "maxPlays": 27000
+      },
+      {
+        "name": "野不出🐽",
+        "note": "新发现，最高播放5925",
+        "representativeVideo": "",
+        "maxPlays": 5925
+      }
+    ],
+    "videos": [
+      {
+        "title": "当一个中年人突然开始频繁跑步，意味着什么",
+        "author": "严料坊银星",
+        "duration": "0:47",
+        "plays": 23000,
+        "type": "设问型"
+      },
+      {
+        "title": "中年人一定要多运动",
+        "author": "严料坊银星",
+        "duration": "1:18",
+        "plays": 12000,
+        "type": "宣言型"
+      },
+      {
+        "title": "40岁分水岭 运动与不运动 十年后判若两人",
+        "author": "李新宝",
+        "duration": "2:59",
+        "plays": 47000,
+        "type": "对比型"
+      },
+      {
+        "title": "人到中年 最好的养生方式莫过于运动",
+        "author": "瑛子",
+        "duration": "0:32",
+        "plays": 27000,
+        "type": "宣言型"
+      },
+      {
+        "title": "衰老从不是年龄，是松垮、无力、没精神",
+        "author": "付大侠女侠",
+        "duration": "3:05",
+        "plays": 14000,
+        "type": "金句型"
+      },
+      {
+        "title": "运送，为了晚年生活",
+        "author": "磊哥",
+        "duration": "1:19",
+        "plays": 16000,
+        "type": "反差型"
+      },
+      {
+        "title": "一定要珍惜爱运动的妈妈",
+        "author": "薛小明在跑步（日更）",
+        "duration": "0:54",
+        "plays": 21000,
+        "type": "温情型"
+      },
+      {
+        "title": "45岁以后跑步，心态彻底不一样了",
+        "author": "柠檬茶",
+        "duration": "2:44",
+        "plays": 2067,
+        "type": "感悟型"
+      },
+      {
+        "title": "人到中年，总有一项运动适合你",
+        "author": "春花",
+        "duration": "3:41",
+        "plays": 6120,
+        "type": "建议型"
+      },
+      {
+        "title": "中年男人跑步意味着什么 是对生活的不甘 是无声的宣言 宣告他们不服输还能勇敢的开始，喜欢跑步的你'是这样的吗？",
+        "author": "88年龙妈",
+        "plays": "3.1万",
+        "type": "设问型",
+        "coverStyle": "表情特写+标题",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "人到中年 最好的养生方式莫过于运动，慢跑的好处",
+        "author": "瑛子✨",
+        "plays": "2.7万",
+        "type": "宣言型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40岁才懂：跑步，不再是选择，而是中年人的必然",
+        "author": "李新宝",
+        "plays": "1427",
+        "type": "金句型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "跑步这件事儿，你能坚持下去就已经赢了大部分人了",
+        "author": "严料坊银星✨",
+        "plays": "2708",
+        "type": "宣言型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "人民日报说：运动和不运动，差的是一整个人生。",
+        "author": "胡大恒不胡说（跑步减肥45斤）",
+        "plays": "3119",
+        "type": "金句型",
+        "coverStyle": "对比图/文字标题卡",
+        "hasPerson": true,
+        "colorTone": "高对比",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "慢跑才是精髓，能坚持下去的速度才能跑的更长久",
+        "author": "严料坊银星✨",
+        "plays": "1.3万",
+        "type": "金句型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "跑步十几年我懂得了什么？ 跑得越久懂得越多，他会让我们无论是身体还是内心，都充满力量",
+        "author": "程鸣（猛踢钢板中）",
+        "plays": "3140",
+        "type": "设问型",
+        "coverStyle": "表情特写+标题",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "其实，我只是把跑步当成焦虑暂时的解药",
+        "author": "姚雨在路上",
+        "plays": "5553",
+        "type": "叙事型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "冷色调",
+        "keyword": "中年跑步 感悟",
+        "source": "20260715采集"
+      },
+      {
+        "title": "多跑几公里，就为了不折返？",
+        "author": "40了，得干点儿啥了",
+        "plays": "11",
+        "type": "设问型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40岁以后的形象80%自律维持，20%靠经济维持",
+        "author": "严料坊银星✨",
+        "plays": "8.4万",
+        "type": "金句型",
+        "coverStyle": "表情特写+标题",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40岁以后，真正的高级感，是身体给的！",
+        "author": "跑步一哥",
+        "plays": "3860",
+        "type": "宣言型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40 岁后，你的身材里藏着你的生活态度 40 岁后，身材是生活态度的名片。本播客拆解运动与自律的底层逻辑",
+        "author": "文同学爱运动",
+        "plays": "1.8万",
+        "type": "金句型",
+        "coverStyle": "表情特写+标题",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40岁开始运动，晚了吗",
+        "author": "严料坊银星✨",
+        "plays": "2408",
+        "type": "设问型",
+        "coverStyle": "表情特写+标题",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40岁以后还能跑下10公里在同龄人中算是什么级别",
+        "author": "锋子在跑步",
+        "plays": "1899",
+        "type": "设问型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "40岁开始练肌肉，人生下半场才刚刚开始。40岁后，肌肉是抵抗衰老、维持代谢与活力的核心资本。",
+        "author": "文同学爱运动",
+        "plays": "6.2万",
+        "type": "宣言型",
+        "coverStyle": "对比图/文字标题卡",
+        "hasPerson": true,
+        "colorTone": "高对比",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "跑步的好处有什么？ 它让我远离高血压，变得更自律了。",
+        "author": "孙院长的跑步日记",
+        "plays": "360",
+        "type": "设问型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "40岁 跑步 自律",
+        "source": "20260715采集"
+      },
+      {
+        "title": "村上春树：当我讨论跑步的时候我谈些什么。村上春树，跑圈最会表达的",
+        "author": "Komorebi 🍃",
+        "plays": "1122（图文）",
+        "type": "金句型",
+        "coverStyle": "风景空镜+文字",
+        "hasPerson": false,
+        "colorTone": "冷色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "黄仕明：运动，是可以改命的",
+        "author": "黄仕明",
+        "plays": "4.3万",
+        "type": "宣言型",
+        "coverStyle": "表情特写+标题",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "脚步丈量的不只是距离，更是内心的宁静。每次奔跑，都是与自己和解，跑步，真的能治愈一切。",
+        "author": "三明治的旅行",
+        "plays": "4.6万",
+        "type": "金句型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "跑步到一定阶段，你会发现它是一件内外双修的事情。",
+        "author": "慢跑李先生",
+        "plays": "2.6万",
+        "type": "金句型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "自然光",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "跑步后，这样发文案 （6条文案合集）",
+        "author": "海棠听风",
+        "plays": "8648（图文）",
+        "type": "叙事型",
+        "coverStyle": "文字标题卡",
+        "hasPerson": false,
+        "colorTone": "暖色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "记录跑步，这么发文案 （6条文案合集）",
+        "author": "迪迪（运动健身版）🏃‍♀️",
+        "plays": "1.9万（图文）",
+        "type": "叙事型",
+        "coverStyle": "文字标题卡",
+        "hasPerson": false,
+        "colorTone": "暖色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "跑步是救心，千万别躺着内耗，出门跑一圈救救自己",
+        "author": "李新宝",
+        "plays": "1799",
+        "type": "宣言型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "冷色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "平淡的生活，也可以有滋味 普通的每一天，组成了独一无二的自己",
+        "author": "这里是1124酱",
+        "plays": "2.7万",
+        "type": "金句型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      },
+      {
+        "title": "感知幸福是可以培养的能力 当你的心态慢慢舒展后 从前混沌错过的美好 如今也能敏锐的捕捉到",
+        "author": "野不出🐽",
+        "plays": "5925",
+        "type": "金句型",
+        "coverStyle": "跑步侧影+大字",
+        "hasPerson": true,
+        "colorTone": "暖色调",
+        "keyword": "跑步 治愈 人生",
+        "source": "20260715采集"
+      }
+    ],
+    "visualAnalysis": {
+      "titleTypeDistribution": {
+        "金句型": 11,
+        "宣言型": 8,
+        "设问型": 7,
+        "叙事型": 3,
+        "对比型": 1,
+        "反差型": 1,
+        "温情型": 1,
+        "感悟型": 1,
+        "建议型": 1
+      },
+      "coverTypeDistribution": {
+        "跑步侧影+大字": 14,
+        "未知": 9,
+        "表情特写+标题": 6,
+        "对比图/文字标题卡": 2,
+        "文字标题卡": 2,
+        "风景空镜+文字": 1
+      },
+      "realPersonRate": "31/34 (91%)",
+      "mainTones": [
+        "自然光",
+        "暖色调",
+        "冷色调",
+        "高对比"
+      ],
+      "topPerformerFormula": "金句型/设问型 + 跑步侧影/表情特写 + 大字标题 + 暖色调/自然光",
+      "topPerformerExample": "40岁以后的形象80%自律维持 (8.4万) - 严料坊银星",
+      "bestAccounts": [
+        "严料坊银星",
+        "李新宝",
+        "88年龙妈",
+        "瑛子",
+        "文同学爱运动"
+      ],
+      "keyInsight20260715": "表情特写+大字的封面效果优于纯侧影，金句型比设问型带来更高播放"
+    },
+    "titleTemplateInsights": {
+      "effectiveFormulas": [
+        "设问型: 当一个中年人突然开始[动作]，意味着什么",
+        "金句型: [年龄]以后[动作]不再是[旧认知]，而是[新认知]",
+        "宣言型: [年龄][动作][极端感受/必要性]",
+        "设问型: [年龄]才懂：[动作][感悟]",
+        "金句型: [年龄]以后的[形象/心态]XX%靠[动作]维持",
+        "叙事型: [动作][年数/年龄]我懂得了[感悟]"
+      ],
+      "usefulTags": [
+        "中年",
+        "跑步",
+        "跑步治愈一切",
+        "自律",
+        "40岁",
+        "中年男人",
+        "慢跑",
+        "人生感悟",
+        "先跑再说",
+        "开始永远不晚"
+      ]
+    },
+    "weeklySchedule": {
+      "day": "周六或周日",
+      "nextCollection": "2026-07-19",
+      "lastWeeklyRun": "2026-07-12",
+      "requiresConfirmation": false
+    },
+    "source": "抖音搜索：中年跑步 感悟 / 40岁 跑步 自律 / 跑步 治愈 人生",
+    "competitors": [
+      {
+        "name": "鼠哥（趣跑）",
+        "handle": "鼠哥（趣跑）",
+        "id": "MS4wLjABAAAAHi9HqWE-fwhwKWycBJ3wtvkj3fTcP6ta-k_Qc7aLgyE",
+        "profile": {
+          "fans": 7956,
+          "likesReceived": 49000,
+          "videos": 197,
+          "description": "摆动者/五鼠联城/鸿智创始人，趣跑活动发起者",
+          "type": "带货+内容双轮驱动"
+        },
+        "topVideos": [
+          {
+            "title": "跑步40年感悟，坚持5公里慢跑，是在救自己",
+            "likes": 3117,
+            "topic": "跑步感悟/长期坚持"
+          },
+          {
+            "title": "77年跑步40年 如何将爱好变成终身事业年入百万",
+            "likes": 323,
+            "topic": "变现路径/创业(置顶)"
+          },
+          {
+            "title": "有跑步习惯的人，是不是性格都有点怪",
+            "likes": 56,
+            "topic": "性格洞察(置顶)"
+          },
+          {
+            "title": "无效跑步的8点，别让努力白费",
+            "likes": 93,
+            "topic": "避坑教学"
+          },
+          {
+            "title": "大基数跑步减脂，一个月训练指南",
+            "likes": 71,
+            "topic": "减脂教学"
+          },
+          {
+            "title": "晨跑到底好不好？",
+            "likes": 71,
+            "topic": "跑步知识"
+          },
+          {
+            "title": "跑步40年，我吃到了跑步最大红利",
+            "likes": 65,
+            "topic": "跑步感悟"
+          },
+          {
+            "title": "一天中最适合跑步的3大黄金时间",
+            "likes": 53,
+            "topic": "跑步知识"
+          }
+        ],
+        "insight": "跑步装备带货博主(R2品牌推广)，人设是40年跑者/创业者。置顶2条做转化，主体为跑鞋测评+跑步知识+新手指南"
+      },
+      {
+        "name": "李新宝",
+        "handle": "李新宝",
+        "id": "MS4wLjABAAAA3OPpByLU7QTrrCGeYipdBGoGJlsFg1HPLZ8Wgn9MwdA",
+        "profile": {
+          "fans": 255000,
+          "likesReceived": 1645000,
+          "videos": "300+合集",
+          "description": "户外百科系列创作者",
+          "type": "合集模式"
+        },
+        "topVideos": [
+          {
+            "title": "40岁才懂：跑步不再是选择而是中年人的必然",
+            "likes": 1427,
+            "topic": "中年跑步感悟"
+          },
+          {
+            "title": "冬季跑步五大好处",
+            "likes": 4136,
+            "topic": "季节跑步知识"
+          }
+        ],
+        "insight": "25.5万粉大号，合集模式。用第X集系列化制造追剧感。头部视频播放高，内容偏跑步知识+装备"
+      },
+      {
+        "name": "健身搭子流老七",
+        "handle": "健身搭子流老七",
+        "profile": {
+          "description": "健身跑步类"
+        },
+        "topVideos": [
+          {
+            "title": "中年人的两种人生，差的不仅是900小时的跑步",
+            "likes": 473,
+            "topic": "对比叙事/身份认同"
+          }
+        ],
+        "insight": "走对比叙事路线——用同学/同龄人对比制造情绪冲突"
+      },
+      {
+        "name": "大叔的笔记",
+        "handle": "大叔的笔记",
+        "profile": {
+          "description": "44岁大叔跑步记录"
+        },
+        "topVideos": [
+          {
+            "title": "44岁跑完10公里的心得感受",
+            "likes": 81,
+            "topic": "跑步感受"
+          }
+        ],
+        "insight": "新号，1周前，和峰峰账号最相似(中年大叔真实记录)"
+      },
+      {
+        "name": "自信的咸蛋与你一起发光！",
+        "handle": "自信的咸蛋与你一起发光！",
+        "profile": {
+          "description": "真实生活分享"
+        },
+        "topVideos": [
+          {
+            "title": "人生在四十岁才开始 跑步 坚持自律",
+            "likes": 770,
+            "topic": "人生感悟"
+          }
+        ],
+        "insight": "真实生活分享，6分34秒长视频播770，用人生在四十岁才开始话题做共鸣"
+      },
+      {
+        "name": "文同学爱运动",
+        "handle": "文同学爱运动",
+        "profile": {
+          "description": "运动科普"
+        },
+        "topVideos": [
+          {
+            "title": "40岁之后该多跑步还是多力量？",
+            "likes": 846,
+            "topic": "中年运动策略"
+          }
+        ],
+        "insight": "走科学科普路线，用40岁+健身策略做差异化"
+      }
+    ],
+    "hotTopics": [
+      {
+        "topic": "中年人为什么开始跑步",
+        "count": 4
+      },
+      {
+        "topic": "跑步的长期坚持/改变",
+        "count": 3
+      },
+      {
+        "topic": "跑步减脂/健康科普",
+        "count": 3
+      },
+      {
+        "topic": "新手跑步指南/避坑",
+        "count": 3
+      },
+      {
+        "topic": "跑步装备/跑鞋",
+        "count": 2
+      },
+      {
+        "topic": "对比叙事（中年人的两种人生）",
+        "count": 1
+      },
+      {
+        "topic": "跑步人生感悟/情绪共鸣",
+        "count": 3
+      }
+    ],
+    "lastWeeklyRun": "2026-07-15"
+  }
+}

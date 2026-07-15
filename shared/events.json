@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": "plan-001",
+      "type": "plan",
+      "title": "千粉计划存档",
+      "description": "54→1000粉完整路线图已保存至 shared/thousand-fans-plan.md",
+      "agentTarget": "all",
+      "createdAt": "2026-07-14T20:33:00+08:00",
+      "status": "pending",
+      "notes": "待办清单按优先级排列，逐步完善各Agent能力",
+      "dependsOn": "qingbaozhan-full-scan",
+      "onComplete": "情报站完成全量采集后，用最新数据核验并刷新本计划
+    }
+  ]
+}

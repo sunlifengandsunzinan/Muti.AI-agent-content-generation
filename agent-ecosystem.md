@@ -1,21 +1,109 @@
-# Agent 协作关系
+# Agent 生态系统
+
+本文档描述 OpenClaw Gateway 上运行的所有 Agent 及其协作关系。
+
+---
+
+## 目录
+
+- [抖音运营系统（主）](#抖音运营系统主)
+- [摩旅微信小程序（副）](#摩旅微信小程序副)
+
+---
+
+## 抖音运营系统（主）
+
+**核心：数据驱动的内容运营闭环**
 
 ```
 用户/峰峰
-  └─ 主 Agent (main) — 统一调度
-       ├─ weapp-dev Agent    → 微信小程序开发（Mac SSH + DevTools CLI）
-       ├─ crawler Agent      → 数据采集（MediaCrawler 抖音/58moto）
-       └─ analysis Agent     → 数据分析（Ollama qwen2.5:7b）
+  └─ 主 Agent (main) — 统一调度、事件分发、结果汇总
+       │
+       ├─ 📡 情报站 (douyin-情报站)
+       │   ├─ 对标采集（Windows 浏览器）
+       │   ├─ 创作者中心数据（Mac 浏览器）
+       │   ├─ 全量数据分析
+       │   ├─ 发后追踪（D+1/D+3/D+7）
+       │   └─ 每日简报
+       │
+       ├─ 📝 素材管家 (douyin-素材管家)
+       │   ├─ 维护素材池 (shared/data.json → materials)
+       │   ├─ 与峰峰对话获取素材
+       │   └─ 标记可用角度 & 已用角度
+       │
+       ├─ 📄 脚本生成器 (douyin-脚本生成器)
+       │   ├─ 读 creatorCenter 最新数据决定方向
+       │   ├─ 观点重复检测（vs 最近1条已发）
+       │   ├─ 前10字钩子检查
+       │   └─ 结尾类型选择（4种有效型）
+       │
+       ├─ 🎬 标题封面官 (douyin-标题封面官)
+       │   ├─ 3+套标题方案
+       │   └─ 封面风格统一
+       │
+       ├─ 🎥 画面设计师 (douyin-画面设计师)
+       │   └─ 运镜/机位/光线/分镜
+       │
+       ├─ 👜 账号管家 (douyin-account-agent)
+       │   └─ 读懂峰峰意图、分发事件
+       │
+       ├─ 🔍 抖音搜索 (douyin-scraper)
+       │   └─ 搜索同行视频
+       │
+       └─ 📹 视频下载 (douyin-video-fetch)
+           └─ 下载参考素材
 ```
 
-## 数据流
-1. **crawler** → 采集原始数据 → `D:\MediaCrawlerResult\`
-2. **analysis** → 分析原始数据 → `D:\摩旅数据采集目录\`（结构化 JSON）
-3. **weapp-dev** → 整合到 Flask 后端 → route_templates.json + 小程序页面
-4. **主 agent** → 协调流程 + 通知用户
+### 数据流
 
-## 当前项目：摩旅微信小程序
-- 小程序 AppID: wxd154f9fe121f3619
-- Flask 后端：Windows `192.168.0.112:5000`
-- 小程序开发：Mac (sunlifeng, 192.168.0.121)
-- 项目路径（Mac）：`~/Documents/moto/`
+```
+【采集层】情报站 (Windows 对标 + Mac 创作者中心)
+    ↓ 写入
+【数据层】shared/data.json (单一真相源)
+    ↓ 读取
+【决策层】素材管家 → 脚本生成器 → 标题封面官 → 画面设计师
+    ↓ 产出
+【发布层】峰峰手动发布
+    ↓ 反馈
+【追踪层】发后追踪 → 反哺数据
+    ↓
+  回到采集层，形成闭环
+```
+
+### 定时调度
+
+| 时间 | 任务 | 执行方式 |
+|:---:|:----|:--------|
+| 08:00 | 采集基础数据（播放/粉丝/作品数变化） | systemEvent → 主会话 |
+| 08:30 | 创作者中心深度数据（完播率/2s跳出） | systemEvent → 主会话 |
+| 09:00 | 每日简报 | systemEvent → 主会话 |
+| 每30min | 心跳检查（待办队列、异常检测） | Heartbeat |
+
+### 双机隔离策略
+
+| 机器 | 身份 | 操作 |
+|:----|:----|:----|
+| 🖥️ Windows (host) | 外网采集 | 搜同行、对标分析、数据爬取 |
+| 🍎 Mac (sunlifeng-Mac) | 账号操作 | 创作者中心、发布、回复 |
+
+**硬规则：** Windows不碰峰峰账号，Mac不搜同行数据。
+
+---
+
+## 摩旅微信小程序（副）
+
+**项目：** 摩旅路线/点位采集 + 小程序展示
+
+```
+用户/峰峰
+  └─ 主 Agent (main)
+       ├─ crawler Agent    → 58moto 数据采集 (MediaCrawler)
+       ├─ analysis Agent   → 数据分析 (Ollama qwen2.5:7b)
+       └─ weapp-dev Agent  → 小程序开发 (Mac)
+```
+
+### 技术栈
+- **后端：** Flask (Windows 192.168.0.112:5000)
+- **前端：** 微信小程序 (AppID: wxd154f9fe121f3619)
+- **开发机：** Mac (sunlifeng, ~/Documents/moto/)
+- **数据：** D:\MediaCrawlerResult\ → 分析 → route_templates.json
