@@ -21,6 +21,8 @@
       "usedAngles": [
         "①反PUA/职场PUA"
       ],
+      "priority": "P0",
+      "nextAction": "脚本生成器：从【原生家庭/教育】角度写初稿，可利用②原生家庭/教育角度，与已用的①反PUA/职场PUA形成平行系列",
       "createdAt": "2026-07-09T10:28:00+08:00"
     },
     {
@@ -45,6 +47,8 @@
       ],
       "scriptReady": true,
       "rawFile": "shared/materials/material-13-跑步7年的心态变化.md",
+      "priority": "P1",
+      "nextAction": "脚本已ready。剩余3个角度（跑步对比/对比情绪/生活态度）可产出新脚本，等当前队列清一些再触发",
       "createdAt": "2026-07-11T17:15:00+08:00"
     },
     {
@@ -70,6 +74,8 @@
       ],
       "scriptReady": true,
       "rawFile": "shared/materials/material-14-高敏感体质.md",
+      "priority": "P1",
+      "nextAction": "脚本已ready。仅剩【高敏感+童年】角度可用，用完此角度后可将素材归档",
       "createdAt": "2026-07-11T17:18:00+08:00"
     },
     {
@@ -91,6 +97,8 @@
       "usedAngles": [],
       "scriptReady": false,
       "rawFile": "shared/materials/material-15-暴雨上班车被淹.md",
+      "priority": "P0",
+      "nextAction": "脚本生成器：从【承担责任与自我边界】角度写初稿，职场中年委屈是强共鸣点",
       "createdAt": "2026-07-14T17:32:00+08:00"
     },
     {
@@ -112,6 +120,8 @@
       "usedAngles": [],
       "scriptReady": false,
       "rawFile": "shared/materials/material-04-转校生可乐.md",
+      "priority": "P0",
+      "nextAction": "脚本生成器：从【童年贫穷与自尊】角度写初稿，童年回忆类已验证有高播放潜力",
       "createdAt": "2026-07-14T17:39:00+08:00"
     },
     {
@@ -132,6 +142,8 @@
       "usedAngles": [],
       "scriptReady": false,
       "rawFile": "shared/materials/material-16-跑步凑整强迫症.md",
+      "priority": "P0",
+      "nextAction": "脚本生成器：从【完美主义vs完成主义】角度写初稿，轻量短脚本，适合15秒模式",
       "createdAt": "2026-07-14T17:42:00+08:00"
     },
     {
@@ -182,6 +194,8 @@
         "file2.jpg"
       ],
       "rawFile": "shared/materials/material-17-210斤到170斤.md",
+      "priority": "P0",
+      "nextAction": "脚本生成器：首推从【对比型E】角度（210→170身体变化）写初稿，配照片素材效果最好",
       "createdAt": "2026-07-14T20:56:00+08:00",
       "notes": [
         "2026-07-14 21:04 补充：底气来源，硬着头皮也能上，比之前从容了",
@@ -479,154 +493,120 @@
   "postPublishTracking": {
     "videos": [
       {
-        "videoId": "7660536616540179738",
+        "workId": "7660536616540179738",
         "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
-        "material": "material-11",
-        "publishDate": "2026-07-10T19:40:00+08:00",
-        "status": "briefed-day1",
-        "expectedPlays": null,
-        "expectedCompletion": null,
-        "expectedInteractions": null,
-        "dataPoints": [
-          {
-            "timestamp": "2026-07-10T19:41:00+08:00",
-            "plays": 0,
-            "likes": 0,
-            "comments": 0,
-            "shares": 0,
-            "completionRate": null
-          },
-          {
-            "timestamp": "2026-07-11T08:12:00+08:00",
-            "plays": 101,
-            "likes": null,
-            "comments": null,
-            "shares": null,
-            "completionRate": null
-          },
-          {
-            "timestamp": "2026-07-11T08:40:00+08:00",
-            "plays": 108,
-            "likes": 1,
+        "publishDate": "2026-07-10",
+        "status": "briefed-day5",
+        "plays": 305,
+        "checkpoints": {
+          "day5": {
+            "time": "2026-07-15T11:13:00+08:00",
+            "plays": 305,
+            "completionRate": "17.07%",
+            "exit2sRate": "24.94%",
+            "likes": 10,
             "comments": 1,
+            "bookmarks": 2,
             "shares": 0,
-            "completionRate": null
-          },
-          {
-            "timestamp": "2026-07-12T08:41:00+08:00",
-            "plays": 244,
-            "likes": 4,
-            "comments": 1,
-            "shares": 0,
-            "completionRate": 19.35
+            "fansGained": 0,
+            "judgement": "数据停滞"
           }
-        ],
-        "briefs": [
-          {
-            "day": 1,
-            "timestamp": "2026-07-11T08:45:00+08:00"
-          }
-        ],
-        "review": null
+        },
+        "completionRate": "17.07%",
+        "exit2sRate": "24.94%",
+        "likes": 10,
+        "comments": 1,
+        "judgement": "数据停滞",
+        "latestPlays": 305,
+        "latestCompletionRate": "17.07%",
+        "latestExit2sRate": "24.94%"
       },
       {
-        "videoId": "7660302530500496703",
+        "workId": "7660302530500496703",
         "title": "我教孩子的方法，都是跑步教会我的",
-        "material": "material-09",
-        "publishDate": "2026-07-09T19:00:00+08:00",
-        "status": "briefed-day3",
-        "expectedPlays": null,
-        "expectedCompletion": null,
-        "expectedInteractions": null,
-        "dataPoints": [
-          {
-            "timestamp": "2026-07-09T19:01:00+08:00",
-            "plays": 0,
-            "likes": 0,
-            "comments": 0,
-            "shares": 0,
-            "completionRate": null
-          },
-          {
-            "timestamp": "2026-07-11T08:12:00+08:00",
-            "plays": 72,
-            "likes": null,
-            "comments": null,
-            "shares": null,
-            "completionRate": null
-          },
-          {
-            "timestamp": "2026-07-11T08:40:00+08:00",
-            "plays": 72,
-            "likes": null,
-            "comments": null,
-            "shares": null,
-            "completionRate": null
-          },
-          {
-            "timestamp": "2026-07-12T08:41:00+08:00",
-            "plays": 75,
+        "publishDate": "2026-07-09",
+        "status": "briefed-day6",
+        "plays": 96,
+        "checkpoints": {
+          "day6": {
+            "time": "2026-07-15T11:13:00+08:00",
+            "plays": 96,
+            "completionRate": "13.57%",
+            "exit2sRate": "39.55%",
             "likes": 3,
             "comments": 1,
+            "bookmarks": 0,
             "shares": 0,
-            "completionRate": 14.29
+            "fansGained": 1,
+            "judgement": "已停滞/严重不足"
           }
-        ],
-        "briefs": [
-          {
-            "day": 3,
-            "timestamp": "2026-07-12T15:10:00+08:00"
-          }
-        ],
-        "review": null
+        },
+        "completionRate": "13.57%",
+        "exit2sRate": "39.55%",
+        "likes": 3,
+        "comments": 1,
+        "judgement": "已停滞/严重不足",
+        "latestPlays": 96,
+        "latestCompletionRate": "13.57%",
+        "latestExit2sRate": "39.55%"
       },
       {
-        "videoId": "7661502246579981602",
+        "workId": "7663380620626586163",
         "title": "刚跑了两天，就有人说你",
-        "publishDate": "2026-07-12T19:40:00+08:00",
-        "status": "tracking",
-        "expectedPlays": null,
-        "expectedCompletion": null,
-        "expectedInteractions": null,
-        "dataPoints": [
-          {
-            "timestamp": "2026-07-14T16:48:00+08:00",
-            "plays": null,
+        "publishDate": "2026-07-12",
+        "status": "briefed-day3",
+        "plays": 8254,
+        "checkpoints": {
+          "day3": {
+            "time": "2026-07-15T11:13:00+08:00",
+            "plays": 8254,
+            "completionRate": "12.38%",
+            "exit2sRate": "17.66%",
             "likes": 24,
-            "comments": 7,
-            "shares": 31,
-            "completionRate": 12.38,
-            "dropRate2s": 17.66,
-            "duration": "0:00:15"
+            "comments": 31,
+            "bookmarks": 4,
+            "shares": 2,
+            "fansGained": 1,
+            "judgement": "数据健康（持续爆款中）"
           }
-        ],
-        "briefs": [],
-        "review": null,
-        "videoTitle": "刚跑了两天，就有人说你"
+        },
+        "completionRate": "12.38%",
+        "exit2sRate": "17.66%",
+        "likes": 24,
+        "comments": 31,
+        "judgement": "数据健康（持续爆款中）",
+        "latestPlays": 8254,
+        "latestCompletionRate": "12.38%",
+        "latestExit2sRate": "17.66%"
       },
       {
-        "videoId": "7661660845058952457",
+        "workId": "7661660845058952457",
         "title": "跑了7年还没跑明白，数据到底重不重要？",
-        "publishDate": "2026-07-13T19:40:00+08:00",
-        "status": "tracking",
-        "expectedPlays": null,
-        "expectedCompletion": null,
-        "expectedInteractions": null,
-        "dataPoints": [
-          {
-            "timestamp": "2026-07-14T16:49:00+08:00",
-            "plays": null,
+        "publishDate": "2026-07-13",
+        "status": "briefed-day2",
+        "plays": 3296,
+        "checkpoints": {
+          "day2": {
+            "time": "2026-07-15T11:13:00+08:00",
+            "plays": 3296,
+            "completionRate": "21.46%",
+            "exit2sRate": "24.05%",
             "likes": 44,
             "comments": 5,
-            "shares": null,
-            "completionRate": 21.53,
-            "dropRate2s": 24.01,
-            "duration": "0:00:13"
+            "bookmarks": 0,
+            "shares": 0,
+            "fansGained": 3,
+            "judgement": "数据健康（潜力股）"
           }
-        ],
-        "briefs": [],
-        "review": null,
-        "videoTitle": "跑了7年还没跑明白，数据到底重不重要？"
+        },
+        "completionRate": "21.46%",
+        "exit2sRate": "24.05%",
+        "likes": 44,
+        "comments": 5,
+        "judgement": "数据健康（潜力股）",
+        "latestPlays": 3296,
+        "latestCompletionRate": "21.46%",
+        "latestExit2sRate": "24.05%"
       }
     ]
   },
