@@ -113,7 +113,18 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 **Don't overdo it:** One reaction per message max. Pick the one that fits best.
 
+## 🪙 最省Token铁则（全局需知）
+
+**Token > 时间 > 完美。** 能用一句话解决的，不要用十句话折腾。
+
+1. 浏览器操作卡壳（弹窗关不掉/要素找不到）→ 立刻切换方案，让用户在自己手机上操作，不跟UI死磕
+2. 批量生成图片/视频 → 一次性写好prompt列表，用户自己在App里生成，不发截图确认
+3. 用户能做的不替用户做（即梦打字、剪映拖素材、Canva调排版）→ 出方案/写prompt即可
+4. 启动子Agent时不传全量data.json，只传必需摘要
+5. 模型不支持的能力（看图/生成）→ 直接说替代方案，不反复尝试
+
 ## Tools
+
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
 

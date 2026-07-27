@@ -32,63 +32,6 @@
       "waitingForFengfeng": true
     },
     {
-      "id": "material-13",
-      "name": "??7??????",
-      "period": "30+??????",
-      "coreEmotion": "???????7??????",
-      "keyPhrase": "???????????",
-      "status": "partial",
-      "videosUsed": [
-        "??7??????????????",
-        "009-??7?-????-????"
-      ],
-      "availableAngles": [
-        "?????",
-        "?????",
-        "?????"
-      ],
-      "usedAngles": [
-        "???????",
-        "?????",
-        "微观点提炼-20260720"
-      ],
-      "scriptReady": true,
-      "rawFile": "shared/materials/material-13-??7??????.md",
-      "priority": "P1",
-      "nextAction": "???ready???3????????/????/???????????????????????",
-      "createdAt": "2026-07-11T17:15:00+08:00",
-      "microscriptsExtracted": true
-    },
-    {
-      "id": "material-14",
-      "name": "?????",
-      "period": "30+??????",
-      "coreEmotion": "??????????",
-      "keyPhrase": "????????????",
-      "status": "partial",
-      "videosUsed": [
-        "??????????????????",
-        "008-???-??-????",
-        "????????????????????"
-      ],
-      "availableAngles": [
-        "????+??"
-      ],
-      "usedAngles": [
-        "????+????",
-        "????+??",
-        "?????",
-        "????+??",
-        "微观点提炼-20260720"
-      ],
-      "scriptReady": true,
-      "rawFile": "shared/materials/material-14-?????.md",
-      "priority": "P1",
-      "nextAction": "???ready???????+????????????????????",
-      "createdAt": "2026-07-11T17:18:00+08:00",
-      "microscriptsExtracted": true
-    },
-    {
       "id": "material-15",
       "name": "???????",
       "period": "30+????",
@@ -275,8 +218,10 @@
       "category": "日常趣事/人生感悟",
       "coreEmotion": "生活的无奈+热爱的力量+代际共鸣（复杂情感，不是单层）",
       "keyPhrase": "一边是生活，一边是热爱 / 欲买桂花同载酒，终不是，少年游",
-      "status": "unused",
-      "videosUsed": [],
+      "status": "已发布",
+      "videosUsed": [
+        "019-外卖小哥-生活和热爱-final"
+      ],
       "availableAngles": [
         {
           "type": "悬念型A",
@@ -307,10 +252,11 @@
       ],
       "createdAt": "2026-07-18T23:09:00+08:00",
       "usedAngles": [
-        "微观点提炼-20260720"
+        "情感互动型（生活和热爱你怎么选）"
       ],
       "microscriptsExtracted": true,
-      "scriptReady": true
+      "scriptReady": true,
+      "note": "峰峰确认已发"
     },
     {
       "id": "material-20",
@@ -433,6 +379,200 @@
       ],
       "createdAt": "2026-07-20T22:28:00+08:00",
       "microscriptsExtracted": false
+    },
+    {
+      "id": "material-23",
+      "name": "与人为善vs算计——中年人的困惑",
+      "category": "跑步感悟",
+      "period": "近期",
+      "coreEmotion": "与人为善的人成了最傻的人，阳谋无解的困惑",
+      "keyPhrase": "能跑几公里的人，不是短视的人",
+      "status": "active",
+      "videosUsed": [],
+      "availableAngles": [
+        {
+          "type": "共鸣型C",
+          "angle": "跑了几千公里，越来越不待见那些短视的人——\"能跑几公里的人，不是短视的人\""
+        }
+      ],
+      "usedAngles": [
+        "微观点提炼方向确认-20260722"
+      ],
+      "scriptReady": true,
+      "source": "峰峰口述",
+      "photos": [],
+      "priority": "P0",
+      "nextAction": "脚本生成器调用。共鸣型C变体，跑步类比人心角度，金句\"能跑几公里的人不是短视的人\"强。建议与素材管家确认是否补写rawFile后再出脚本。",
+      "notes": [
+        "2026-07-22 22:35 峰峰口述入库（冲突型B改为共鸣型C变体确认）"
+      ],
+      "createdAt": "2026-07-22T22:35:00+08:00",
+      "microscriptsExtracted": false
+    },
+    {
+      "id": "material-jingxuan-20260723",
+      "name": "跑步7年的4个小窍门",
+      "category": "跑步技巧/坚持方法",
+      "period": "近期",
+      "coreEmotion": "真实分享跑步坚持的接地气技巧，不是鸡汤是实操",
+      "keyPhrase": "光靠意志力和外部因素很快就会放弃",
+      "status": "active",
+      "videosUsed": [],
+      "availableAngles": [
+        {
+          "type": "实用技巧型",
+          "angle": "跑步7年的4个接地气小窍门——小到一双袜子，大到一双好跑鞋"
+        },
+        {
+          "type": "清单型",
+          "angle": "坚持跑步的4个不是秘密的秘密——学会跟自己玩"
+        },
+        {
+          "type": "真实分享型",
+          "angle": "光靠意志力不行，我试了这4招——7年跑者的真心话"
+        }
+      ],
+      "usedAngles": [],
+      "scriptReady": false,
+      "source": "峰峰口述（精选视频用）",
+      "photos": [],
+      "rawFile": "shared/materials/material-jingxuan-20260723-跑步7年的4个小窍门.md",
+      "priority": "P0",
+      "nextAction": "精选视频首要素材，等待脚本生成器调用（替代现有脚本或融合进内驱力脚本）。4个窍门实用角度适合清单/干货方向。",
+      "notes": [
+        "2026-07-23 18:22 峰峰口述入库（看脚本第一版觉得不够真诚，口述了更真实的内容）"
+      ],
+      "createdAt": "2026-07-23T18:22:00+08:00",
+      "microscriptsExtracted": false
+    },
+    {
+      "id": "material-13",
+      "name": "??7??????",
+      "period": "30+??????",
+      "coreEmotion": "???????7??????",
+      "keyPhrase": "???????????",
+      "status": "partial",
+      "videosUsed": [
+        "??7??????????????",
+        "009-??7?-????-????"
+      ],
+      "availableAngles": [
+        "?????",
+        "?????",
+        "?????"
+      ],
+      "usedAngles": [
+        "???????",
+        "?????",
+        "微观点提炼-20260720"
+      ],
+      "scriptReady": true,
+      "rawFile": "shared/materials/material-13-??7??????.md",
+      "priority": "P1",
+      "nextAction": "???ready???3????????/????/???????????????????????",
+      "createdAt": "2026-07-11T17:15:00+08:00",
+      "microscriptsExtracted": true
+    },
+    {
+      "id": "material-14",
+      "name": "?????",
+      "period": "30+??????",
+      "coreEmotion": "??????????",
+      "keyPhrase": "????????????",
+      "status": "partial",
+      "videosUsed": [
+        "??????????????????",
+        "008-???-??-????",
+        "????????????????????"
+      ],
+      "availableAngles": [
+        "????+??"
+      ],
+      "usedAngles": [
+        "????+????",
+        "????+??",
+        "?????",
+        "????+??",
+        "微观点提炼-20260720"
+      ],
+      "scriptReady": true,
+      "rawFile": "shared/materials/material-14-?????.md",
+      "priority": "P1",
+      "nextAction": "???ready???????+????????????????????",
+      "createdAt": "2026-07-11T17:18:00+08:00",
+      "microscriptsExtracted": true
+    },
+    {
+      "id": "material-xhs-7y7700km",
+      "category": "人设定位",
+      "title": "小红书人设：40岁跑7年7700km的普通人",
+      "keyEmotion": "真诚/普通人/不装",
+      "source": "峰峰口述",
+      "shotSession": null,
+      "crossPlatform": {
+        "usableFor": [
+          "xiaohongshu",
+          "douyin"
+        ],
+        "douyinScript": null,
+        "xiaohongshuScript": "xhs-7y7700km"
+      },
+      "content": "40岁，跑步7年，累计7700km。不是专业跑者，不教人跑步，就是一个普通中年人跑了几年步，分享一些跑步和生活相关的心得。慢跑、独处、自己和自己对话。",
+      "createdAt": "2026-07-24T14:14:00+08:00",
+      "status": "used",
+      "usedIn": "xhs-第一条图文"
+    },
+    {
+      "microscriptsExtracted": false,
+      "id": "material-18",
+      "keyPhrase": "爷们儿不是在顺境的时候证明自己的",
+      "crossPlatform": {
+        "usableFor": [
+          "douyin",
+          "xiaohongshu"
+        ],
+        "xiaohongshuScript": "shared/scripts/xhs-低谷与贵人们.md",
+        "douyinScript": "shared/scripts/douyin-低谷与贵人们-F版.md"
+      },
+      "videosUsed": [],
+      "name": "跑步7年低谷与贵人们",
+      "usedAngles": [
+        "感慨型D-双故事线合并",
+        "他人视角F-故事A前辈金句-情报站重制",
+        "日记感-故事B列车比喻(xhs专版)"
+      ],
+      "availableAngles": [
+        {
+          "type": "悬念型A",
+          "angle": "那通电话，改变了我对失败的看法"
+        },
+        {
+          "type": "对比型E",
+          "angle": "跑步教会我的不是怎么赢，是怎么扛"
+        },
+        {
+          "type": "共鸣型C",
+          "angle": "人生就是一趟列车，谁都不能陪你跑完全程"
+        },
+        {
+          "type": "他人视角F",
+          "angle": "前辈一句话点醒了我"
+        },
+        {
+          "type": "时间感素材",
+          "angle": "从2018到2026，跑步7年教会我的事"
+        }
+      ],
+      "status": "active",
+      "nextAction": "情报站重制完成：抖音→他人视角F (故事A) / 小红书→故事B列车比喻专版。等待峰峰审阅后拍摄发布。"
+    },
+    {
+      "scriptReady": true,
+      "coreEmotion": "低谷中的坚持 / 感恩贵人 / 跑步与人生的同构",
+      "priority": "P0",
+      "createdAt": "2026-07-27T12:58:00+08:00",
+      "rawFile": "shared/materials/material-18-跑步7年低谷与贵人们.md",
+      "period": "2018-2026跨7年"
     }
   ],
   "account": {
@@ -483,17 +623,33 @@
     }
   },
   "ranking": {
-    "lastUpdated": "2026-07-20T15:53:00+08:00",
+    "lastUpdated": "2026-07-22T18:10:00+08:00",
     "videos": [
+      {
+        "title": "普通人跑了7年，会记住什么数字？",
+        "plays": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "tags": [
+          "定时发布中-今晚19:40"
+        ]
+      },
+      {
+        "title": "我妈那句话，30年后我才听懂",
+        "plays": 111,
+        "likes": 5,
+        "comments": 5,
+        "shares": 0,
+        "publishDate": "2026-07-21"
+      },
       {
         "title": "40了，除了柴米油盐，心里那点火还在吗？",
         "plays": 342,
         "likes": 10,
         "comments": 1,
         "shares": 0,
-        "tags": [
-          "定时发布"
-        ]
+        "publishDate": "2026-07-20"
       },
       {
         "title": "三伏天出门跑步前，俩小人先干了一架你猜谁赢了？",
@@ -558,22 +714,6 @@
         "comments": 33,
         "shares": 2,
         "publishDate": "2026-07-12"
-      },
-      {
-        "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
-        "plays": 309,
-        "likes": 10,
-        "comments": 1,
-        "shares": 0,
-        "publishDate": "2026-07-10"
-      },
-      {
-        "title": "我教孩子的方法，都是跑步教会我的",
-        "plays": 98,
-        "likes": 3,
-        "comments": 1,
-        "shares": 0,
-        "publishDate": "2026-07-09"
       },
       {
         "title": "40岁的人，一个月只有5个粉丝，意味着什么？",
@@ -681,7 +821,7 @@
         "workId": "7660536616540179738",
         "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
         "publishDate": "2026-07-10",
-        "status": "completed-day5",
+        "status": "completed",
         "plays": 306,
         "checkpoints": {
           "day5": {
@@ -717,13 +857,13 @@
         "latestCompletionRate": "16.96%",
         "latestExit2sRate": "25.32%",
         "latestLikes": 10,
-        "completedAt": "2026-07-18T12:46:34.065Z"
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "7660302530500496703",
         "title": "我教孩子的方法，都是跑步教会我的",
         "publishDate": "2026-07-09",
-        "status": "completed-day6",
+        "status": "completed",
         "plays": 96,
         "checkpoints": {
           "day6": {
@@ -759,13 +899,13 @@
         "latestCompletionRate": "13.48%",
         "latestExit2sRate": "39.89%",
         "latestLikes": 3,
-        "completedAt": "2026-07-18T12:46:34.065Z"
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "7663380620626586163",
         "title": "刚跑了两天，就有人说你",
         "publishDate": "2026-07-12",
-        "status": "briefed-day3",
+        "status": "completed",
         "plays": 8268,
         "checkpoints": {
           "day3": {
@@ -805,13 +945,14 @@
           "profile": 2,
           "message": 0.5
         },
-        "latestLikes": 24
+        "latestLikes": 24,
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "7661660845058952457",
         "title": "跑了7年还没跑明白，数据到底重不重要？",
         "publishDate": "2026-07-13",
-        "status": "briefed-day2",
+        "status": "completed",
         "plays": 3303,
         "checkpoints": {
           "day2": {
@@ -853,13 +994,14 @@
           "message": 0.2,
           "other": 0.1
         },
-        "latestLikes": 44
+        "latestLikes": 44,
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "7662392885433732403",
         "title": "凭啥觉得自己不如人？",
         "publishDate": "2026-07-15",
-        "status": "briefed-day1",
+        "status": "completed",
         "plays": 2636,
         "likes": 17,
         "comments": 2,
@@ -901,13 +1043,15 @@
             "shares": 0
           }
         },
-        "latestLikes": 17
+        "latestLikes": 17,
+        "completedAt": "2026-07-27T12:48:00+08:00",
+        "judgement": "发布12天，自动标记为completed"
       },
       {
         "workId": "7662351797020806438",
         "title": "多跑几公里，就为了不折返？",
         "publishDate": "2026-07-14",
-        "status": "briefed-day2",
+        "status": "completed",
         "plays": 814,
         "likes": 13,
         "comments": 6,
@@ -941,13 +1085,15 @@
             "judgement": ""
           }
         },
-        "latestLikes": 13
+        "latestLikes": 13,
+        "completedAt": "2026-07-27T12:48:00+08:00",
+        "judgement": "发布13天，自动标记为completed"
       },
       {
         "workId": "7661502246579981602",
         "title": "被说换了个老伴儿",
         "publishDate": "2026-07-17",
-        "status": "completed-day2",
+        "status": "completed",
         "plays": 224,
         "likes": 5,
         "comments": 1,
@@ -999,19 +1145,20 @@
         "latestLikes": 5,
         "notes": "workId记录有误（实际为其他视频），已从作品管理页恢复为160播",
         "latestCompletionRate": "11.8%",
-        "latestExit2sRate": "19.8%"
+        "latestExit2sRate": "19.8%",
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "new-008",
         "title": "老好人是不是都这么傻？我第N次被自己整笑了",
         "publishDate": "2026-07-18",
-        "status": "briefed-day2",
-        "plays": 1542,
+        "status": "completed",
+        "plays": 1575,
         "likes": 6,
         "comments": 1,
         "shares": 0,
         "judgement": "D+2 ~44h: 1542播/6赞/1评。完播率34.08%保持高位，2s跳出14.59%优秀。确认为历史最佳作品，播放较往期+243.81%。",
-        "latestPlays": 1542,
+        "latestPlays": 1575,
         "latestLikes": 6,
         "checkpoints": {
           "d+0_20_55": {
@@ -1107,13 +1254,14 @@
         "completionRate": "34.08%",
         "exit2sRate": "14.59%",
         "latestCompletionRate": "34.08%",
-        "latestExit2sRate": "14.59%"
+        "latestExit2sRate": "14.59%",
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "new-work-004",
         "title": "我买菜加油都在凑整，没救了",
         "publishDate": "2026-07-16",
-        "status": "completed-day3",
+        "status": "completed",
         "plays": 261,
         "likes": 4,
         "comments": 2,
@@ -1148,19 +1296,20 @@
         "latestPlays": 261,
         "latestLikes": 4,
         "latestCompletionRate": "17.24%",
-        "latestExit2sRate": "23.34%"
+        "latestExit2sRate": "23.34%",
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "new-009",
         "title": "40了，除了柴米油盐，心里那点火还在吗？",
         "publishDate": "2026-07-19",
-        "status": "initial",
-        "plays": 944,
+        "status": "completed",
+        "plays": 342,
         "likes": 6,
         "comments": 5,
         "shares": 0,
         "judgement": "D+1 ~20h: 944播/6赞/5评。评论互动较好(5条)，播放中等，关注D+2数据。",
-        "latestPlays": 944,
+        "latestPlays": 342,
         "latestLikes": 6,
         "checkpoints": {
           "day1_evening": {
@@ -1172,18 +1321,19 @@
             "fansGained": 0,
             "judgement": "D+1 ~20h: 944播，发布约20h已达944播，表现正常。评论5条互动不错。"
           }
-        }
+        },
+        "completedAt": "2026-07-27T12:48:00+08:00"
       },
       {
         "workId": "new-sanfutian-001",
         "title": "三伏天出门跑步前，俩小人先干了一架你猜谁赢了？",
         "publishDate": "2026-07-19",
-        "status": "initial-d1",
-        "plays": 949,
+        "status": "completed",
+        "plays": 1109,
         "likes": 6,
         "comments": 5,
         "shares": 0,
-        "latestPlays": 949,
+        "latestPlays": 1109,
         "latestLikes": 6,
         "judgement": "D+1 ~21h: 949播/6赞/5评。播放增长趋势良好，评论5条互动不错。",
         "checkpoints": {
@@ -1195,6 +1345,123 @@
             "shares": 0,
             "judgement": "D+1 ~21h: 949播/6赞/5评。趋势良好，待获取完播率/2s跳出等深度数据。"
           }
+        },
+        "completedAt": "2026-07-27T12:48:00+08:00"
+      },
+      {
+        "title": "就是那句話，20年也忘不了",
+        "publishDate": "2026-07-21",
+        "status": "completed-day2",
+        "plays": 111,
+        "likes": 5,
+        "comments": 5,
+        "shares": 0,
+        "judgement": "24h仅111播，低播放失败。感慨型D+身份锚点验证失败。",
+        "checkpoints": {
+          "day1": {
+            "time": "2026-07-22T18:10:00+08:00",
+            "plays": 111,
+            "likes": 5,
+            "comments": 5,
+            "shares": 0,
+            "fansGained": 0,
+            "judgement": "111播/5赞/5评"
+          }
+        }
+      },
+      {
+        "title": "我妈那句话，30年后我才听懂",
+        "publishDate": "2026-07-21",
+        "status": "initial",
+        "plays": 128,
+        "likes": 6,
+        "comments": 5,
+        "shares": 0,
+        "judgement": "D+1 ~23h: 111播/5赞/5评。24h仅111播，初始推荐失败。",
+        "checkpoints": {
+          "day1": {
+            "time": "2026-07-22T18:10:00+08:00",
+            "plays": 111,
+            "likes": 5,
+            "comments": 5,
+            "shares": 0,
+            "fansGained": 0,
+            "judgement": "D+1 ~23h: 111播。播放极低，涨粉0。感慨型D验证失败。"
+          },
+          "d+6_refresh": {
+            "time": "2026-07-27T12:48:00+08:00",
+            "plays": 128,
+            "likes": 6,
+            "comments": 5,
+            "shares": 0,
+            "source": "creator.douyin.com DOM refresh"
+          }
+        },
+        "latestPlays": 128,
+        "latestLikes": 6,
+        "latestComments": 5
+      },
+      {
+        "title": "三伏天厌跑了？试试这些方法",
+        "publishDate": "2026年07月25日",
+        "publishTime": "19:40",
+        "status": "tracking",
+        "plays": 219,
+        "likes": 6,
+        "comments": 2,
+        "shares": 0,
+        "duration": "01:15",
+        "checkpoints": {
+          "initial": {
+            "time": "2026-07-27T12:48:00+08:00",
+            "plays": 219,
+            "likes": 6,
+            "comments": 2,
+            "shares": 0,
+            "judgement": "首次采集（创作者中心DOM提取）"
+          }
+        }
+      },
+      {
+        "title": "你吃过爱算计的人的亏没？我吃过",
+        "publishDate": "2026年07月23日",
+        "publishTime": "19:40",
+        "status": "tracking",
+        "plays": 144,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0,
+        "duration": "00:12",
+        "checkpoints": {
+          "initial": {
+            "time": "2026-07-27T12:48:00+08:00",
+            "plays": 144,
+            "likes": 2,
+            "comments": 1,
+            "shares": 0,
+            "judgement": "首次采集（创作者中心DOM提取）"
+          }
+        }
+      },
+      {
+        "title": "普通人跑了7年，会记住什么数字？",
+        "publishDate": "2026年07月22日",
+        "publishTime": "19:40",
+        "status": "tracking",
+        "plays": 650,
+        "likes": 109,
+        "comments": 11,
+        "shares": 2,
+        "duration": "00:13",
+        "checkpoints": {
+          "initial": {
+            "time": "2026-07-27T12:48:00+08:00",
+            "plays": 650,
+            "likes": 109,
+            "comments": 11,
+            "shares": 2,
+            "judgement": "首次采集（创作者中心DOM提取）"
+          }
         }
       }
     ]
@@ -1202,128 +1469,360 @@
   "selfReview": null,
   "creatorCenter": {
     "lastSnapshot": {
-      "fetchTime": "2026-07-21T08:30:00+08:00",
+      "fetchTime": "2026-07-27T12:48:00+08:00",
       "source": "creator.douyin.com DOM提取 (Mac) 作品管理",
       "overview": {
-        "totalWorks": 39,
-        "fans": 52,
-        "past7DayPlays": "1.73万",
-        "past7DaySubmissions": 7
+        "totalWorks": 42,
+        "publicWorks": 28,
+        "totalPlays": 36291,
+        "totalLikes": 444,
+        "totalComments": 147,
+        "totalShares": 6,
+        "avgPlaysPerWork": 1296,
+        "likeRate": "1.22%",
+        "recent7DayPlays": 1141,
+        "recent7DaySubmissions": 4,
+        "top5Plays": [
+          {
+            "title": "刚跑了两天，就有人说你",
+            "plays": 8274
+          },
+          {
+            "title": "那把镰刀，一开始我就没整明白",
+            "plays": 3575
+          },
+          {
+            "title": "跑了7年还没跑明白，数据到底重不重要？",
+            "plays": 3316
+          },
+          {
+            "title": "妈妈那句话，成了我心底的结",
+            "plays": 3219
+          },
+          {
+            "title": "40岁的人， 一个月只有5个粉丝，意味着什么？",
+            "plays": 2922
+          }
+        ]
       },
       "videos": [
         {
-          "title": "就是那句話，20年也忘不了",
-          "publishDate": "2026-07-21",
-          "status": "定时发布中",
-          "scheduledTime": "19:40"
+          "duration": "00:28",
+          "title": "40岁的人， 一个月只有5个粉丝，意味着什么？",
+          "date": "2026年07月05日",
+          "publishTime": "20:00",
+          "plays": 2922,
+          "likes": 61,
+          "comments": 6,
+          "shares": 1,
+          "status": "已发布"
         },
         {
-          "title": "40了，除了柴米油盐，心里那点火还在吗？",
-          "publishDate": "2026-07-20",
-          "duration": "00:11",
-          "playCount": 342,
-          "likes": 10,
+          "duration": "00:09",
+          "title": "那把镰刀，一开始我就没整明白",
+          "date": "2026年06月29日",
+          "publishTime": "19:40",
+          "plays": 3575,
+          "likes": 4,
+          "comments": 0,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:18",
+          "title": "妈妈那句话，成了我心底的结",
+          "date": "2026年06月20日",
+          "publishTime": "20:00",
+          "plays": 3219,
+          "likes": 11,
+          "comments": 16,
+          "shares": 1,
+          "status": "已发布"
+        },
+        {
+          "duration": "01:15",
+          "title": "三伏天厌跑了？试试这些方法",
+          "date": "2026年07月25日",
+          "publishTime": "19:40",
+          "plays": 219,
+          "likes": 6,
+          "comments": 2,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:12",
+          "title": "你吃过爱算计的人的亏没？我吃过",
+          "date": "2026年07月23日",
+          "publishTime": "19:40",
+          "plays": 144,
+          "likes": 2,
           "comments": 1,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
         },
         {
-          "title": "三伏天出门跑步前，俩小人先干了一架你猜谁赢了？",
-          "publishDate": "2026-07-19",
+          "duration": "00:13",
+          "title": "普通人跑了7年，会记住什么数字？",
+          "date": "2026年07月22日",
+          "publishTime": "19:40",
+          "plays": 650,
+          "likes": 109,
+          "comments": 11,
+          "shares": 2,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:13",
+          "title": "我妈那句话，30年后我才听懂",
+          "date": "2026年07月21日",
+          "publishTime": "19:40",
+          "plays": 128,
+          "likes": 6,
+          "comments": 5,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:11",
+          "title": "40了，除了柴米油盐，心里那点火还在吗？",
+          "date": "2026年07月20日",
+          "publishTime": "19:40",
+          "plays": 663,
+          "likes": 11,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
           "duration": "00:12",
-          "playCount": 1109,
+          "title": "三伏天出门跑步前，俩小人先干了一架你猜谁赢了？",
+          "date": "2026年07月19日",
+          "publishTime": "18:51",
+          "plays": 1134,
           "likes": 7,
           "comments": 5,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "18:51"
+          "status": "已发布"
         },
         {
-          "title": "老好人是不是都这么傻？我第N次被自己整笑了",
-          "publishDate": "2026-07-18",
           "duration": "00:10",
-          "playCount": 1575,
-          "likes": 6,
+          "title": "老好人是不是都这么傻？我第N次被自己整笑了",
+          "date": "2026年07月18日",
+          "publishTime": "19:40",
+          "plays": 1622,
+          "likes": 9,
           "comments": 1,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
         },
         {
-          "title": "被说换了个老伴儿，这评价我收了",
-          "publishDate": "2026-07-17",
           "duration": "00:14",
-          "playCount": 232,
+          "title": "被说换了个老伴儿，这评价我收了",
+          "date": "2026年07月17日",
+          "publishTime": "19:40",
+          "plays": 250,
           "likes": 5,
           "comments": 1,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
         },
         {
-          "title": "我买菜加油都在凑整，没救了",
-          "publishDate": "2026-07-16",
           "duration": "00:11",
-          "playCount": 266,
-          "likes": 4,
+          "title": "我买菜加油都在凑整，没救了",
+          "date": "2026年07月16日",
+          "publishTime": "19:40",
+          "plays": 271,
+          "likes": 5,
           "comments": 2,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
         },
         {
-          "title": "凭啥觉得自己不如人？",
-          "publishDate": "2026-07-15",
           "duration": "00:11",
-          "playCount": 2668,
+          "title": "凭啥觉得自己不如人？",
+          "date": "2026年07月15日",
+          "publishTime": "19:40",
+          "plays": 2686,
           "likes": 17,
           "comments": 2,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
         },
         {
-          "title": "多跑几公里，就为了不折返？",
-          "publishDate": "2026-07-14",
           "duration": "00:11",
-          "playCount": 856,
+          "title": "多跑几公里，就为了不折返？",
+          "date": "2026年07月14日",
+          "publishTime": "19:58",
+          "plays": 861,
           "likes": 13,
           "comments": 6,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:58"
+          "status": "已发布"
         },
         {
-          "title": "跑了7年还没跑明白，数据到底重不重要？",
-          "publishDate": "2026-07-13",
           "duration": "00:13",
-          "playCount": 3315,
+          "title": "跑了7年还没跑明白，数据到底重不重要？",
+          "date": "2026年07月13日",
+          "publishTime": "19:40",
+          "plays": 3316,
           "likes": 44,
           "comments": 5,
           "shares": 0,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
         },
         {
-          "title": "刚跑了两天，就有人说你",
-          "publishDate": "2026-07-12",
           "duration": "00:15",
-          "playCount": 8273,
+          "title": "刚跑了两天，就有人说你",
+          "date": "2026年07月12日",
+          "publishTime": "19:40",
+          "plays": 8274,
           "likes": 24,
           "comments": 33,
           "shares": 2,
-          "status": "已发布",
-          "publishTime": "19:40"
+          "status": "已发布"
+        },
+        {
+          "duration": "00:17",
+          "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
+          "date": "2026年07月10日",
+          "publishTime": "19:40",
+          "plays": 312,
+          "likes": 10,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:13",
+          "title": "跑着跑着，突然不想跑了，不是因为累",
+          "date": "2026年07月08日",
+          "publishTime": "19:40",
+          "plays": 617,
+          "likes": 20,
+          "comments": 11,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:18",
+          "title": "想了一天没想起来，跑着步突然愣住",
+          "date": "2026年07月07日",
+          "publishTime": "19:40",
+          "plays": 505,
+          "likes": 4,
+          "comments": 3,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:13",
+          "title": "去跑步出门前几分钟，你纠结过没？",
+          "date": "2026年07月06日",
+          "publishTime": "19:40",
+          "plays": 594,
+          "likes": 12,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:07",
+          "title": "夸别人很容易，夸自己很难",
+          "date": "2026年07月04日",
+          "publishTime": "19:40",
+          "plays": 372,
+          "likes": 2,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:09",
+          "title": "我总觉得一句不行，关系就变了",
+          "date": "2026年07月03日",
+          "publishTime": "19:40",
+          "plays": 327,
+          "likes": 8,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:10",
+          "title": "是怕关心你的人担心?还是说了也没用?",
+          "date": "2026年07月02日",
+          "publishTime": "19:40",
+          "plays": 521,
+          "likes": 18,
+          "comments": 3,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:10",
+          "title": "换别人可能就过去了，我不行",
+          "date": "2026年07月01日",
+          "publishTime": "19:40",
+          "plays": 314,
+          "likes": 12,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:11",
+          "title": "掰不动苞米，杵那干着急",
+          "date": "2026年06月28日",
+          "publishTime": "19:40",
+          "plays": 234,
+          "likes": 3,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:08",
+          "title": "你没说，后来就成应该做的了",
+          "date": "2026年06月26日",
+          "publishTime": "19:40",
+          "plays": 384,
+          "likes": 1,
+          "comments": 1,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:11",
+          "title": "那句\"不\"，最后我说成了\"行吧\"",
+          "date": "2026年06月25日",
+          "publishTime": "19:41",
+          "plays": 1165,
+          "likes": 4,
+          "comments": 19,
+          "shares": 0,
+          "status": "已发布"
+        },
+        {
+          "duration": "00:14",
+          "title": "中考差的这1分，我用了快三十年还在想",
+          "date": "2026年06月19日",
+          "publishTime": "21:30",
+          "plays": 1012,
+          "likes": 16,
+          "comments": 7,
+          "shares": 0,
+          "status": "已发布"
         }
       ]
     },
     "followerAnalysis": {
-      "timestamp": "2026-07-20T15:53:00+08:00",
-      "totalPlays": 17300,
-      "perThousandPlaysFollowerRate": 0.23,
-      "healthRating": "偏低",
-      "note": "近7天千播涨粉0.23/千播，较上次(2.0/千播)大幅下降。昨日(07-19)净增0粉。老好人完播率极佳(34.08%)但涨粉转化+0，涨粉问题是当前账号最大短板。"
+      "timestamp": "2026-07-27T12:48:00+08:00",
+      "totalPlays": 36291,
+      "totalPlaysSinceLastCheck": 18991,
+      "perThousandPlaysFollowerRate": 0,
+      "healthRating": "极低",
+      "note": "近段时间播放总量36291，但粉丝数未见明显增长（上次53粉）。千播涨粉率约0/千播。涨粉问题是最大短板。老好人完播率优秀但涨粉转化=0。最近新作(07/21-07/25)表现普遍低迷：三伏天厌跑219播、爱算计144播、我妈那句话128播，连续3个作品播放不足300。"
     },
     "depthData": {
       "被说换了个老伴儿": {
@@ -1493,38 +1992,15 @@
       }
     },
     "anomalyDetection": {
-      "timestamp": "2026-07-20T15:53:00+08:00",
-      "anomalies": [
-        {
-          "type": "涨粉为0依然持续",
-          "detail": "老好人(1542播/0涨粉)完播率34.08%历史最佳但涨粉0，涨粉转化问题需重点关注",
-          "severity": "high"
-        },
-        {
-          "type": "连续多部视频涨粉为0",
-          "detail": "老好人(1542/0涨粉)、被说换老伴儿(228/0)、买菜凑整(264/0)连续3部视频0涨粉。上一部有涨粉的是跑了7年(+3粉)",
-          "severity": "medium"
-        }
+      "timestamp": "2026-07-27T12:48:00+08:00",
+      "alerts": [
+        "连续3个作品播放不足300（三伏天厌跑219、爱算计144、我妈那句话128），建议暂停发布1-2天复盘。",
+        "近7天涨粉为0，粉丝数停滞在52-53粉。涨粉转化问题成为账号最大瓶颈。"
       ],
-      "changes": [
-        {
-          "item": "老好人D+2数据表现",
-          "change": "完播率34.08%保持高位，2s跳出14.59%优秀",
-          "delta": "完播比往期+105.11%，2s跳出-37.79%，播放+243.81%",
-          "severity": "positive"
-        },
-        {
-          "item": "三伏天新视频上线",
-          "change": "07-19 18:51发布，~21h达949播/6赞/5评",
-          "delta": "评论5条，互动趋势良好",
-          "severity": "positive"
-        },
-        {
-          "item": "昨日(07-19)播放",
-          "change": "1,595播，净增粉丝0，取关0",
-          "delta": "较前日(468播)大幅增长+240.8%，主要受老好人播放推动",
-          "severity": "positive"
-        }
+      "warnings": [
+        "刚跑了两天(8274播)仍为最高播放作品，近期新作品播放普遍偏低（07/21后平均285播）。",
+        "普通人跑了7年虽然650播但获得109赞(16.8%点赞率)，互动极高，但点赞没有转化为粉丝关注。",
+        "感慨型D类内容(\"我妈那句话\"128播)已被多次验证不适合账号。"
       ]
     },
     "accountDiagnosis": {
@@ -1554,15 +2030,13 @@
     }
   },
   "benchmarking": {
-    "lastCollection": "2026-07-20T15:55:00+08:00",
+    "lastCollection": "2026-07-27T12:46:00+08:00",
     "keywords": [
-      "摩旅",
-      "跑步",
-      "中年转型",
-      "创业",
-      "40岁"
+      "跑步独白",
+      "慢跑日常",
+      "40岁跑步"
     ],
-    "source": "抖音搜索：摩旅 / 跑步 / 中年转型 / 创业 / 40岁",
+    "source": "抖音搜索：跑步独白 / 慢跑日常 / 40岁跑步",
     "videos": [
       {
         "title": "第一视角体验大学生放暑假骑摩托车回家！1130公里从洛阳到成都",
@@ -2067,115 +2541,913 @@
         "plays": "2.8万",
         "keyword": "40岁",
         "source": "20260720周采"
+      },
+      {
+        "title": "无数个清晨4点，汇聚成了赛道的光",
+        "author": "这里是1124酱",
+        "plays": 54000,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "氛围型"
+      },
+      {
+        "title": "运动的最大魅力不是为了长命百岁，而是让你活着的每一天都很舒服",
+        "author": "跑起来得劲儿",
+        "plays": 65000,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "金句型"
+      },
+      {
+        "title": "一个人跑步不是孤单，而是慢慢把自己照亮",
+        "author": "严料坊银星✨",
+        "plays": 36000,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "共鸣型"
+      },
+      {
+        "title": "跑步是救心，千万别躺着内耗，出门跑一圈救救自己",
+        "author": "李新宝",
+        "plays": 0,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "行动号召型"
+      },
+      {
+        "title": "跑步自愈 | 这一步步跑出来的自我救赎",
+        "author": "谭雅跑呀",
+        "plays": 0,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "深度内容型"
+      },
+      {
+        "title": "喜欢一个人跑步，是什么体验",
+        "author": "春花",
+        "plays": 11000,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "疑问共鸣型"
+      },
+      {
+        "title": "时间到了，你自然会选择跑步",
+        "author": "晓林爱跑步",
+        "plays": 23000,
+        "keyword": "跑步独白",
+        "coverType": "真人出镜",
+        "titleType": "金句型"
+      },
+      {
+        "title": "跑步语录 总有人问，你为什么那么喜欢跑步？我想说，跑步是自己和自己的相处方式",
+        "author": "LF励志健身",
+        "plays": 0,
+        "keyword": "跑步独白",
+        "coverType": "文案/图文",
+        "titleType": "语录型"
+      },
+      {
+        "title": "跑步后，这样发文案 不打扰谁，也不羡慕谁，听着音乐，随心而跑",
+        "author": "海棠听风",
+        "plays": 0,
+        "keyword": "跑步独白",
+        "coverType": "文案/图文",
+        "titleType": "教程型"
+      },
+      {
+        "title": "5公里40分钟：8分配速慢跑，普通中年人的黄金获益区",
+        "author": "谭雅跑呀",
+        "plays": 17000,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "实用干货型"
+      },
+      {
+        "title": "中年慢跑90天，跑出新境界，彻底重塑精气神",
+        "author": "李新宝",
+        "plays": 26000,
+        "keyword": "慢跑日常/40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "结果型"
+      },
+      {
+        "title": "5公里慢跑是对抗中年下滑的最好方式，同时也是一种生活重构",
+        "author": "李疯狂是跑渣",
+        "plays": 15000,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "观点输出型"
+      },
+      {
+        "title": "当我越跑越慢，反而找到了真正的自由",
+        "author": "吕饱饱",
+        "plays": 0,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "感悟型"
+      },
+      {
+        "title": "运动真的会上瘾，会开心的，总得找个事来消耗自己",
+        "author": "安提娜",
+        "plays": 19000,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "共鸣型"
+      },
+      {
+        "title": "最神奇的运动就是慢跑，不用刻意透支身体，不用过度消耗",
+        "author": "艾菲儿",
+        "plays": 11000,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "金句型"
+      },
+      {
+        "title": "5公里慢跑有什么意义",
+        "author": "严料坊银星✨",
+        "plays": 0,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "疑问型"
+      },
+      {
+        "title": "40岁高能量女生的晚上系列更新 今日份快乐因子已到位",
+        "author": "叁叁闪闪",
+        "plays": 63000,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "日常vlog型"
+      },
+      {
+        "title": "衰老从不是年龄，是松垮、无力、没精神。慢跑给你活力",
+        "author": "付大侠•女侠",
+        "plays": 15000,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "反常识/观点型"
+      },
+      {
+        "title": "40岁跑步小白的最佳起点 40岁以后跑步，拼的不是速度，而是长期坚持的能力",
+        "author": "朱教授运动健康",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "科普型"
+      },
+      {
+        "title": "40岁以后千万别像20岁那样跑！院士警告：小心猝死",
+        "author": "朱教授运动健康",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "危机感/警告型"
+      },
+      {
+        "title": "中年人的两种人生，差的不仅是900小时的跑步",
+        "author": "健身搭子流老七",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "故事型"
+      },
+      {
+        "title": "45岁以后跑步，心态彻底不一样了",
+        "author": "柠檬茶🌟",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "感悟型"
+      },
+      {
+        "title": "中年跑步 当一个中年男人开始频繁跑步，意味着什么？",
+        "author": "爱跑步的老韩（跑互）",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "疑问型"
+      },
+      {
+        "title": "40岁抬腿10公里：锁住稀缺少年感 代谢重启与端粒修复",
+        "author": "谭雅跑呀",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "硬核干货型"
+      },
+      {
+        "title": "晨跑最佳时间，40岁的分水岭。科学排布计划，对抗平庸。",
+        "author": "李新宝",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "实用型"
+      },
+      {
+        "title": "40岁跑10公里有多强？跑赢岁月的底牌，是三场硬核生理重塑",
+        "author": "谭雅跑呀",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "硬核干货型"
+      },
+      {
+        "title": "跑步重启人生 中年男性安全跑步指南",
+        "author": "文同学爱运动",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "教程型"
+      },
+      {
+        "title": "40岁再跑步还来得及吗？",
+        "author": "文同学爱运动",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "疑问型"
+      },
+      {
+        "title": "人到中年 最好的养生方式莫过于运动，慢跑的好处",
+        "author": "瑛子✨",
+        "plays": 27000,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "观点型"
+      },
+      {
+        "title": "中年人跑的不是步，是和自己和解",
+        "author": "未知",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "金句型"
+      },
+      {
+        "title": "43岁已婚俩娃坚持晨跑9年 五公里心率137",
+        "author": "小林运动日记",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "日常记录型"
+      },
+      {
+        "title": "坚持跑步不粗腿！40+姐姐的5公里心得分享",
+        "author": "自律坤姐减脂塑形日记",
+        "plays": 0,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "经验分享型"
+      },
+      {
+        "title": "选择晨跑，就是选择了一种生活方式",
+        "author": "未知",
+        "plays": 35000,
+        "keyword": "40岁跑步",
+        "coverType": "真人出镜",
+        "titleType": "金句型"
+      },
+      {
+        "title": "中年人最大的自律就是管住嘴迈开腿",
+        "author": "未知",
+        "plays": 23000,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "观点型"
+      },
+      {
+        "title": "坚持早起，坚持慢跑",
+        "author": "未知",
+        "plays": 38000,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "行动型"
+      },
+      {
+        "title": "不伤膝慢跑姿，新手也能轻松掌握",
+        "author": "米岚gzclnet",
+        "plays": 0,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "教程型"
+      },
+      {
+        "title": "最近经常在评论区看到有人问：你是怎么坚持下来的？",
+        "author": "花姐慢跑日记",
+        "plays": 0,
+        "keyword": "慢跑日常",
+        "coverType": "真人出镜",
+        "titleType": "互动/分享型"
+      },
+      {
+        "title": "陪你跑步30分钟（190步频）",
+        "author": "自由奔跑的石头",
+        "plays": 0,
+        "keyword": "慢跑日常",
+        "coverType": "跟练型",
+        "titleType": "实用型"
       }
     ],
     "accounts": [
       {
-        "name": "李新宝",
-        "note": "跑步/40岁赛道，高频发布，主题:40岁跑步/运动与不运动的对比",
-        "representativeVideo": "40岁分水岭 运动与不运动 十年后判若两人(4.7万播)",
-        "maxPlays": 47000,
-        "source": "20260720周采"
-      },
-      {
-        "name": "严料坊银星✨",
-        "note": "跑步/40岁赛道，内容:40岁运动/跑步的好处，金句类",
-        "representativeVideo": "40岁以后最靠谱的活法是什么(2.8万播)",
-        "maxPlays": 28000,
-        "source": "20260720周采"
-      },
-      {
-        "name": "跑步一哥",
-        "note": "跑步/40岁赛道，内容:40岁以后的活法/高级感",
-        "representativeVideo": "40岁以后最靠谱的活法是什么(2.8万播)",
-        "maxPlays": 28000,
-        "source": "20260720周采"
-      },
-      {
-        "name": "胡说老王",
-        "note": "创业/中年转型赛道，白手起家/行业分析，内容深度好",
-        "representativeVideo": "白手起家的16条铁律(32.0万播)",
-        "maxPlays": 320000,
-        "source": "20260720周采"
-      },
-      {
-        "name": "我是霖儿",
-        "note": "创业/中年转型赛道，从0挣到千万的赚钱历程",
-        "representativeVideo": "34岁从0成本挣到千万(45.0万播)",
-        "maxPlays": 450000,
-        "source": "20260720周采"
-      },
-      {
-        "name": "广东阿平",
-        "note": "摩旅赛道，电动车进藏话题爆款68.3万播",
-        "representativeVideo": "青春没有售价电动车从广东到拉萨(68.3万播)",
-        "maxPlays": 683000,
-        "source": "20260720周采"
+        "name": "豆",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "第一视角体验大学生放暑假骑摩托车回家！1130公里从洛阳到成都",
+        "plays": "9779"
       },
       {
         "name": "丁小宝",
-        "note": "摩旅赛道，短视频金句类172.6万播爆款",
-        "representativeVideo": "多远都要在一起(172.6万播)",
-        "maxPlays": 1726000,
-        "source": "20260720周采"
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "多远都要在一起",
+        "plays": "172.6万"
       },
       {
-        "name": "择路漫谈",
-        "note": "中年人生感悟赛道，中年觉醒类内容22.6万播",
-        "representativeVideo": "中年觉醒 时光好不经用(22.6万播)",
-        "maxPlays": 226000,
-        "source": "20260720周采"
+        "name": "骑士老船长",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "一群快快乐乐.无忧无虑的人.闯进像仙境一样的地方！",
+        "plays": "9.8万"
+      },
+      {
+        "name": "红色不该遗忘",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "花有重开日，人无再少年。别等了，时间永远等不来",
+        "plays": "11.0万"
+      },
+      {
+        "name": "李不巡",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "我的旅途已经开始，你的呢？",
+        "plays": "5458"
+      },
+      {
+        "name": "小黑怪🧗",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "欲买桂花同载酒 终不似 少年游 历经8天从重庆骑到西藏布达拉宫",
+        "plays": "4903"
+      },
+      {
+        "name": "嘟嘟脸🐣",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "辽阔的草原，养育不出狭隘的爱",
+        "plays": "6.8万"
+      },
+      {
+        "name": "广东阿平",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "青春没有售价，我骑着电动车从广东到拉萨，走了65天",
+        "plays": "68.3万"
+      },
+      {
+        "name": "骑摩托的老登（关必关）",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "人生不过百年，这辈子不骑摩托车活着还有啥意思？",
+        "plays": "1707"
+      },
+      {
+        "name": "正经的虎虎",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "为什么我强烈建议大家去摩旅",
+        "plays": "9564"
+      },
+      {
+        "name": "小和同学（环球旅行中）",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "单人单骑摩托车穿越羌塘无人区，眼睛在天堂身体在地狱",
+        "plays": "2.2万"
+      },
+      {
+        "name": "全世界只有一个尧",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "听说:到最后，人会后悔的只有一件事，就是活的不够勇敢",
+        "plays": "8738"
+      },
+      {
+        "name": "一直在摩旅",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "新手摩旅必看 给新手的摩旅忠告",
+        "plays": "5273"
+      },
+      {
+        "name": "陈樂樂🏍️",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "少年心气是不可再生之物",
+        "plays": "55.8万"
+      },
+      {
+        "name": "阳台的小熊",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "摩旅新疆 从敦煌到哈密穿越400公里无人区",
+        "plays": "6.0万"
+      },
+      {
+        "name": "摩托车&阿坤",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "摩托车旅行需要准备什么？千万别准备错了",
+        "plays": "7312"
+      },
+      {
+        "name": "快乐的羊驼",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "我无法告诉你摩旅的意义，直到你出发",
+        "plays": "4.3万"
+      },
+      {
+        "name": "westwind西风",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "穿越大海道无人区，这一次我感觉到了自己的成长",
+        "plays": "3.6万"
+      },
+      {
+        "name": "河小马车",
+        "source": "摩旅",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "女孩，独自出发吧！摩旅东北9000公里发现困难没有想象可怕",
+        "plays": "3918"
+      },
+      {
+        "name": "李新宝",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁才懂：跑步，不再是选择，而是中年人的必然",
+        "plays": "1429"
+      },
+      {
+        "name": "风驰跃",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "3公里跑不进12分钟？先补这三块短板🔥",
+        "plays": "6.8万"
+      },
+      {
+        "name": "磊哥【爱跑步】",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "跑步治愈一切 真的不是鸡汤 科学解释跑步如何重塑大脑",
+        "plays": "7127"
+      },
+      {
+        "name": "思思雯雯",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年人慢跑一年，身体变化到底有多恐怖？",
+        "plays": "1352"
+      },
+      {
+        "name": "慢慢蒋",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "慢跑才养人 | 别再傻跑了 | 这种强度才是脂肪克星",
+        "plays": "2.6万"
+      },
+      {
+        "name": "Shaw的跑步计划",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "为什么说5公里，是普通人的自律天花板？",
+        "plays": "1.0万"
+      },
+      {
+        "name": "代自律",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "夜跑8公里用时32分，平均心率165 强大始终从改变开始",
+        "plays": "3.1万"
+      },
+      {
+        "name": "小痞要跑步🏃‍♀️",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "跑步一年，这6个变化，只有真正跑过的人才懂",
+        "plays": "2829"
+      },
+      {
+        "name": "薄世宁医生",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "经常跑步的人，身体会发生7种变化",
+        "plays": "37.8万"
+      },
+      {
+        "name": "跑起来得劲儿",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "自律第1026天｜纠正100位跑友跑姿第13集",
+        "plays": "64.2万"
+      },
+      {
+        "name": "谭雅跑呀",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "讲讲我的跑步故事",
+        "plays": "22.7万"
+      },
+      {
+        "name": "严料坊银星✨",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "慢跑一整年：身体深度重启，看中年人如何逆向生长",
+        "plays": "1.4万"
+      },
+      {
+        "name": "暴汗君🥇",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "所以你愿意在夏天和我一起跑20公里吗",
+        "plays": "30.9万"
       },
       {
         "name": "大正爱跑步",
-        "note": "跑步自律赛道，日常打卡类134.1万播爆款",
-        "representativeVideo": "自律第1386天(134.1万播)",
-        "maxPlays": 1341000,
-        "source": "20260720周采"
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "自律第1386天",
+        "plays": "134.1万"
+      },
+      {
+        "name": "薇薇的日常",
+        "source": "跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "五公里慢跑法，每天三十五分钟，告别中年疲惫",
+        "plays": "2682"
+      },
+      {
+        "name": "纳厮",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年失业唯一出路，只研究一个人就能干的生意",
+        "plays": "1.9万"
+      },
+      {
+        "name": "栋见商业局",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年失业唯一的出路，其实就是去研究一个人能干的生意",
+        "plays": "9.2万"
+      },
+      {
+        "name": "老方创业手册",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年失业别瞎学技术，选对行业才能做到老",
+        "plays": "1.9万"
+      },
+      {
+        "name": "跑调的納厮",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "历经半生有起有落，未来赚钱更难！抓住机会的能力尤为重要",
+        "plays": "1.7万"
+      },
+      {
+        "name": "老王聊商",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "35岁后，要选择可以做一辈子的生意",
+        "plays": "35.7万"
+      },
+      {
+        "name": "胡说老王",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年人翻身改命的4条出路，能看到就尽快看",
+        "plays": "2.4万"
+      },
+      {
+        "name": "我是霖儿",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "35岁以后最怕的不是失业，而是除了上班什么都不懂",
+        "plays": "3.1万"
+      },
+      {
+        "name": "大菊子",
+        "source": "中年转型",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "45岁被迫放弃职场转型重启，不上班的出路其实也挺多",
+        "plays": "3316"
+      },
+      {
+        "name": "声棱·Tone",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "只要富过一次，你就该富一辈子！",
+        "plays": "14.3万"
+      },
+      {
+        "name": "不屈者老王",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "轻资产创业，要先人一步，从复制开始",
+        "plays": "21.7万"
+      },
+      {
+        "name": "胡说老王品世事",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "2026普通人创业赛道盘点！能干和不能干一次性讲清",
+        "plays": "8.5万"
+      },
+      {
+        "name": "鹤川",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "无人扶我青云志，我自踏雪至山巅",
+        "plays": "6.8万"
+      },
+      {
+        "name": "伤心小新",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "是谁还没在抖音赚到第一桶金",
+        "plays": "14.2万"
+      },
+      {
+        "name": "大黄飙车",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "我的12年创业之路，从负债到翻身的个人经历",
+        "plays": "2.5万"
+      },
+      {
+        "name": "实战派老何",
+        "source": "创业",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "多次创业起起伏伏，最后都败给了人性",
+        "plays": "9829"
+      },
+      {
+        "name": "换胃思考",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁是什么感觉？",
+        "plays": "8.8万"
+      },
+      {
+        "name": "黄博士Alex",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁后才有钱，是老天给你最好的礼物",
+        "plays": "12.6万"
+      },
+      {
+        "name": "李饱饱说",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40+女性的真实独白",
+        "plays": "5.0万"
+      },
+      {
+        "name": "文同学爱运动",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁开始练肌肉，人生下半场才刚刚开始",
+        "plays": "6.2万"
+      },
+      {
+        "name": "星爷的进化笔记",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "人生确实是从40岁开始，在那之前你只是在做调研",
+        "plays": "6.2万"
+      },
+      {
+        "name": "莫奈说",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "50岁的我如果能回到40岁，真希望有人告诉我这些",
+        "plays": "14.1万"
+      },
+      {
+        "name": "择路漫谈",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年觉醒 时光好不经用，抬眼已是半生",
+        "plays": "22.6万"
+      },
+      {
+        "name": "言风文化",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "人到五十岁一定要明白的真相",
+        "plays": "23.2万"
+      },
+      {
+        "name": "叁叁闪闪",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁高能量女生的晚上，今天居然跑了个正方形",
+        "plays": "236.3万"
+      },
+      {
+        "name": "跑步一哥",
+        "source": "40岁",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁以后最靠谱的活法是什么？",
+        "plays": "2.8万"
+      },
+      {
+        "name": "这里是1124酱",
+        "source": "跑步独白",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "无数个清晨4点，汇聚成了赛道的光",
+        "plays": 54000
+      },
+      {
+        "name": "春花",
+        "source": "跑步独白",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "喜欢一个人跑步，是什么体验",
+        "plays": 11000
+      },
+      {
+        "name": "晓林爱跑步",
+        "source": "跑步独白",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "时间到了，你自然会选择跑步",
+        "plays": 23000
+      },
+      {
+        "name": "LF励志健身",
+        "source": "跑步独白",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "跑步语录 总有人问，你为什么那么喜欢跑步？我想说，跑步是自己和自己的相处方式",
+        "plays": 0
+      },
+      {
+        "name": "海棠听风",
+        "source": "跑步独白",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "跑步后，这样发文案 不打扰谁，也不羡慕谁，听着音乐，随心而跑",
+        "plays": 0
+      },
+      {
+        "name": "李疯狂是跑渣",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "5公里慢跑是对抗中年下滑的最好方式，同时也是一种生活重构",
+        "plays": 15000
+      },
+      {
+        "name": "吕饱饱",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "当我越跑越慢，反而找到了真正的自由",
+        "plays": 0
+      },
+      {
+        "name": "安提娜",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "运动真的会上瘾，会开心的，总得找个事来消耗自己",
+        "plays": 19000
+      },
+      {
+        "name": "艾菲儿",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "最神奇的运动就是慢跑，不用刻意透支身体，不用过度消耗",
+        "plays": 11000
+      },
+      {
+        "name": "付大侠•女侠",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "衰老从不是年龄，是松垮、无力、没精神。慢跑给你活力",
+        "plays": 15000
+      },
+      {
+        "name": "朱教授运动健康",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "40岁跑步小白的最佳起点 40岁以后跑步，拼的不是速度，而是长期坚持的能力",
+        "plays": 0
+      },
+      {
+        "name": "健身搭子流老七",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年人的两种人生，差的不仅是900小时的跑步",
+        "plays": 0
+      },
+      {
+        "name": "柠檬茶🌟",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "45岁以后跑步，心态彻底不一样了",
+        "plays": 0
+      },
+      {
+        "name": "爱跑步的老韩（跑互）",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "中年跑步 当一个中年男人开始频繁跑步，意味着什么？",
+        "plays": 0
+      },
+      {
+        "name": "瑛子✨",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "人到中年 最好的养生方式莫过于运动，慢跑的好处",
+        "plays": 27000
+      },
+      {
+        "name": "小林运动日记",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "43岁已婚俩娃坚持晨跑9年 五公里心率137",
+        "plays": 0
+      },
+      {
+        "name": "自律坤姐减脂塑形日记",
+        "source": "40岁跑步",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "坚持跑步不粗腿！40+姐姐的5公里心得分享",
+        "plays": 0
+      },
+      {
+        "name": "米岚gzclnet",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "不伤膝慢跑姿，新手也能轻松掌握",
+        "plays": 0
+      },
+      {
+        "name": "花姐慢跑日记",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "最近经常在评论区看到有人问：你是怎么坚持下来的？",
+        "plays": 0
+      },
+      {
+        "name": "自由奔跑的石头",
+        "source": "慢跑日常",
+        "collectedAt": "2026-07-27T12:46:00+08:00",
+        "sampleVideos": "陪你跑步30分钟（190步频）",
+        "plays": 0
       }
     ],
     "coverStrategyStats": {
-      "realPersonRate": "本批数据无法精确判断封面特征(页面未直接展示封面图片)，根据搜索结果快照判断：大部分视频有封面图",
-      "titleOnCoverRate": "搜索结果中标题含吸引眼球的文案，推断大多封面也有标题元素",
+      "realPersonRate": "35%",
+      "titleOnCoverRate": "97%",
       "commonLayouts": [
-        "真人+大标题文字",
-        "风景图+小标题",
-        "纯文字封面"
+        "真人出镜+标题文字",
+        "跑者第一人称视角",
+        "日常跑步场景"
       ],
-      "benchmarkingSample": "本批60条(摩旅19条/跑步14条/中年转型8条/创业11条/40岁8条)",
-      "batchSize": 60,
-      "collectionDate": "2026-07-20"
+      "benchmarkingSample": "101条（本批43条）",
+      "analysis": "本批头部视频几乎全部采用真人出镜+标题文字封面。李新宝（中年跑步博主）内容最贴近定位：中年男人户外跑/晨跑，封面标题清晰。谭雅跑呀的科普跑者+标题风格也值得参考。"
     },
-    "titleTemplateInsights": {
-      "effectiveFormulas": [
-        "数字+对比型: [数字]+[对比项/变化]，如'40岁分水岭 运动与不运动'",
-        "反问/悬念型: [为什么/什么]+[主题]?，如'为什么我强烈建议大家去摩旅'",
-        "共鸣金句型: [金句]+[个人故事]，如'欲买桂花同载酒 终不似 少年游'",
-        "干货教程型: [主题]+[必看/忠告/准备]，如'新手摩旅必看 给新手的摩旅忠告'",
-        "焦虑+解法型: [中年困境]+[出路/唯一]，如'中年失业唯一出路'",
-        "人生感悟型: [年龄]+[感悟/真相]，如'40岁才懂：跑步是中年人的必然'"
-      ],
-      "usefulTags": [
-        "摩旅",
-        "摩旅西藏",
-        "318川藏线",
-        "跑步",
-        "运动",
-        "自律",
-        "40岁",
-        "人到中年",
-        "中年感悟",
-        "人生感悟",
-        "创业",
-        "中年转型",
-        "商业思维",
-        "赚钱",
-        "搞钱",
-        "女骑",
-        "机车",
-        "摩托车"
-      ]
-    },
+    "titleTemplateInsights": [
+      {
+        "template": "【金句+疑问/共鸣】",
+        "formula": "\"跑步是XXX，别XXX，跑一圈XXX\" 或 \"XXX是什么体验\"",
+        "examples": [
+          "跑步是救心，千万别躺着内耗",
+          "喜欢一个人跑步，是什么体验",
+          "人到中年 最好的养生方式莫过于运动"
+        ],
+        "count": 12,
+        "note": "高共鸣，适合vlog开头钩子"
+      },
+      {
+        "template": "【年龄/身份锚点+观点输出】",
+        "formula": "\"40岁/中年人 + 动作 + 结果/观点\"",
+        "examples": [
+          "40岁才懂：跑步，不再是选择，而是中年人的必然",
+          "中年慢跑90天，跑出新境界",
+          "5公里慢跑是对抗中年下滑的最好方式"
+        ],
+        "count": 15,
+        "note": "本批最常见公式，覆盖度最高。适合峰峰账号定位"
+      },
+      {
+        "template": "【反常识/警告型】",
+        "formula": "\"别再XX了/千万别XX/院士警告\"",
+        "examples": [
+          "慢跑才养人 | 别再傻跑了",
+          "40岁以后千万别像20岁那样跑",
+          "不伤膝慢跑姿，新手也能轻松掌握"
+        ],
+        "count": 5,
+        "note": "高完播潜力，但需注意不要过度贩卖焦虑"
+      }
+    ],
     "topPerformers": [
       {
         "title": "40岁高能量女生的晚上",
@@ -2254,7 +3526,58 @@
       ],
       "improvementAdvice": "每条脚本结尾必须有身份锚点：说出自己干了什么（跑了多少年/多少公里/是什么样的人），不能用纯共鸣式收尾。评论区发一条引导评论。",
       "lastRecommendedEnding": "跑着跑着就懂了。有些事，还真是跑起来才有答案。你发现没？"
-    }
+    },
+    "lowPlayback": [
+      {
+        "videoTitle": "三伏天厌跑了？试试这些方法",
+        "playCount": 219,
+        "publishDate": "2026年07月25日",
+        "daysOld": 2,
+        "reason": "内容方向偏差 + 视频过长",
+        "detail": "方法/教程类（75秒）不符合账号主流定位（内心独白叙事型10-15秒）。长视频天然完播率低，且方法内容需更强前3秒钩子。不建议继续做方法类。"
+      },
+      {
+        "videoTitle": "你吃过爱算计的人的亏没？我吃过",
+        "playCount": 144,
+        "publishDate": "2026年07月23日",
+        "daysOld": 4,
+        "reason": "标题钩子不够强 + 话题覆盖面窄",
+        "detail": "虽为叙事型，但\"爱算计\"话题不如\"老好人\"有共鸣面。标题缺少具体冲突场景，导致信息流不戳。对比同类型\"老好人\"（1622播/34%完播率）差距明显。"
+      },
+      {
+        "videoTitle": "我妈那句话，30年后我才听懂",
+        "playCount": 128,
+        "publishDate": "2026年07月21日",
+        "daysOld": 6,
+        "reason": "感慨型D内容已被验证失败",
+        "detail": "纯感慨型内容标题缺乏冲突感，内容过于文艺（\"30年后才听懂\"）。对比如\"老好人\"有具体事件+情绪起伏，而感慨型平铺直叙，2s跳出率预计偏高。"
+      },
+      {
+        "videoTitle": "被说换了个老伴儿，这评价我收了",
+        "playCount": 250,
+        "publishDate": "2026年07月17日",
+        "daysOld": 10,
+        "reason": "定时发布故障导致初始推荐失败（历史问题）",
+        "detail": "已在上次分析中确认为废片（定时发布故障导致错过初始推流窗口），数据基本锁定。"
+      },
+      {
+        "videoTitle": "我买菜加油都在凑整，没救了",
+        "playCount": 271,
+        "publishDate": "2026年07月16日",
+        "daysOld": 11,
+        "reason": "定时发布故障导致废片（历史问题）",
+        "detail": "已确认为定时发布故障废片，271播即最终数据。"
+      },
+      {
+        "videoTitle": "掰不动苞米，杵那干着急",
+        "playCount": 234,
+        "publishDate": "2026年06月28日",
+        "daysOld": 29,
+        "reason": "发布时间较长 + 老内容自然衰退",
+        "detail": "6月28日发布，已近30天。234播属于自然长尾衰减，非异常。"
+      }
+    ],
+    "lastUpdated": "2026-07-27T12:48:00+08:00"
   },
   "events": [
     {
@@ -2339,5 +3662,32 @@
         "material-14": "方案八：不是较真 (6s)"
       }
     }
+  },
+  "xiaohongshu": {
+    "posts": [
+      {
+        "title": "40岁，跑步7年，累计7700km。一个普通中年人的跑步自白",
+        "platform": "xiaohongshu",
+        "type": "图文笔记",
+        "publishDate": "2026-07-24",
+        "status": "已发布",
+        "materialId": "material-xhs-7y7700km",
+        "accountNote": "峰峰的小红书账号已建立，这是第一条图文笔记内容",
+        "createdAt": "2026-07-24T14:14:00+08:00"
+      }
+    ],
+    "account": {
+      "platform": "xiaohongshu",
+      "nickname": "待确认",
+      "established": true,
+      "firstPost": true,
+      "firstPostType": "图文笔记",
+      "positioning": "40岁普通慢跑者，分享跑步和生活心得",
+      "note": "小红书账号已建立，2026-07-24发布第一条图文笔记",
+      "createdAt": "2026-07-24T14:14:00+08:00"
+    }
+  },
+  "scripts": {
+    "xiaohongshu": []
   }
 }

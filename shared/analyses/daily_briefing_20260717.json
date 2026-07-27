@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-17",
+  "account": {
+    "followers": 53,
+    "followersChange": 0,
+    "videos": 42,
+    "lastUpdated": "2026-07-17T23:33:00+08:00"
+  },
+  "todayEvents": [
+    "凑整强迫症（7/16定时发布失败）→ 峰峰手动发布，28h后251播 → 判定：废片",
+    "被说换了个老伴儿（material-17·对比型E）→ 今晚19:40发布，4h后83播 → 判定：危险",
+    "同一天连发两条，小账号推流分流"
+  ],
+  "ranking": [
+    {"title": "刚跑了两天就有人说你", "plays": 8268, "change": "+4 vs 昨", "status": "见顶"},
+    {"title": "跑了7年还没跑明白", "plays": 3306, "change": "+3 vs 昨", "status": "停滞"},
+    {"title": "妈妈那句话成了心结", "plays": 3211, "change": "+1 vs 昨", "status": "停滞"},
+    {"title": "40岁的人只有5个粉丝", "plays": 2922, "change": "0 vs 昨", "status": "停滞"},
+    {"title": "凭啥觉得自己不如人", "plays": 2600, "change": "0 vs 昨", "status": "停滞"},
+    {"title": "多跑几公里不折返", "plays": 842, "change": "+26 vs 昨", "status": "停滞"},
+    {"title": "跑着跑着突然不想跑", "plays": 613, "change": "+1 vs 昨", "status": "停滞"},
+    {"title": "凑整强迫症", "plays": 251, "change": "new", "status": "废片"},
+    {"title": "换了个老伴儿", "plays": 83, "change": "new", "status": "初始推流中"}
+  ],
+  "anomalies": [
+    {"type": "废片", "video": "凑整强迫症", "reason": "28h仅251播，定时发布故障导致"},
+    {"type": "初始推流弱", "video": "换了个老伴儿", "reason": "4h仅83播，同一天双发分流"},
+    {"type": "停滞", "video": "全账号（除新发）", "reason": "存量视频72h内无增长"}
+  ],
+  "benchmarkingInsight": "未更新（上次对标采集7/15）",
+  "deepDive": {
+    "多跑几公里不折返": {
+      "playCount": 842,
+      "finishRate": "29.24% (全账号最高)",
+      "twoSecJumpRate": "24.06%",
+      "fanPlayRatio": "1.3%",
+      "flowChange": "+83% 上涨",
+      "followerGain": 0,
+      "verdict": "高完播低播放 → 封面/标题拖累点击率，不是内容问题"
+    }
+  },
+  "reasoning": {
+    "凑整强迫症死因": "定时发布故障导致视频实际发出时间未知，错过初始推荐窗口",
+    "换了个老伴儿风险": "同天双发+标题不够抓人+封面推测不够冲击，明早看是否过500",
+    "多跑几公里死因": "内容好（29%完播），但'多跑几公里不折返'在信息流里太软，点击率低"
+  },
+  "recommendation": "明早停发一天，让换了个老伴儿跑满24h确认真实数据"
+}

@@ -1,0 +1,67 @@
+{
+  "benchmarking": {
+    "lastCollection": "2026-07-23T15:50:00+08:00",
+    "source": "抖音搜索：40岁跑步 精选视频 / 中年跑步 我的代表作 / 慢跑独白 精选 / 40岁的人生感悟 跑步 / 中年人的生活方式 跑步 / 普通人跑步故事",
+    "keywords": [
+      "40岁跑步 精选视频",
+      "中年跑步 我的代表作",
+      "慢跑独白 精选",
+      "40岁的人生感悟 跑步",
+      "中年人的生活方式 跑步",
+      "普通人跑步故事"
+    ],
+    "totalResults": 120,
+    "coverStrategyStats": {
+      "realPersonRate": "约40%（真人出镜率高居首位）",
+      "titleOnCoverRate": "约35%（封面有标题文字）",
+      "commonLayouts": [
+        "真人跑步自拍+场景",
+        "跑步背影+环境",
+        "纯文字标题封面",
+        "跑步场景+叠加文字"
+      ],
+      "benchmarkingSample": "本批约120条"
+    },
+    "topAccounts": [
+      {
+        "author": "李新宝",
+        "maxPlays": 47000,
+        "niche": "中年男性跑者，视频播客风格，深度感悟型",
+        "referenceScore": 5
+      },
+      {
+        "author": "跑步一哥",
+        "maxPlays": 39000,
+        "niche": "中年男性跑步+人生感悟+社会观察",
+        "referenceScore": 5
+      },
+      {
+        "author": "严料坊银星✨",
+        "maxPlays": 27000,
+        "niche": "40岁+健康跑步分享，短平快",
+        "referenceScore": 4
+      },
+      {
+        "author": "柠檬茶🌟",
+        "maxPlays": 22000,
+        "niche": "慢跑态度类，心灵语录风格",
+        "referenceScore": 5
+      },
+      {
+        "author": "山河老王",
+        "maxPlays": 17000,
+        "niche": "跑步心灵独白治愈型",
+        "referenceScore": 5
+      }
+    ],
+    "titlePatterns": [
+      "感慨型: '40岁才懂：XXX'",
+      "反问型: '当一个中年人开始XXX，意味着什么？'",
+      "数字型: '慢跑XX天/XX条忠告'",
+      "对比型: '运动与不运动，十年后判若两人'",
+      "价值主张型: '放下配速执念，慢跑也是一种生活态度'"
+    ],
+    "recommendedDuration": "2:30~4:00",
+    "recommendedFormat": "跑步独白+真实出镜+单个核心观点"
+  }
+}

@@ -1,16 +1,156 @@
-{
-  "events": [
-    {
-      "id": "plan-001",
-      "type": "plan",
-      "title": "千粉计划存档",
-      "description": "54→1000粉完整路线图已保存至 shared/thousand-fans-plan.md",
-      "agentTarget": "all",
-      "createdAt": "2026-07-14T20:33:00+08:00",
-      "status": "pending",
-      "notes": "待办清单按优先级排列，逐步完善各Agent能力",
-      "dependsOn": "qingbaozhan-full-scan",
-      "onComplete": "情报站完成全量采集后，用最新数据核验并刷新本计划
-    }
-  ]
+﻿{
+    "events":  [
+                   {
+                       "id":  "material-jingxuan-20260723",
+                       "type":  "material_save",
+                       "title":  "【新素材】精选视频：跑步7年的4个小窍门",
+                       "description":  "峰峰口述的新素材：跑步7年坚持下来的4个小技巧——1.更新装备（袜子到跑鞋）、2.换歌单（节奏感强的加进来）、3.跑不同路线（用脚丈量城市）、4.有趣的跑步距离（520/1314）。后配音+素材画面。请素材管家在shared/data.json和shared/materials/目录下记录保存。",
+                       "agentTarget":  "douyin-素材管家",
+                       "createdAt":  "2026-07-23T18:21:00+08:00",
+                       "status":  "done",
+                       "completedAt":  "2026-07-23T18:22:00+08:00"
+                   },
+                   {
+                       "id":  "plan-001",
+                       "type":  "plan",
+                       "title":  "千粉计划存档",
+                       "description":  "54→1000粉完整路线图已保存至 shared/thousand-fans-plan.md",
+                       "agentTarget":  "all",
+                       "createdAt":  "2026-07-14T20:33:00+08:00",
+                       "status":  "active",
+                       "dependsOn":  null
+                   },
+                   {
+                       "id":  "material-order-20260715",
+                       "type":  "material_task",
+                       "title":  "P0素材脚本产出任务",
+                       "description":  "素材管家已完成优先级排序。#1 material-17(210→170)已发布。#2 material-04(转校生可乐)待写。#3 material-15(暴雨车淹)待写。#4 material-16(凑整)已归档。#5 M-20260709-001(原生家庭)呆处理。",
+                       "agentTarget":  "douyin-脚本生成器",
+                       "createdAt":  "2026-07-15T11:16:00+08:00",
+                       "status":  "paused",
+                       "reason":  "所有脚本任务暂停，当前聚焦精选视频任务"
+                   },
+                   {
+                       "id":  "jingxuan-target-20260723",
+                       "type":  "account_target",
+                       "title":  "【新任务】精选视频制作 — 抖音官方精选计划",
+                       "description":  "峰峰正在做抖音官方精选视频任务（自动邀请制）。全力冲刺，核心方向：跑步7年的坚持靠的是内驱力。",
+                       "agentTarget":  "all",
+                       "createdAt":  "2026-07-23T15:55:00+08:00",
+                       "status":  "active",
+                       "priority":  "P0 ⭐",
+                       "deadline":  "自行确定"
+                   },
+                   {
+                       "id":  "jingxuan-direction-confirmed-20260723",
+                       "type":  "plan",
+                       "title":  "精选视频方向确认 — 内驱力→4个小窍门（方向变更）",
+                       "description":  "峰峰看内驱力版觉得不够真诚，自己给出了更真实的方向：分享7年坚守下来的4个小技巧——1.更新装备 2.换歌单 3.跑不同路线 4.有趣的跑步距离。后配音格式。脚本已产出：shared/scripts/jingxuan-xiaoqiaomen-20260723.md",
+                       "agentTarget":  "all",
+                       "createdAt":  "2026-07-23T17:00:00+08:00",
+                       "updatedAt":  "2026-07-23T22:18:00+08:00",
+                       "status":  "active",
+                       "direction":  {
+                                         "coreAngle":  "7年跑步4个小窍门——不是讲大道理，是最真实的坚持方法",
+                                         "length":  "90秒",
+                                         "format":  "后配音模式（画面配画外音）",
+                                         "fourMethods":  [
+                                                             "更新装备——小到一双袜子，大到一双好跑鞋，新鲜劲儿让你想赶紧试试",
+                                                             "换歌单——听到节奏感强的就加进去，每天听的歌不一样，跑的步子也不一样",
+                                                             "跑不同路线——软件上有好玩儿的路线图，用脚丈量城市",
+                                                             "有趣的跑步距离——5.20/13.14，刚开始520米/1314米也够玩"
+                                                         ]
+                                     },
+                       "version3":  "2026-07-23 22:18 已完成v3反差故事版重写，替换清单版。vim: shared/scripts/jingxuan-fancha-20260723.md"
+                   },
+                   {
+                       "id":  "script-task-jingxuan-20260723",
+                       "type":  "script_task",
+                       "title":  "脚本生成器：写内驱力精选脚本（90秒）——已废弃，替换为4小窍门版",
+                       "description":  "峰峰看过后觉得不够真诚，已替换为新的\u00274个小窍门\u0027方向。脚本已产出v2：shared/scripts/jingxuan-xiaoqiaomen-20260723.md",
+                       "agentTarget":  "douyin-脚本生成器",
+                       "createdAt":  "2026-07-23T17:00:00+08:00",
+                       "completedAt":  "2026-07-23T18:25:00+08:00",
+                       "status":  "done",
+                       "note":  "方向变更：内驱力→4个小窍门。旧脚本jingxuan-neiqu-20260723.md废弃保留。新脚本路径指向jingxuan-xiaoqiaomen-20260723.md"
+                   },
+                   {
+                       "id":  "script-task-jingxuan-4xiaos-20260723",
+                       "type":  "script_task",
+                       "title":  "脚本生成器：写4个小窍门精选脚本（90秒·后配音版）",
+                       "description":  "峰峰看内驱力版本觉得不够真诚，自己给出新方向：分享7年坚守下来的4个小技巧。脚本已产出：shared/scripts/jingxuan-xiaoqiaomen-20260723.md",
+                       "agentTarget":  "douyin-脚本生成器",
+                       "createdAt":  "2026-07-23T18:22:00+08:00",
+                       "completedAt":  "2026-07-23T18:25:00+08:00",
+                       "status":  "done",
+                       "scriptPath":  "shared/scripts/jingxuan-xiaoqiaomen-20260723.md"
+                   },
+                   {
+                       "id":  "cover-task-jingxuan-20260723",
+                       "type":  "cover_task",
+                       "title":  "标题封面官：脚本已就绪（4个小窍门版），出3套方案",
+                       "description":  "脚本生成器已完成新方向脚本：shared/scripts/jingxuan-xiaoqiaomen-20260723.md。核心方向：7年跑步4个小窍门（后配音版）。标题封面官请以此脚本为基准出3套标题+封面方案。",
+                       "agentTarget":  "douyin-标题封面官",
+                       "createdAt":  "2026-07-23T17:00:00+08:00",
+                       "updatedAt":  "2026-07-23T22:18:00+08:00",
+                       "status":  "done",
+                       "completedAt":  "2026-07-23T18:26:00+08:00",
+                       "dependsOn":  "script-task-jingxuan-4xiaos-20260723完成",
+                       "scriptPath":  "shared/scripts/jingxuan-xiaoqiaomen-20260723.md",
+                       "coverPath":  "shared/covers/jingxuan-4xiaos-20260723.md",
+                       "scriptPathV3":  "shared/scripts/jingxuan-fancha-20260723.md"
+                   },
+                   {
+                       "id":  "material-19-status-update-20260723",
+                       "type":  "data_update",
+                       "title":  "素材状态更新",
+                       "description":  "material-19（外卖小哥）已发布一条「生活和热爱你怎么选」。各Agent已确认，后续不再推荐作首选。data.json中已更新。",
+                       "agentTarget":  "all",
+                       "createdAt":  "2026-07-23T17:00:00+08:00",
+                       "status":  "done"
+                   },
+                   {
+                       "id":  "jingxuan-duibiao-report-20260723",
+                       "type":  "report",
+                       "title":  "对标精选视频参考报告",
+                       "description":  "对标采集已完成17个对标账号120+条视频。报告在 shared/benchmarking/jingxuan-duibiao-20260723.md",
+                       "agentTarget":  "douyin-脚本生成器 and douyin-标题封面官",
+                       "createdAt":  "2026-07-23T15:55:00+08:00",
+                       "status":  "ready"
+                   },
+                   {
+                       "scriptPath":  "shared/scripts/jingxuan-fancha-20260723.md",
+                       "id":  "script-task-jingxuan-fancha-20260723",
+                       "type":  "script_task",
+                       "createdAt":  "2026-07-23T22:15:00+08:00",
+                       "replaces":  "jingxuan-xiaoqiaomen-20260723.md",
+                       "description":  "峰峰看完v2小窍门清单版，要求用\u0027反差故事\u0027结构替代清单式。已完成重写 v3 反差故事版：shared/scripts/jingxuan-fancha-20260723.md。核心理念：那些跑十几年的人不是意志力超人，是有\u0027小心机\u0027。开篇用\u0027告诉你个秘密\u0027，结构为钩子→回忆对比→4个方法自然带出→身份锚点+互动。共272字、11项自检全部通过。",
+                       "version":  "v3",
+                       "status":  "done",
+                       "agentTarget":  "douyin-脚本生成器",
+                       "title":  "脚本生成器：反差故事结构重写（90秒后配音版）→ 替代小窍门清单版",
+                       "completedAt":  "2026-07-23T22:18:00+08:00"
+                   },
+                   {
+                       "id":  "qingbaozhan-jingxuan-task-report-20260723",
+                       "type":  "report",
+                       "title":  "情报站诊断报告：精选计划任务分析",
+                       "description":  "情报站完成精选计划任务页面截图的全量分析。诊断结论：先发精选视频，不要等。v3脚本+封面方案A全部就绪，建议07-24手动发布。报告：shared/analyses/qingbaozhan-jingxuan-task-20260723.md",
+                       "agentTarget":  "all",
+                       "createdAt":  "2026-07-23T23:01:00+08:00",
+                       "completedAt":  "2026-07-23T23:01:00+08:00",
+                       "status":  "done",
+                       "reportPath":  "shared/analyses/qingbaozhan-jingxuan-task-20260723.md"
+                   },
+            {
+                "id":  "cross-platform-rules-20260724",
+                "type":  "system_config",
+                "title":  "【新规则】跨平台反抄袭规则已生效",
+                "description":  "峰峰在小红书新建了同定位账号(40岁慢跑分享)。从现在起所有内容产出需考虑双平台适配。规则文件：shared/rules/cross-platform-anti-plagiarism.md。所有子Agent在产出脚本/封面/素材时，必须自检双平台兼容性和抄袭风险。",
+                "agentTarget":  "all",
+                "createdAt":  "2026-07-24T12:37:00+08:00",
+                "status":  "active",
+                "priority":  "P0 ⭐"
+            }
+               ]
 }

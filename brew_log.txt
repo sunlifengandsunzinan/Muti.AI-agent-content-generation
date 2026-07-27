@@ -1,0 +1,102 @@
+Warning: You are using macOS 11.
+We (and Apple) do not provide support for this old version.
+You may have better luck with MacPorts which supports older versions of macOS:
+  https://www.macports.org
+
+This is a Tier 3 configuration:
+  https://docs.brew.sh/Support-Tiers#tier-3
+You can report issues with Tier 3 configurations to Homebrew/* repositories!
+Read the above document before opening any issues or PRs.
+
+==> Would install 1 formula:
+tesseract
+==> Would install 59 dependencies for tesseract:
+libpng
+pkgconf
+freetype
+libunistring
+gettext
+ninja
+mpdecimal
+ca-certificates
+openssl@3
+readline
+sqlite
+xz
+lz4
+cmake
+zstd
+expat
+python@3.14
+meson
+fontconfig
+pcre2
+bison
+python-setuptools
+glib
+util-macros
+xorgproto
+libxau
+libxdmcp
+xcb-proto
+libxcb
+xtrans
+libx11
+libxext
+libxrender
+lzo
+pixman
+cairo
+graphite2
+icu4c@78
+gobject-introspection
+harfbuzz
+giflib
+nasm
+jpeg-turbo
+libtiff
+little-cms2
+doxygen
+openjpeg
+webp
+leptonica
+libb2
+libarchive
+fribidi
+libdatrie
+libthai
+pango
+m4
+autoconf
+automake
+libtool
+==> Fetching downloads for: tesseract
+✔︎ API Source tesseract.rb
+✔︎ API Source tesseract.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/h/harfbuzz.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/6a9833a9e6362317a6696819b6a393f9bd055a46b9c340c31016a487db989cb3--harfbuzz.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/g/giflib.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/c1ad1a022fbf2e70abfd7b47bde09b8976412fd91fc1b35a9c9f3d9ec9f46f6d--giflib.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/n/nasm.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/cf485b0d5e7216d02a826c5354a9c30ef7d94baea86c3bc0259a117e4f70b561--nasm.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/j/jpeg-turbo.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/d9c76233d84b0270d38d514d154ed78d2c9c654f7c673748560a028494e7377f--jpeg-turbo.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/lib/libtiff.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/1d25ec41e898568ad493d6f505b717fe38ba289d8f09ab4b3217069e188428c4--libtiff.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/d/doxygen.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/892204f05f398385d0d617fdbd2cd506f8761c89b98a5833679f502a077c840c--doxygen.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/o/openjpeg.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/4a4d6c177e4274f9f14f25c237aa81fbd077c5e56f73b26505a63efdc6eeab94--openjpeg.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/w/webp.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/e21a69cf2322e422d2f399b93c05edb8ad92247742d626a967d89b795720b7a3--webp.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/l/leptonica.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/683b21eaa6426a9a1a322e34235864196dfdba8ab6ce3247635f1715f2942640--leptonica.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/lib/libarchive.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/68d56ee11675ab73f40a76cdb43cca603be1959f700db75f93ed522ce27854e7--libarchive.rb
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/35a3d63e73a571f0c6cf45f94979129d5f72e633/Formula/f/fribidi.rb
+Already downloaded: /Users/sunlifeng/Library/Caches/Homebrew/downloads/8f4d97acf41692e8a50d6e70707a56443477fed132dfb34885bbc406052aa72a--fribidi.rb
+Error: A `brew install tesseract` process has already locked /Users/sunlifeng/Library/Caches/Homebrew/downloads/352bca4cd5b3c9ffa7184320d014e0af18cd4fd6d3541a4683a43a5cff2f214b--libdatrie.rb.incomplete.
+Please wait for it to finish or terminate it to continue.
+=== VERSION ===
+bash: line 11: /home/sunlifeng/homebrew/bin/tesseract: No such file or directory
+=== DONE ===

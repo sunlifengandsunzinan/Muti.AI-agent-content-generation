@@ -1,0 +1,20 @@
+#!/bin/bash
+# Check macOS OCR capabilities
+echo "=== OCR Tools ==="
+which ocr 2>/dev/null || echo "no 'ocr' command"
+ls /usr/libexec/ocr* 2>/dev/null || echo "no /usr/libexec/ocr*"
+echo ""
+echo "=== Locale ==="
+locale -a 2>/dev/null | grep -i ko || echo "no Korean locale"
+echo ""
+echo "=== Check tesseract ==="
+which tesseract 2>/dev/null || echo "no tesseract"
+echo ""
+echo "=== Python check for Google Tesseract alternatives ==="
+python3 -c "import sys; print(f'Python {sys.version}')" 2>&1
+echo ""
+echo "=== aws CLI (has textract) ==="
+which aws 2>/dev/null || echo "no aws"
+echo ""
+echo "=== Check if CNContact supports OCR ==="
+echo "none of the above"
