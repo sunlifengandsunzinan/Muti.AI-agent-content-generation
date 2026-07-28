@@ -1,0 +1,107 @@
+{
+  "_note": "发布日志。峰峰每次发视频后告诉我标题+素材ID，我追加到这里。不再靠标题匹配判断素材是否用过。",
+  "videos": [
+    {
+      "id": "vid-20260706",
+      "title": "刚跑了两天，就有人说你",
+      "materialId": "unknown",
+      "angle": "跑者共鸣-自嘲",
+      "publishDate": "2026-07-06",
+      "plays": 8274,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260710",
+      "title": "说了句不对",
+      "materialId": "unknown",
+      "angle": null,
+      "publishDate": "2026-07-10",
+      "plays": 308,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260715",
+      "title": "凭啥觉得自己不如人",
+      "materialId": "unknown",
+      "angle": "自嘲式收尾",
+      "publishDate": "2026-07-15",
+      "plays": 2646,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260716",
+      "title": "我买菜加油都在凑整，没救了",
+      "materialId": "material-16",
+      "angle": "凑整强迫症-自嘲",
+      "publishDate": "2026-07-16",
+      "plays": 271,
+      "type": "日常口播",
+      "note": "定时发布故障废片"
+    },
+    {
+      "id": "vid-20260717",
+      "title": "被说换了个老伴儿，这评价我收了",
+      "materialId": "material-17",
+      "angle": "210斤到170斤-他人视角",
+      "publishDate": "2026-07-17",
+      "plays": 250,
+      "type": "日常口播",
+      "note": "定时发布故障废片"
+    },
+    {
+      "id": "vid-20260718",
+      "title": "老好人是不是都这么傻",
+      "materialId": "material-15",
+      "angle": "老好人-自嘲共鸣",
+      "publishDate": "2026-07-18",
+      "plays": 1622,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260719",
+      "title": "跑步7年还没跑明白，数据到底重不重要",
+      "materialId": "material-13",
+      "angle": "跑步数据-跑者暗号",
+      "publishDate": "2026-07-19",
+      "plays": 3316,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260721",
+      "title": "我妈那句话，30年后我才听懂",
+      "materialId": "unknown",
+      "angle": "感慨型-母亲的话",
+      "publishDate": "2026-07-21",
+      "plays": 128,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260723",
+      "title": "你吃过爱算计的人的亏没？我吃过",
+      "materialId": "material-23",
+      "angle": "算计-窄话题",
+      "publishDate": "2026-07-23",
+      "plays": 144,
+      "type": "日常口播"
+    },
+    {
+      "id": "vid-20260725",
+      "title": "三伏天厌跑了？试试这些方法",
+      "materialId": "unknown",
+      "angle": "教程向-三伏天",
+      "publishDate": "2026-07-25",
+      "plays": 219,
+      "type": "精选视频(实验)"
+    },
+    {
+      "id": "vid-20260706",
+      "title": "那把镰刀，一开始我就没整明白",
+      "materialId": "unknown",
+      "angle": "跑者共鸣-悬念",
+      "publishDate": "2026-07-06",
+      "plays": 3575,
+      "type": "日常口播"
+    }
+  ],
+  "lastUpdated": "2026-07-28T09:56:00+08:00"
+}

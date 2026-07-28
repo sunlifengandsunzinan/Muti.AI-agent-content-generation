@@ -1,4 +1,4 @@
-{
+﻿{
   "materials": [
     {
       "id": "M-20260709-001",
@@ -3689,5 +3689,23 @@
   },
   "scripts": {
     "xiaohongshu": []
+  },
+  "videoLibrary": {
+    "description": "实拍视频素材库 - 2026-07-28 初始化",
+    "structure": "shared/video-library/{camera_编码}_{编号}/metadata.json + clip.mp4",
+    "cameraTypes": {
+      "A": "第一人称 - 手机倒拿/胸口绑，拍路面/脚步/身体部位",
+      "B": "自拍杆正面 - 自拍杆举高/侧前方，对镜头说话",
+      "C": "固定机位 - 手机放地上/台阶上，走向/走远",
+      "D": "空镜 - 即梦生成的画面或手机拍的环境空镜"
+    },
+    "lastUpdated": "2026-07-28",
+    "totalEntries": 4,
+    "entries": [
+      {"id": "A_001", "camera": "A", "path": "shared/video-library/A_001/clip.mp4"},
+      {"id": "B_001", "camera": "B", "path": "shared/video-library/B_001/clip.mp4"},
+      {"id": "C_001", "camera": "C", "path": "shared/video-library/C_001/clip.mp4"},
+      {"id": "D_001", "camera": "D", "path": "shared/video-library/D_001/clip.jpg"}
+    ]
   }
 }
