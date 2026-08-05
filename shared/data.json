@@ -1,4 +1,4 @@
-﻿{
+{
   "materials": [
     {
       "id": "M-20260709-001",
@@ -573,6 +573,47 @@
       "createdAt": "2026-07-27T12:58:00+08:00",
       "rawFile": "shared/materials/material-18-跑步7年低谷与贵人们.md",
       "period": "2018-2026跨7年"
+    },
+    {
+      "id": "material-24",
+      "name": "委屈苦闷和跑步的挣扎",
+      "category": "跑步感悟",
+      "period": "近期",
+      "coreEmotion": "苦闷委屈无法言说，而这种复杂情绪只有跑不动时的挣扎能对应",
+      "keyPhrase": "说不出口的委屈，跑不动时的挣扎，其实是一样的",
+      "status": "active",
+      "videosUsed": [],
+      "availableAngles": [
+        {
+          "type": "共鸣型C",
+          "angle": "情绪跑完就好了？不，是跑的每一步都在对应当下的苦闷——跑者的双向治愈"
+        },
+        {
+          "type": "内心对话型",
+          "angle": "跑不动时两个小人的打架，和说不出口的委屈一样——想坚持、想放弃、不甘心"
+        },
+        {
+          "type": "跑步类比型",
+          "angle": "委屈和苦闷找不到人懂？就像只有跑过步的人才知道什么叫跑不动的绝望"
+        },
+        {
+          "type": "金句型短平快",
+          "angle": "有些情绪，跑10公里就懂了。不是跑完了就没了，是跑的时候你真的感受到了（6秒极速版）"
+        }
+      ],
+      "usedAngles": [],
+      "scriptReady": false,
+      "source": "峰峰口述",
+      "photos": [],
+      "rawFile": "shared/materials/material-24-委屈苦闷和跑步的挣扎.md",
+      "priority": "P0",
+      "direction": "待账号综合诊断结果定方向",
+      "nextAction": "direction待定——峰峰说需等账号综合诊断结果定方向。素材已入库，可在脚本生成器需要时调用。",
+      "notes": [
+        "2026-07-29 13:29 峰峰口述入库（direction留空待定）"
+      ],
+      "createdAt": "2026-07-29T13:29:00+08:00",
+      "microscriptsExtracted": false
     }
   ],
   "account": {
@@ -2026,6 +2067,407 @@
         "netFans": 0,
         "unfans": 0,
         "totalFans": 52
+      }
+    },
+    "videos": [
+      {
+        "workId": "7669410965569473807",
+        "title": "赢是本事，扛是修行，跑过的人觉得对么？",
+        "duration": 15,
+        "publishDate": "2026-08-04",
+        "plays": 372,
+        "likes": 11,
+        "comments": 5,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7669399166983982363",
+        "title": "7年前走几十米就喘，如今呢？",
+        "duration": 14,
+        "publishDate": "2026-08-02",
+        "plays": 84,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7667910625472957696",
+        "title": "心里的憋屈真的能说出来的？真的憋屈我是无法用言语形容的",
+        "duration": 21,
+        "publishDate": "2026-07-30",
+        "plays": 187,
+        "likes": 3,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7667240381334981915",
+        "title": "低谷时有人跟我说的话，到现在我还记得",
+        "duration": 55,
+        "publishDate": "2026-07-28",
+        "plays": 197,
+        "likes": 4,
+        "comments": 3,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7666354236413857024",
+        "title": "三伏天厌跑了？试试这些方法",
+        "duration": 75,
+        "publishDate": "2026-07-25",
+        "plays": 281,
+        "likes": 6,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7665375182738951424",
+        "title": "你吃过爱算计的人的亏没？我吃过",
+        "duration": 12,
+        "publishDate": "2026-07-23",
+        "plays": 145,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7664991659817504041",
+        "title": "普通人跑了7年，会记住什么数字？",
+        "duration": 13,
+        "publishDate": "2026-07-22",
+        "plays": 650,
+        "likes": 108,
+        "comments": 11,
+        "shares": 2,
+        "saves": 24
+      },
+      {
+        "workId": "7664613069464538387",
+        "title": "我妈那句话，30年后我才听懂",
+        "duration": 13,
+        "publishDate": "2026-07-21",
+        "plays": 128,
+        "likes": 6,
+        "comments": 5,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7664244163130494250",
+        "title": "40了，除了柴米油盐，心里那点火还在吗？",
+        "duration": 11,
+        "publishDate": "2026-07-20",
+        "plays": 663,
+        "likes": 11,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7664189948525841710",
+        "title": "三伏天出门跑步前，俩小人先干了一架你猜谁赢了？",
+        "duration": 12,
+        "publishDate": "2026-07-19",
+        "plays": 1135,
+        "likes": 7,
+        "comments": 5,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7663757512897826088",
+        "title": "老好人是不是都这么傻？我第N次被自己整笑了",
+        "duration": 10,
+        "publishDate": "2026-07-18",
+        "plays": 1624,
+        "likes": 9,
+        "comments": 1,
+        "shares": 0,
+        "saves": 1
+      },
+      {
+        "workId": "7663138275938290979",
+        "title": "被说换了个老伴儿，这评价我收了",
+        "duration": 14,
+        "publishDate": "2026-07-17",
+        "plays": 251,
+        "likes": 5,
+        "comments": 1,
+        "shares": 0,
+        "saves": 1
+      },
+      {
+        "workId": "7662754634871622921",
+        "title": "我买菜加油都在凑整，没救了",
+        "duration": 11,
+        "publishDate": "2026-07-16",
+        "plays": 271,
+        "likes": 5,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7662392885433732403",
+        "title": "凭啥觉得自己不如人？",
+        "duration": 11,
+        "publishDate": "2026-07-15",
+        "plays": 2687,
+        "likes": 17,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7662351797020806438",
+        "title": "多跑几公里，就为了不折返？",
+        "duration": 11,
+        "publishDate": "2026-07-14",
+        "plays": 861,
+        "likes": 13,
+        "comments": 6,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7661660845058952457",
+        "title": "跑了7年还没跑明白，数据到底重不重要？",
+        "duration": 13,
+        "publishDate": "2026-07-13",
+        "plays": 3318,
+        "likes": 44,
+        "comments": 5,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7661502246579981602",
+        "title": "刚跑了两天，就有人说你",
+        "duration": 15,
+        "publishDate": "2026-07-12",
+        "plays": 8278,
+        "likes": 24,
+        "comments": 33,
+        "shares": 2,
+        "saves": 4
+      },
+      {
+        "workId": "7660536616540179738",
+        "title": "跟人吵了一架，突然发现跟跑崩了那会儿一模一样",
+        "duration": 17,
+        "publishDate": "2026-07-10",
+        "plays": 312,
+        "likes": 10,
+        "comments": 1,
+        "shares": 0,
+        "saves": 2
+      },
+      {
+        "workId": "7659941549324782882",
+        "title": "跑着跑着，突然不想跑了，不是因为累",
+        "duration": 13,
+        "publishDate": "2026-07-08",
+        "plays": 617,
+        "likes": 20,
+        "comments": 11,
+        "shares": 0,
+        "saves": 2
+      },
+      {
+        "workId": "7659445284631498038",
+        "title": "想了一天没想起来，跑着步突然愣住",
+        "duration": 18,
+        "publishDate": "2026-07-07",
+        "plays": 505,
+        "likes": 4,
+        "comments": 3,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7659066788935781667",
+        "title": "去跑步出门前几分钟，你纠结过没？",
+        "duration": 13,
+        "publishDate": "2026-07-06",
+        "plays": 594,
+        "likes": 12,
+        "comments": 1,
+        "shares": 0,
+        "saves": 1
+      },
+      {
+        "workId": "7658958292995083547",
+        "title": "40岁的人， 一个月只有5个粉丝，意味着什么？",
+        "duration": 28,
+        "publishDate": "2026-07-05",
+        "plays": 2922,
+        "likes": 61,
+        "comments": 6,
+        "shares": 1,
+        "saves": 9
+      },
+      {
+        "workId": "7657564892358004003",
+        "title": "夸别人很容易，夸自己很难",
+        "duration": 7,
+        "publishDate": "2026-07-04",
+        "plays": 372,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7657562712406232362",
+        "title": "我总觉得一句不行，关系就变了",
+        "duration": 9,
+        "publishDate": "2026-07-03",
+        "plays": 327,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7657533141355138323",
+        "title": "是怕关心你的人担心?还是说了也没用?",
+        "duration": 10,
+        "publishDate": "2026-07-02",
+        "plays": 521,
+        "likes": 18,
+        "comments": 3,
+        "shares": 0,
+        "saves": 6
+      },
+      {
+        "workId": "7657522947581693230",
+        "title": "换别人可能就过去了，我不行",
+        "duration": 10,
+        "publishDate": "2026-07-01",
+        "plays": 314,
+        "likes": 12,
+        "comments": 1,
+        "shares": 0,
+        "saves": 4
+      },
+      {
+        "workId": "7656448093562359059",
+        "title": "那把镰刀，一开始我就没整明白",
+        "duration": 9,
+        "publishDate": "2026-06-29",
+        "plays": 3575,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7656360781860080948",
+        "title": "掰不动苞米，杵那干着急",
+        "duration": 11,
+        "publishDate": "2026-06-28",
+        "plays": 234,
+        "likes": 3,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7655341123203878163",
+        "title": "你没说，后来就成应该做的了",
+        "duration": 8,
+        "publishDate": "2026-06-26",
+        "plays": 384,
+        "likes": 1,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7655296840618757385",
+        "title": "那句“不”，最后我说成了“行吧”",
+        "duration": 11,
+        "publishDate": "2026-06-25",
+        "plays": 1165,
+        "likes": 4,
+        "comments": 19,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7653336103872761130",
+        "title": "妈妈那句话，成了我心底的结",
+        "duration": 18,
+        "publishDate": "2026-06-20",
+        "plays": 3220,
+        "likes": 11,
+        "comments": 16,
+        "shares": 1,
+        "saves": 0
+      },
+      {
+        "workId": "7653098347707796782",
+        "title": "中考差的这1分，我用了快三十年还在想",
+        "duration": 14,
+        "publishDate": "2026-06-19",
+        "plays": 1012,
+        "likes": 16,
+        "comments": 7,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7652370440849001778",
+        "title": "40岁，敢停下来吗？",
+        "duration": 12,
+        "publishDate": "2026-06-17",
+        "plays": 273,
+        "likes": 2,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7652002703467416875",
+        "title": "我上一条说错了，中年人的坚持不是一直硬撑",
+        "duration": 10,
+        "publishDate": "2026-06-16",
+        "plays": 262,
+        "likes": 4,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "workId": "7650868050232675618",
+        "title": "3张旧照片，和40的我一起重启人生 三张旧照片，看清我的中年蜕变。40 岁选择重新出发，生活路上，遇见更好的自己。",
+        "duration": 36,
+        "publishDate": "2026-06-13",
+        "plays": 161,
+        "likes": 1,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      }
+    ],
+    "lastFetch": "2026-08-05T23:32:52+08:00",
+    "overview": {
+      "fetchTime": "2026-08-05T23:32:52+08:00",
+      "source": "creator.douyin.com work_list API (Mac)",
+      "overview": {
+        "totalWorks": 35,
+        "publicWorks": 35,
+        "totalPlays": 37902,
+        "totalLikes": 470,
+        "totalComments": 163,
+        "totalShares": 6,
+        "avgPlaysPerWork": 1082.9
       }
     }
   },
@@ -3702,10 +4144,26 @@
     "lastUpdated": "2026-07-28",
     "totalEntries": 4,
     "entries": [
-      {"id": "A_001", "camera": "A", "path": "shared/video-library/A_001/clip.mp4"},
-      {"id": "B_001", "camera": "B", "path": "shared/video-library/B_001/clip.mp4"},
-      {"id": "C_001", "camera": "C", "path": "shared/video-library/C_001/clip.mp4"},
-      {"id": "D_001", "camera": "D", "path": "shared/video-library/D_001/clip.jpg"}
+      {
+        "id": "A_001",
+        "camera": "A",
+        "path": "shared/video-library/A_001/clip.mp4"
+      },
+      {
+        "id": "B_001",
+        "camera": "B",
+        "path": "shared/video-library/B_001/clip.mp4"
+      },
+      {
+        "id": "C_001",
+        "camera": "C",
+        "path": "shared/video-library/C_001/clip.mp4"
+      },
+      {
+        "id": "D_001",
+        "camera": "D",
+        "path": "shared/video-library/D_001/clip.jpg"
+      }
     ]
   }
 }
