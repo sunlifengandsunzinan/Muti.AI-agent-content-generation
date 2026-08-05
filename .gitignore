@@ -27,6 +27,11 @@ __pycache__/
 *.pyc
 tmp/
 
+# 大体积素材/工具目录（禁止提交，会导致GitHub push被拒）
+shared/video-library/
+shared/capcut-mate/
+shared/capcut-mate-main.zip
+
 # Sensitive
 TOOLS.md
 MEMORY.md
